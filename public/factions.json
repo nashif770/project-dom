@@ -1,0 +1,35 @@
+{
+  "name": "Republic of Solara",
+  "ruling_system": "Representative Democracy",
+  "inspiration": "United States of America",
+  "description": "A democratic nation valuing individual rights and technological advancement, often criticized for its imperialist tendencies.",
+  "history": {
+    "founding_event": "The Great Unification",
+    "key_events": ["The Solar Wars", "The Technological Renaissance"]
+  },
+  "culture": {
+    "values": ["liberty", "equality", "opportunity"],
+    "customs": ["annual elections", "free speech"]
+  },
+  "military": {
+    "strength": "moderate",
+    "tactics": "balanced"
+  },
+  "economy": {
+    "primary_industries": ["technology", "trade"],
+    "currency": "Solar Credit"
+  },
+  "diplomacy": {
+    "allies": ["Free Systems Confederation"],
+    "rivals": ["Imperial Dynasty of Erythia"]
+  },
+  "technology": {
+    "level": "advanced",
+    "specializations": ["energy weapons", "artificial intelligence"]
+  },
+  "unique_features": ["advanced medical technology", "powerful space fleets"],
+  "negative_traits": [
+    "Imperialist tendencies: A history of exploiting weaker nations for resources and strategic advantage.",
+    "Corporate influence: Powerful corporations often wield significant political influence, sometimes at the expense of the common good."
+  ]
+}

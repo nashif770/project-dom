@@ -1,0 +1,170 @@
+{
+  "factions": {
+    "democracy": [
+      {
+        "Id": "1",
+        "name": "The Republic of Solara",
+        "System of Government": "Democracy",
+        "rulingSystem": "Representative Democracy",
+        "inspiredBy": "United States of America (USA)",
+        "description": "A faction that upholds individual rights, innovation, and technological growth through a system where citizens elect representatives."
+      },
+      {
+        "Id": "2",
+        "name": "The Free Systems Confederation",
+        "System of Government": "Democracy",
+        "rulingSystem": "Direct Democracy/Confederation",
+        "inspiredBy": "Switzerland",
+        "description": "Known for its direct democracy and decentralized governance, this faction emphasizes citizen participation in decision-making."
+      },
+      {
+        "Id": "3",
+        "name": "The Alliance of Horizons",
+        "System of Government": "Democracy",
+        "rulingSystem": "Federal Republic",
+        "inspiredBy": "Germany",
+        "description": "A faction with a federal structure balancing power between national and regional states, fostering unity and diversity."
+      }
+    ],
+    "monarchy": [
+      {
+        "Id": "4",
+        "name": "The Imperial Dynasty of Erythia",
+        "System of Government": "Monarchy",
+        "rulingSystem": "Absolute Monarchy",
+        "inspiredBy": "France (Ancient)",
+        "description": "A faction ruled by a sovereign with supreme authority, reflecting the grandeur of France's monarchy under Louis XIV."
+      },
+      {
+        "Id": "5",
+        "name": "The Sovereign Star Kingdom",
+        "System of Government": "Monarchy",
+        "rulingSystem": "Constitutional Monarchy",
+        "inspiredBy": "United Kingdom",
+        "description": "A monarchy where the royal family holds symbolic power while a parliamentary system governs the nation."
+      },
+      {
+        "Id": "6",
+        "name": "The Solar Dominion",
+        "System of Government": "Monarchy",
+        "rulingSystem": "Feudal Monarchy",
+        "inspiredBy": "Japan (Feudal Era)",
+        "description": "A hierarchical society where the emperor holds symbolic power while regional lords govern independently."
+      }
+    ],
+    "communist": [
+      {
+        "Id": "7",
+        "name": "The Red Star Collective",
+        "System of Government": "Communist",
+        "rulingSystem": "Communist Party Rule",
+        "inspiredBy": "Soviet Union",
+        "description": "A faction controlled by a central Communist Party aiming to suppress class divisions and centralize governance."
+      },
+      {
+        "Id": "8",
+        "name": "The Proletariat Union",
+        "System of Government": "Communist",
+        "rulingSystem": "Communist State",
+        "inspiredBy": "China",
+        "description": "Inspired by China's one-party state, focusing on collective and industrial efforts under strict state control."
+      }
+    ],
+    "authoritarian": [
+      {
+        "Id": "9",
+        "name": "The Dominion of Vahra",
+        "System of Government": "Authoritarian",
+        "rulingSystem": "Military Dictatorship",
+        "inspiredBy": "North Korea",
+        "description": "A totalitarian regime controlled through military power, surveillance, and absolute authority."
+      },
+      {
+        "Id": "10",
+        "name": "The New Order of Vel'ka",
+        "System of Government": "Authoritarian",
+        "rulingSystem": "One-Party State",
+        "inspiredBy": "Soviet Union (Stalin Era)",
+        "description": "A ruthless one-party state with total control over public and political life."
+      },
+      {
+        "Id": "11",
+        "name": "The Supreme Dominion of Tyrath",
+        "System of Government": "Authoritarian",
+        "rulingSystem": "Autocracy",
+        "inspiredBy": "Saudi Arabia",
+        "description": "A faction ruled by a singular authority with a focus on centralized control and minimal political freedoms."
+      }
+    ],
+    "oligarchy": [
+      {
+        "Id": "12",
+        "name": "The Merchant Guild of Xeros",
+        "System of Government": "Oligarchy",
+        "rulingSystem": "Oligarchy (Merchant Class)",
+        "inspiredBy": "Venetian Republic",
+        "description": "Controlled by wealthy merchant families who dominate trade and wield economic power."
+      },
+      {
+        "Id": "13",
+        "name": "The Councils of Aether",
+        "System of Government": "Oligarchy",
+        "rulingSystem": "Oligarchy (Council)",
+        "inspiredBy": "Ancient Sparta",
+        "description": "A small elite group governs this faction, emphasizing military and social control."
+      }
+    ],
+    "theocracy": [
+      {
+        "Id": "14",
+        "name": "The Celestial Synod of Arcanis",
+        "System of Government": "Theocracy",
+        "rulingSystem": "Theocratic Monarchy",
+        "inspiredBy": "Ancient Egypt",
+        "description": "Combines political and divine authority, where rulers are seen as gods."
+      },
+      {
+        "Id": "15",
+        "name": "The Holy Empire of Solaris",
+        "System of Government": "Theocracy",
+        "rulingSystem": "Theocratic Empire",
+        "inspiredBy": "The Papal States",
+        "description": "A faction where religious leaders hold both spiritual and political power over vast territories."
+      },
+      {
+        "Id": "16",
+        "name": "The Order of the Eternal Flame",
+        "System of Government": "Theocracy",
+        "rulingSystem": "Theocratic Council",
+        "inspiredBy": "Medieval Europe (Catholic Church)",
+        "description": "Governed by a council of clergy, decisions are guided by divine will and religious doctrines."
+      }
+    ],
+    "federalism": [
+      {
+        "Id": "17",
+        "name": "The Federation of Solaris",
+        "System of Government": "Federalism",
+        "rulingSystem": "Federal Republic",
+        "inspiredBy": "United States of America (USA)",
+        "description": "A federation uniting diverse states with significant autonomy under a central government."
+      },
+      {
+        "Id": "18",
+        "name": "The Stellar Confederation",
+        "System of Government": "Federalism",
+        "rulingSystem": "Federal Confederation",
+        "inspiredBy": "Switzerland",
+        "description": "A loose union of semi-autonomous regions that collaborate on shared issues."
+      },
+      {
+        "Id": "19",
+        "name": "The United Systems of Althera",
+        "System of Government": "Federalism",
+        "rulingSystem": "Federal Union",
+        "inspiredBy": "India",
+        "description": "A federation of states united under a single constitution while retaining significant independence."
+      }
+    ]
+  }
+}
