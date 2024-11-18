@@ -1,0 +1,4593 @@
+[
+  {
+    "id": "01",
+    "name": "Coalition of Nova States",
+    "description": "A technologically advanced and militarily dominant faction, spearheading innovation and galactic exploration.",
+    "tagline": "Pioneers of Progress",
+    "icon": "/assets/factions/coalition_of_nova_states.png",
+    "region": "North America",
+    "country": "United States",
+    "rulingSystem": "Federal Technocracy",
+    "corePhilosophy": "Innovation, individual liberty, and strategic dominance.",
+    "leader": "Supreme Chancellor Alexandria Carter",
+    "influence": 35.8,
+    "strengths": [
+      "Cutting-edge technology",
+      "Strong industrial and military base",
+      "Dominance in AI and quantum computing"
+    ],
+    "weaknesses": [
+      "Over-reliance on technology",
+      "Resource-intensive governance",
+      "Tendency towards isolationism"
+    ],
+    "uniqueAbilities": [
+      "AI-enhanced fleet coordination",
+      "Rapid technological prototyping"
+    ],
+    "population": 50000000000,
+    "species": ["Humans", "Augmentoids"],
+    "diversity": {
+      "Humans": 90,
+      "Augmentoids": 10
+    },
+    "homeworld": "New Washington Prime",
+    "controlledRegions": ["Sol System", "Andromeda Outposts"],
+    "territorialSize": 15,
+    "resources": ["Neutronium", "Quantum Cores", "Rare Earth Metals"],
+    "allies": ["Dominion of Polaris", "Free Systems Confederation"],
+    "rivals": ["Eastern Stellar Empire", "Red Star Collective"],
+    "neutral": ["Merchant Guild of Xeros"],
+    "primaryExports": [
+      "Advanced technology",
+      "Military hardware",
+      "Energy solutions"
+    ],
+    "primaryImports": ["Exotic materials", "Bio-engineered products"],
+    "currency": "Galactic Credits",
+    "fleetSize": 1800,
+    "specialUnits": ["AI-Operated Dreadnoughts", "Quantum Stealth Fighters"],
+    "defensiveCapabilities": [
+      "Planetary Shield Networks",
+      "Orbital Defense Platforms"
+    ],
+    "culturalValues": ["Liberty", "Innovation", "Leadership", "Self-reliance"],
+    "languages": ["Neo-English"],
+    "history": "The Coalition of Nova States emerged from the collapse of Earth's unified governance, maintaining a legacy of technological prowess and democratic ideals.",
+    "religion": {
+      "dominantBeliefs": "Secular governance with respect for individual belief systems.",
+      "philosophicalMovements": [
+        {
+          "name": "The Church of Stellar Unity",
+          "adherents": 25,
+          "focus": "The spiritual connection between humanity and the cosmos."
+        },
+        {
+          "name": "The Rationalist Order",
+          "adherents": 50,
+          "focus": "Logic, science, and the pursuit of universal truths."
+        },
+        {
+          "name": "Technotheism",
+          "adherents": 15,
+          "focus": "Worship of advanced AI and technological evolution."
+        }
+      ],
+      "minorReligions": [
+        "Neo-Christianity",
+        "Cosmic Taoism",
+        "Post-Human Mysticism"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Technological Transcendence",
+        "Libertarian Futurism"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Dr. Alaric Vonn",
+          "works": ["The Digital Soul", "Manifesto of Post-Human Liberty"]
+        },
+        {
+          "name": "Asha Renwick",
+          "works": ["The Stellar Compact", "Ethics in the Machine Age"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides access to advanced technology and military support.",
+      "adversary": "A powerful opponent with overwhelming technological and military resources."
+    },
+    "aiBehavior": {
+      "diplomatic": "Favors alliances with technologically advanced factions.",
+      "strategic": "Focuses on securing resources and technological dominance.",
+      "combat": "Relies on precision strikes and overwhelming firepower.",
+      "negative": {
+        "arrogance": "Underestimates the resourcefulness of rivals.",
+        "overextension": "Can become strained in prolonged conflicts."
+      }
+    },
+    "negativeTraits": {
+      "techDependency": "Vulnerable to technological sabotage.",
+      "isolationistTendencies": "Reluctant to fully integrate with broader coalitions."
+    }
+  },
+  {
+    "id": "02",
+    "name": "Dominion of Polaris",
+    "description": "A resource-rich faction renowned for its diplomacy, cultural preservation, and sustainability-focused technological advancements.",
+    "tagline": "Unity Through Balance",
+    "icon": "/assets/factions/dominion_of_polaris.png",
+    "region": "North America",
+    "country": "Canada",
+    "rulingSystem": "Constitutional Technocracy",
+    "corePhilosophy": "Harmony between technological progress and environmental sustainability.",
+    "leader": "Prime Minister Astrid Laurent",
+    "influence": 22.5,
+    "strengths": [
+      "Abundant natural resources",
+      "Strong diplomatic reputation",
+      "Advanced eco-tech industries"
+    ],
+    "weaknesses": [
+      "Limited military strength",
+      "Reliance on alliances for defense",
+      "Resource management challenges"
+    ],
+    "uniqueAbilities": [
+      "Eco-friendly planetary development",
+      "Enhanced diplomatic negotiation success"
+    ],
+    "population": 30000000000,
+    "species": ["Humans", "Bio-Integrates"],
+    "diversity": {
+      "Humans": 85,
+      "Bio-Integrates": 15
+    },
+    "homeworld": "Polaris Terra",
+    "controlledRegions": ["Polaris Sector", "Arctic Fringe"],
+    "territorialSize": 10,
+    "resources": [
+      "Exotic Minerals",
+      "Hydrogen Ice",
+      "Renewable Energy Crystals"
+    ],
+    "allies": ["Coalition of Nova States", "Alliance of Equinox"],
+    "rivals": ["Red Star Collective", "Eastern Stellar Empire"],
+    "neutral": ["Merchant Guild of Xeros"],
+    "primaryExports": [
+      "Eco-technology",
+      "Renewable energy",
+      "Processed minerals"
+    ],
+    "primaryImports": ["Advanced AI systems", "Food products"],
+    "currency": "Polaris Credits",
+    "fleetSize": 800,
+    "specialUnits": ["Aurora-Class Eco-Destroyers", "Polar Guardian Drones"],
+    "defensiveCapabilities": [
+      "Climate-Controlled Shields",
+      "Orbital Resource Scanners"
+    ],
+    "culturalValues": [
+      "Inclusivity",
+      "Environmental Stewardship",
+      "Cooperation",
+      "Cultural Preservation"
+    ],
+    "languages": ["Neo-English", "Neo-French"],
+    "history": "The Dominion of Polaris emerged as a leading force in galactic diplomacy and eco-technological innovation after the Terra Accord era.",
+    "religion": {
+      "dominantBeliefs": "A balanced mix of secularism and spiritual reverence for nature.",
+      "philosophicalMovements": [
+        {
+          "name": "The Order of the Frozen Flame",
+          "adherents": 30,
+          "focus": "Harmony between humanity and the natural universe."
+        },
+        {
+          "name": "Eco-Spiritualism",
+          "adherents": 40,
+          "focus": "Respecting life cycles and planetary ecosystems."
+        },
+        {
+          "name": "Technotheism",
+          "adherents": 20,
+          "focus": "Belief in technological unity with nature."
+        }
+      ],
+      "minorReligions": ["Cosmic Shamanism", "Aurora Mysticism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Eco-Technological Harmony",
+        "Cultural Inclusivity"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Dr. Eleanor Frost",
+          "works": ["The Green Beyond", "Balancing Progress and Preservation"]
+        },
+        {
+          "name": "Aurélien Grenier",
+          "works": [
+            "Diplomatic Frontiers",
+            "Cultural Integration in the Cosmos"
+          ]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides eco-friendly technology and strong diplomatic backing.",
+      "adversary": "Defends its territory with advanced defensive systems and resource denial tactics."
+    },
+    "aiBehavior": {
+      "diplomatic": "Actively seeks alliances and mediates conflicts.",
+      "strategic": "Prioritizes resource preservation and sustainable expansion.",
+      "combat": "Focuses on defensive engagements and attrition warfare.",
+      "negative": {
+        "passivity": "Avoids offensive actions even when necessary.",
+        "resource-dependency": "Vulnerable to resource blockades."
+      }
+    },
+    "negativeTraits": {
+      "militaryWeakness": "Lacks offensive military capabilities.",
+      "over-dependence": "Relies heavily on allies for defense."
+    }
+  },
+  {
+    "id": "03",
+    "name": "Empire of Sol-Tenochtitlán",
+    "description": "A vibrant faction combining ancient traditions with cutting-edge trade networks, thriving as a cultural and economic powerhouse.",
+    "tagline": "Tradition in Innovation",
+    "icon": "/assets/factions/sol_tenochtitlan.png",
+    "region": "North America",
+    "country": "Mexico",
+    "rulingSystem": "Cultural Meritocracy",
+    "corePhilosophy": "Preserving heritage while pioneering interstellar trade.",
+    "leader": "Emperor Xolotl Ahuítzotl",
+    "influence": 24.8,
+    "strengths": [
+      "Dominance in interstellar trade",
+      "Rich cultural influence",
+      "Adaptive economic strategies"
+    ],
+    "weaknesses": [
+      "Internal cultural divisions",
+      "Over-dependence on trade routes",
+      "Limited defensive capabilities"
+    ],
+    "uniqueAbilities": [
+      "Trade route optimization",
+      "Cultural influence increases loyalty on occupied worlds"
+    ],
+    "population": 40000000000,
+    "species": ["Humans", "Xochitlans"],
+    "diversity": {
+      "Humans": 90,
+      "Xochitlans": 10
+    },
+    "homeworld": "Tenochtitlán Prime",
+    "controlledRegions": ["Aztec Spiral", "Mesoamerican Belt"],
+    "territorialSize": 15,
+    "resources": ["Rare Artifacts", "Exotic Spices", "Trade Commodities"],
+    "allies": ["Coalition of Nova States", "Dominion of Polaris"],
+    "rivals": ["Red Star Collective", "Eastern Stellar Empire"],
+    "neutral": ["Merchant Guild of Xeros"],
+    "primaryExports": [
+      "Luxury goods",
+      "Artisan technologies",
+      "High-value agricultural products"
+    ],
+    "primaryImports": ["Raw metals", "Advanced energy systems"],
+    "currency": "Obsidian Credits",
+    "fleetSize": 1000,
+    "specialUnits": ["Eagle Knight Warships", "Jaguar Mercenary Squads"],
+    "defensiveCapabilities": [
+      "Cultural Nexus Shields",
+      "Tradition-Routed Orbital Networks"
+    ],
+    "culturalValues": [
+      "Cultural Pride",
+      "Economic Excellence",
+      "Community-Oriented Leadership",
+      "Heritage Preservation"
+    ],
+    "languages": ["Neo-Nahuatl", "Neo-Spanish"],
+    "history": "The Empire of Sol-Tenochtitlán arose as a cultural and economic juggernaut, blending ancient Mesoamerican values with modern interstellar innovation.",
+    "religion": {
+      "dominantBeliefs": "A syncretic blend of ancient Mesoamerican spirituality and modern cosmic awareness.",
+      "philosophicalMovements": [
+        {
+          "name": "Order of the Sun Stone",
+          "adherents": 35,
+          "focus": "Cultural cycles and cosmic alignment."
+        },
+        {
+          "name": "Teotl Revivalism",
+          "adherents": 40,
+          "focus": "Worship of cosmic forces and Mesoamerican deities."
+        },
+        {
+          "name": "Harmony of Tlaloc",
+          "adherents": 20,
+          "focus": "Water-based planetary preservation."
+        }
+      ],
+      "minorReligions": ["Solar Shamanism", "Lunar Devotion"]
+    },
+    "philosophy": {
+      "dominantIdeologies": ["Trade Diplomacy", "Cultural Preservation"],
+      "keyPhilosophers": [
+        {
+          "name": "Tlacaelel Solara",
+          "works": ["Echoes of the Sun", "Trade as Power"]
+        },
+        {
+          "name": "Itzpapalotl Vega",
+          "works": ["The Jaguar Path", "Balancing Tradition and Growth"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Access to robust trade networks and cultural bonuses.",
+      "adversary": "Disrupts enemy economies and influences local populations."
+    },
+    "aiBehavior": {
+      "diplomatic": "Aggressively forms trade pacts and cultural exchanges.",
+      "strategic": "Prioritizes economic expansion and cultural assimilation.",
+      "combat": "Uses mercenary units and trade-based sabotage tactics.",
+      "negative": {
+        "trade-reliance": "Economically crippled by trade blockades.",
+        "internal-divisions": "Struggles with factional cohesion during crises."
+      }
+    },
+    "negativeTraits": {
+      "economicDependence": "Highly vulnerable to disruptions in trade.",
+      "culturalConflict": "Occasional unrest due to cultural diversity."
+    }
+  },
+  {
+    "id": "04",
+    "name": "Confederation of Meso-Stellar Realms",
+    "description": "A coalition of smaller but resourceful nations, united to protect their sovereignty and enhance their collective influence.",
+    "tagline": "Unity in Diversity, Strength in Collaboration",
+    "icon": "/assets/factions/meso_stellar_realms.png",
+    "region": "North America",
+    "countries": [
+      "Guatemala",
+      "Honduras",
+      "El Salvador",
+      "Nicaragua",
+      "Costa Rica",
+      "Panama",
+      "Caribbean States"
+    ],
+    "rulingSystem": "Cooperative Federation",
+    "corePhilosophy": "Mutual defense, resource sharing, and cultural exchange.",
+    "leader": "Councilor Maya Ixchel",
+    "influence": 15.7,
+    "strengths": [
+      "Resource-rich asteroid colonies",
+      "Resilient trade networks",
+      "Cultural adaptability"
+    ],
+    "weaknesses": [
+      "Decentralized governance",
+      "Limited military presence",
+      "Dependence on larger factions"
+    ],
+    "uniqueAbilities": [
+      "Resource pooling for rapid recovery",
+      "Enhanced trade resilience"
+    ],
+    "population": 25000000000,
+    "species": ["Humans", "Neo-Caribbeans", "Tierraforms"],
+    "diversity": {
+      "Humans": 70,
+      "Neo-Caribbeans": 20,
+      "Tierraforms": 10
+    },
+    "homeworld": "Harmonia Prime",
+    "controlledRegions": ["Meso Belt", "Caribbean Cluster"],
+    "territorialSize": 8,
+    "resources": ["Tropical Bio-Plasm", "Exotic Alloys", "Aquatic Flora"],
+    "allies": ["Empire of Sol-Tenochtitlán", "Coalition of Nova States"],
+    "rivals": ["Eastern Stellar Empire", "Red Star Collective"],
+    "neutral": ["Merchant Guild of Xeros"],
+    "primaryExports": [
+      "Exotic bio-resources",
+      "Specialized crafts",
+      "Agricultural products"
+    ],
+    "primaryImports": ["Advanced weaponry", "Energy systems"],
+    "currency": "Harmonic Credits",
+    "fleetSize": 600,
+    "specialUnits": ["Caribbean Privateer Squads", "Mesoan Shield Drones"],
+    "defensiveCapabilities": [
+      "Decentralized Orbital Defenses",
+      "Shared Shield Arrays"
+    ],
+    "culturalValues": [
+      "Collective Harmony",
+      "Resilience",
+      "Environmental Stewardship"
+    ],
+    "languages": ["Neo-Spanish", "Carib Creole", "Mesoan Dialects"],
+    "history": "Formed in response to increasing external pressures, the Confederation represents the unity of small nations in their fight for autonomy and shared prosperity.",
+    "religion": {
+      "dominantBeliefs": "Nature-based spirituality with an emphasis on aquatic and celestial harmony.",
+      "philosophicalMovements": [
+        {
+          "name": "Circle of the Seven Oceans",
+          "adherents": 45,
+          "focus": "Celestial and aquatic balance."
+        },
+        {
+          "name": "Harmonic Unionism",
+          "adherents": 30,
+          "focus": "Inter-species cooperation and collective progress."
+        }
+      ],
+      "minorReligions": ["Stellar Animism", "Island Reclamationism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": ["Defensive Neutrality", "Sustainable Development"],
+      "keyPhilosophers": [
+        {
+          "name": "Avelino Harmón",
+          "works": ["Unity Amidst Stars", "Harmony from Chaos"]
+        },
+        {
+          "name": "Kaela Maris",
+          "works": ["The Ocean's Echo", "Resilient Roots"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides access to resilient trade networks and unique bio-resources.",
+      "adversary": "Employs guerrilla tactics and economic disruptions."
+    },
+    "aiBehavior": {
+      "diplomatic": "Focuses on forming defensive alliances and trade agreements.",
+      "strategic": "Prioritizes resource conservation and economic stability.",
+      "combat": "Defensive and guerilla warfare, leveraging environmental advantages.",
+      "negative": {
+        "governance-challenges": "Struggles with decision-making due to decentralized leadership.",
+        "military-weakness": "Lacks large-scale offensive capabilities."
+      }
+    },
+    "negativeTraits": {
+      "internalCoordination": "Decentralized governance slows decision-making.",
+      "resourceDependence": "Vulnerable to resource blockades."
+    }
+  },
+  {
+    "id": "05",
+    "name": "Federation of the Southern Crescent",
+    "description": "A united federation of South American nations with a focus on environmental sustainability, economic power, and regional influence.",
+    "tagline": "Strength Through Unity, Prosperity Through Earth",
+    "icon": "/assets/factions/southern_crescent.png",
+    "region": "South America",
+    "countries": ["Brazil"],
+    "rulingSystem": "Federal Republic",
+    "corePhilosophy": "Environmental stewardship, economic self-sufficiency, and cultural diversity.",
+    "leader": "President Raquel Souza",
+    "influence": 18.5,
+    "strengths": [
+      "Extensive natural resources",
+      "Strong regional leadership",
+      "Rapid industrialization"
+    ],
+    "weaknesses": [
+      "Internal political fragmentation",
+      "Vulnerable to environmental degradation",
+      "Susceptibility to foreign influence"
+    ],
+    "uniqueAbilities": [
+      "Sustainable resource management",
+      "Bio-energy production"
+    ],
+    "population": 220000000,
+    "species": ["Humans", "Humanoids", "Bio-enhanced Creatures"],
+    "diversity": {
+      "Humans": 85,
+      "Humanoids": 10,
+      "Bio-enhanced Creatures": 5
+    },
+    "homeworld": "Earth (Brazil)",
+    "controlledRegions": ["Amazon Belt", "Pantanal System"],
+    "territorialSize": 6,
+    "resources": ["Biofuels", "Exotic Wood", "Rare Earth Minerals"],
+    "allies": [
+      "Confederation of Meso-Stellar Realms",
+      "Coalition of Nova States"
+    ],
+    "rivals": ["Red Star Collective", "Eastern Stellar Empire"],
+    "neutral": ["Merchant Guild of Xeros"],
+    "primaryExports": [
+      "Sustainable energy resources",
+      "Bio-engineered products",
+      "Agricultural commodities"
+    ],
+    "primaryImports": ["Advanced weaponry", "Spacefaring technologies"],
+    "currency": "Crescent Credits",
+    "fleetSize": 850,
+    "specialUnits": ["Amazonian War Drones", "Pantanal Bio-Mechs"],
+    "defensiveCapabilities": [
+      "Orbital Bio-synthesis Towers",
+      "Terraforming Shields"
+    ],
+    "culturalValues": [
+      "Environmental Protection",
+      "Cultural Diversity",
+      "Community Unity"
+    ],
+    "languages": ["Portuguese", "Indigenous Dialects", "Creole"],
+    "history": "Emerging from a united South American federation, Brazil has harnessed its vast resources to become a regional leader focused on sustainability and innovation.",
+    "religion": {
+      "dominantBeliefs": "Spiritualism with a deep connection to nature and ancestral traditions.",
+      "philosophicalMovements": [
+        {
+          "name": "Guardians of the Earth",
+          "adherents": 40,
+          "focus": "Protecting nature and preserving the planet's resources."
+        },
+        {
+          "name": "Unity of Progress",
+          "adherents": 35,
+          "focus": "Balancing modern development with environmental respect."
+        }
+      ],
+      "minorReligions": ["Solar Animism", "Indigenous Revitalism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": ["Sustainable Development", "Economic Nationalism"],
+      "keyPhilosophers": [
+        {
+          "name": "Eduardo Dos Santos",
+          "works": ["Renewing the Crescent", "The Balance of Nature"]
+        },
+        {
+          "name": "Elena Ribeiro",
+          "works": ["Progress Through Harmony", "Guardians of the Future"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides access to abundant natural resources and bio-energy technologies.",
+      "adversary": "Uses advanced bio-mechanics and territorial defenses to dominate adversaries."
+    },
+    "aiBehavior": {
+      "diplomatic": "Seeks to expand its influence through alliances and trade agreements.",
+      "strategic": "Prioritizes defense and resource sustainability, avoiding aggressive expansion.",
+      "combat": "Defensive warfare with a focus on environmental advantages and bio-enhanced units.",
+      "negative": {
+        "political-fragmentation": "Internal political divisions slow down decisions and policy enforcement.",
+        "vulnerability": "Heavily dependent on natural resources, susceptible to environmental changes."
+      }
+    },
+    "negativeTraits": {
+      "politicalFragmentation": "Internal power struggles can lead to delays and mismanagement.",
+      "resourceDependence": "Heavily reliant on natural resources, vulnerable to blockades or environmental shifts."
+    }
+  },
+  {
+    "id": "06",
+    "name": "Republic of the Southern Cross",
+    "description": "A nation of resilient people and vast landscapes, Argentina focuses on industrial growth, military prowess, and cultural leadership in South America.",
+    "tagline": "Strength in Unity, Power Through Innovation",
+    "icon": "/assets/factions/southern_cross.png",
+    "region": "South America",
+    "countries": ["Argentina"],
+    "rulingSystem": "Presidential Republic",
+    "corePhilosophy": "National pride, technological advancement, and regional stability.",
+    "leader": "President Octavio Ferreyra",
+    "influence": 16.2,
+    "strengths": [
+      "Large agricultural sector",
+      "Powerful military infrastructure",
+      "Advanced technological industries"
+    ],
+    "weaknesses": [
+      "Economic instability",
+      "Political polarization",
+      "Limited space for expansion"
+    ],
+    "uniqueAbilities": ["Agricultural Superiority", "Advanced AI Research"],
+    "population": 45000000,
+    "species": ["Humans", "Cyber-enhanced Humans", "Artificial Beings"],
+    "diversity": {
+      "Humans": 90,
+      "Cyber-enhanced Humans": 5,
+      "Artificial Beings": 5
+    },
+    "homeworld": "Earth (Argentina)",
+    "controlledRegions": ["Patagonian Territory", "Andean Belt"],
+    "territorialSize": 4,
+    "resources": ["Soybeans", "Lithium", "Tungsten"],
+    "allies": [
+      "Federation of the Southern Crescent",
+      "Confederation of Meso-Stellar Realms"
+    ],
+    "rivals": ["Red Star Collective", "Eastern Stellar Empire"],
+    "neutral": ["Merchant Guild of Xeros"],
+    "primaryExports": [
+      "Agricultural products",
+      "Tungsten alloys",
+      "Bio-engineered materials"
+    ],
+    "primaryImports": ["Military technology", "Space-faring infrastructure"],
+    "currency": "Southern Cross Credits",
+    "fleetSize": 700,
+    "specialUnits": ["Andean Commandos", "Patagonian Bio-Drones"],
+    "defensiveCapabilities": [
+      "Mountain Fortress Defenses",
+      "AI-based Combat Drones"
+    ],
+    "culturalValues": [
+      "National Pride",
+      "Technological Progress",
+      "Cultural Leadership"
+    ],
+    "languages": ["Spanish", "Mapuche", "Argentinian Creole"],
+    "history": "Emerging from a rich history of struggle and innovation, Argentina has built itself into a regional power with a strong economy and advanced technology sector.",
+    "religion": {
+      "dominantBeliefs": "Secular humanism with a growing presence of technological faiths.",
+      "philosophicalMovements": [
+        {
+          "name": "Progressivism of the Cross",
+          "adherents": 45,
+          "focus": "Technological advancement and national strength."
+        },
+        {
+          "name": "Patagonian Spirit",
+          "adherents": 35,
+          "focus": "Reverence for nature, heritage, and ancestral values."
+        }
+      ],
+      "minorReligions": ["Technological Deification", "Libertarianism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Technological Nationalism",
+        "Military Sovereignty"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Carlos Martínez",
+          "works": ["Future Through Innovation", "The Patriot's Call"]
+        },
+        {
+          "name": "Lucía Fernández",
+          "works": ["Patagonia's Legacy", "Strength in Sovereignty"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides military strength and technological innovations in AI and defense systems.",
+      "adversary": "Uses its powerful military and resource-based advantages to dominate regional politics."
+    },
+    "aiBehavior": {
+      "diplomatic": "Focuses on regional influence and securing technological advancements through alliances.",
+      "strategic": "Prioritizes military expansion and technological superiority, aiming for balanced growth.",
+      "combat": "Powerful conventional warfare, supported by advanced bio-tech and military drones.",
+      "negative": {
+        "economic-instability": "Frequent economic challenges undermine long-term strategic stability.",
+        "internal-conflict": "Political polarization sometimes affects policy decisions and unity."
+      }
+    },
+    "negativeTraits": {
+      "economicInstability": "Frequent fluctuations in the economy limit Argentina's ability to project power sustainably.",
+      "politicalPolarization": "Internal political struggles slow down effective governance."
+    }
+  },
+  {
+    "id": "07",
+    "name": "United Confederation of the Andes",
+    "description": "A federation of resilient and diverse peoples, Colombia is a powerhouse of industrial growth, military strength, and regional influence, focused on maintaining peace and security in South America.",
+    "tagline": "Unity Through Strength, Prosperity Through Innovation",
+    "icon": "/assets/factions/andes_confederation.png",
+    "region": "South America",
+    "countries": ["Colombia"],
+    "rulingSystem": "Confederated Republic",
+    "corePhilosophy": "Security, economic independence, and regional cooperation.",
+    "leader": "President Valentina Rodríguez",
+    "influence": 14.7,
+    "strengths": [
+      "Strategic location with access to both oceans",
+      "Strong military and intelligence services",
+      "Diverse and dynamic economy"
+    ],
+    "weaknesses": [
+      "Ongoing internal conflicts",
+      "Vulnerable to drug trade and organized crime",
+      "Geopolitical tensions with neighbors"
+    ],
+    "uniqueAbilities": [
+      "Mountain Warfare Expertise",
+      "Advanced Intelligence Networks"
+    ],
+    "population": 50000000,
+    "species": ["Humans", "Cyber-enhanced Humans", "AI Constructs"],
+    "diversity": {
+      "Humans": 85,
+      "Cyber-enhanced Humans": 10,
+      "AI Constructs": 5
+    },
+    "homeworld": "Earth (Colombia)",
+    "controlledRegions": ["Andean Highlands", "Caribbean Rim"],
+    "territorialSize": 5,
+    "resources": ["Emeralds", "Coffee", "Petroleum"],
+    "allies": [
+      "Federation of the Southern Crescent",
+      "Coalition of Nova States"
+    ],
+    "rivals": ["Red Star Collective", "Eastern Stellar Empire"],
+    "neutral": ["Merchant Guild of Xeros"],
+    "primaryExports": ["Agricultural products", "Emeralds", "Petroleum"],
+    "primaryImports": ["Military technologies", "Advanced AI systems"],
+    "currency": "Andean Sols",
+    "fleetSize": 550,
+    "specialUnits": ["Andean Rangers", "Caribbean Defense Drones"],
+    "defensiveCapabilities": [
+      "Mountain Fortresses",
+      "Advanced Cyber Intelligence Systems"
+    ],
+    "culturalValues": [
+      "National Unity",
+      "Economic Prosperity",
+      "Cultural Diversity"
+    ],
+    "languages": ["Spanish", "Quechua", "Wayuu"],
+    "history": "Emerging from a complex history of conflict and unity, Colombia has built itself into a stable and prosperous nation, with a focus on defense and economic growth.",
+    "religion": {
+      "dominantBeliefs": "Secular humanism with strong Catholic influence.",
+      "philosophicalMovements": [
+        {
+          "name": "The Andes Doctrine",
+          "adherents": 40,
+          "focus": "Unity and resilience of the Colombian people through strength and unity."
+        },
+        {
+          "name": "Harmony of the Earth",
+          "adherents": 30,
+          "focus": "Balance between industrial growth and environmental conservation."
+        }
+      ],
+      "minorReligions": ["Technological Animism", "Libertarianism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": ["Nationalism", "Technological Progress"],
+      "keyPhilosophers": [
+        {
+          "name": "Luis Rodríguez",
+          "works": ["The Path of Strength", "Unity Through Power"]
+        },
+        {
+          "name": "Carolina Martínez",
+          "works": ["Balance of Growth", "Legacy of the Andes"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides military strength, intelligence networks, and access to key resources such as petroleum and emeralds.",
+      "adversary": "Relies on military intelligence and defensive strategies to dominate adversaries while maintaining regional stability."
+    },
+    "aiBehavior": {
+      "diplomatic": "Focuses on maintaining peace through strong alliances and trade agreements while also protecting its regional interests.",
+      "strategic": "Prioritizes defense and intelligence gathering, aiming to maintain control over critical regions and resources.",
+      "combat": "A strong emphasis on mountain warfare and intelligence warfare, using drones and specialized forces.",
+      "negative": {
+        "internal-conflict": "Political instability and ongoing internal struggles hinder long-term stability.",
+        "external-tensions": "Rivalries with neighboring factions create constant geopolitical tension."
+      }
+    },
+    "negativeTraits": {
+      "internalConflict": "Internal power struggles and organized crime reduce the effectiveness of governance.",
+      "regionalTensions": "Constant geopolitical tensions with neighboring factions affect diplomatic relations and stability."
+    }
+  },
+  {
+    "id": "08",
+    "name": "Union of the Andean States",
+    "description": "A powerful alliance of diverse South American nations, the Union of the Andean States emphasizes unity, economic independence, and military strength. With vast natural resources and a robust economy, this union strives for regional influence, peace, and innovation.",
+    "tagline": "Strength Through Unity, Progress Through Innovation",
+    "icon": "/assets/factions/andes_union.png",
+    "region": "South America",
+    "countries": [
+      "Colombia",
+      "Argentina",
+      "Chile",
+      "Peru",
+      "Ecuador",
+      "Bolivia",
+      "Paraguay",
+      "Uruguay"
+    ],
+    "rulingSystem": "Federated Republic",
+    "corePhilosophy": "National unity, economic growth, technological innovation, and regional stability.",
+    "leader": "President Gabriel Mendoza",
+    "influence": 18.9,
+    "strengths": [
+      "Strategic location with access to the Pacific and Atlantic Oceans",
+      "Abundant natural resources, including lithium, soybeans, and oil",
+      "Unified military and defense capabilities",
+      "Technologically advanced industrial sectors"
+    ],
+    "weaknesses": [
+      "Internal political tensions",
+      "Ongoing economic disparities between member states",
+      "Geopolitical rivalries with neighboring factions"
+    ],
+    "uniqueAbilities": [
+      "Mountain Warfare Expertise",
+      "Resource-based Economic Leverage"
+    ],
+    "population": 215000000,
+    "species": ["Humans", "Cyber-enhanced Humans", "AI Constructs"],
+    "diversity": {
+      "Humans": 85,
+      "Cyber-enhanced Humans": 10,
+      "AI Constructs": 5
+    },
+    "homeworld": "Earth (South America)",
+    "controlledRegions": [
+      "Andean Highlands",
+      "Amazon Basin",
+      "Southern Cone",
+      "Caribbean Rim"
+    ],
+    "territorialSize": 12,
+    "resources": ["Lithium", "Soybeans", "Copper", "Petroleum", "Emeralds"],
+    "allies": [
+      "Federation of the Southern Crescent",
+      "Confederation of Meso-Stellar Realms"
+    ],
+    "rivals": ["Red Star Collective", "Eastern Stellar Empire"],
+    "neutral": ["Merchant Guild of Xeros"],
+    "primaryExports": [
+      "Agricultural products",
+      "Lithium",
+      "Copper",
+      "Petroleum"
+    ],
+    "primaryImports": [
+      "Advanced military technology",
+      "Space-faring infrastructure"
+    ],
+    "currency": "Andean Sols",
+    "fleetSize": 850,
+    "specialUnits": [
+      "Andean Rangers",
+      "Amazonian Guardians",
+      "Patagonian Commandos"
+    ],
+    "defensiveCapabilities": [
+      "Mountain Fortresses",
+      "Cyber Intelligence Networks",
+      "Bio-engineered Defense Drones"
+    ],
+    "culturalValues": [
+      "Unity",
+      "Economic Progress",
+      "Technological Innovation",
+      "Environmental Sustainability"
+    ],
+    "languages": ["Spanish", "Quechua", "Guaraní", "Aymara", "Portuguese"],
+    "history": "Formed from a historical tapestry of conflict, alliances, and cultural diversity, the Union of the Andean States has become a leading power in South America. It represents a blend of industrial prowess, cultural heritage, and military might.",
+    "religion": {
+      "dominantBeliefs": "Secular humanism with significant Catholic influence.",
+      "philosophicalMovements": [
+        {
+          "name": "The Andean Doctrine",
+          "adherents": 35,
+          "focus": "Unity and strength through shared heritage and resources."
+        },
+        {
+          "name": "Harmony with Nature",
+          "adherents": 30,
+          "focus": "Balancing industrial growth with environmental stewardship."
+        }
+      ],
+      "minorReligions": ["Technological Animism", "Social Libertarianism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Nationalism",
+        "Technological Progressivism",
+        "Environmental Stewardship"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Ana Silva",
+          "works": ["Progress Through Unity", "The Andes Manifesto"]
+        },
+        {
+          "name": "Carlos Vázquez",
+          "works": ["The Path of Harmony", "Strength in Diversity"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides military strength, vast resources, and a technological edge in AI and bio-engineering.",
+      "adversary": "Uses economic leverage and military might to maintain regional dominance, often engaging in conflicts to safeguard its influence."
+    },
+    "aiBehavior": {
+      "diplomatic": "Focuses on securing economic trade deals, regional dominance, and technological advancement while ensuring political unity within the federation.",
+      "strategic": "Emphasizes resource control, military strength, and technological superiority, balancing the economic needs of its diverse regions.",
+      "combat": "Prioritizes versatile warfare strategies, including mountain and jungle warfare, supported by advanced defense drones and AI systems.",
+      "negative": {
+        "internal-conflict": "Regional disparities and political tensions occasionally hinder unity and governance.",
+        "economic-inequality": "Economic disparities between member states affect overall cohesion and stability."
+      }
+    },
+    "negativeTraits": {
+      "internalConflict": "Political tensions between member states sometimes slow down decision-making and governance.",
+      "economicInequality": "The wealth and resource distribution is uneven, causing economic imbalances and unrest."
+    }
+  },
+  {
+    "id": "09",
+    "name": "Galactic Union of Germany",
+    "description": "A technologically advanced and politically unified nation, the Galactic Union of Germany values precision, engineering excellence, and strategic diplomacy. Its vast industrial and technological sectors make it a leader in galactic innovation and economic power.",
+    "tagline": "Innovation, Precision, Unity",
+    "icon": "/assets/factions/germany_galactic.png",
+    "region": "Europe",
+    "countries": ["Germany"],
+    "rulingSystem": "Federated Republic",
+    "corePhilosophy": "Technological progress, scientific excellence, and economic integration for galactic prosperity.",
+    "leader": "Chancellor Ingrid Müller",
+    "influence": 22.5,
+    "strengths": [
+      "World-class engineering and technological prowess",
+      "High economic output, with advanced manufacturing capabilities",
+      "Influential role in galactic politics and diplomacy",
+      "Highly efficient military technology"
+    ],
+    "weaknesses": [
+      "Historical geopolitical tensions with neighboring factions",
+      "Dependence on energy imports for advanced manufacturing",
+      "Slow adaptation to shifting political landscapes"
+    ],
+    "uniqueAbilities": [
+      "Advanced Engineering Precision",
+      "Diplomatic Superiority"
+    ],
+    "population": 83000000,
+    "species": ["Humans", "Cyborgs", "Artificial Intelligences"],
+    "diversity": {
+      "Humans": 90,
+      "Cyborgs": 8,
+      "Artificial Intelligences": 2
+    },
+    "homeworld": "Earth (Germany)",
+    "controlledRegions": [
+      "Bavarian Highlands",
+      "Rhine Valley",
+      "Saarland Mining Districts"
+    ],
+    "territorialSize": 5,
+    "resources": [
+      "Silicon",
+      "Aluminum",
+      "Platinum",
+      "Fusion Energy",
+      "Advanced Robotics"
+    ],
+    "allies": ["Galactic Federation of Europe", "Solar Consortium"],
+    "rivals": ["Imperium of the East", "Red Star Collective"],
+    "neutral": ["Intergalactic Trade Coalition"],
+    "primaryExports": [
+      "Robotics",
+      "Automobile Technology",
+      "Advanced Energy Systems",
+      "Chemical Engineering Products"
+    ],
+    "primaryImports": [
+      "Raw materials",
+      "Bio-engineering components",
+      "Agricultural resources"
+    ],
+    "currency": "Galactic Marks",
+    "fleetSize": 1200,
+    "specialUnits": [
+      "Mecha Warriors",
+      "Cybernetic Commandos",
+      "Tactical Engineering Corps"
+    ],
+    "defensiveCapabilities": [
+      "Energy Shield Defense Networks",
+      "Autonomous Combat Drones",
+      "Orbital Defense Platforms"
+    ],
+    "culturalValues": [
+      "Efficiency",
+      "Technological Innovation",
+      "Global Cooperation",
+      "Environmental Sustainability"
+    ],
+    "languages": ["German", "English", "French"],
+    "history": "Formed from a history of scientific advancements, political unity, and strong economic foundations, the Galactic Union of Germany is a dominant force in the galaxy. Its leadership in engineering, technology, and galactic diplomacy gives it a strategic advantage.",
+    "religion": {
+      "dominantBeliefs": "Secular humanism with elements of historical Protestantism.",
+      "philosophicalMovements": [
+        {
+          "name": "The Technological Vision",
+          "adherents": 45,
+          "focus": "Progress through scientific discovery and technological innovation."
+        },
+        {
+          "name": "The Harmony of Society",
+          "adherents": 35,
+          "focus": "Balance between individual freedom and collective responsibility."
+        }
+      ],
+      "minorReligions": ["Technological Transcendence", "Pacifist Syndicalism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Technological Progressivism",
+        "Social Responsibility",
+        "Globalism"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Emil Weber",
+          "works": [
+            "The Path to Technological Harmony",
+            "Advances in Engineering Systems"
+          ]
+        },
+        {
+          "name": "Lena Fischer",
+          "works": ["Unity in Progress", "The Galactic Dream"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides technological leadership, advanced military technology, and a stabilizing presence in galactic politics.",
+      "adversary": "Uses economic power and military technology to dominate trade routes and defend its territorial interests."
+    },
+    "aiBehavior": {
+      "diplomatic": "Focuses on fostering alliances through technological collaboration and strategic economic trade agreements.",
+      "strategic": "Prioritizes military strength and technological superiority while maintaining a careful balance between diplomacy and dominance.",
+      "combat": "Relies on precise and calculated strikes, leveraging advanced robotics and automated systems to overwhelm opponents.",
+      "negative": {
+        "internal-conflict": "Occasionally, internal political debates slow down decision-making, especially on controversial technological advancements.",
+        "economic-dependency": "Overreliance on energy imports can create vulnerabilities in times of galactic unrest."
+      }
+    },
+    "negativeTraits": {
+      "internalConflict": "Political factions within the Union sometimes cause delays in key decisions.",
+      "economicDependency": "Heavy reliance on imported energy and resources makes the Union vulnerable to external trade disruptions."
+    }
+  },
+  {
+    "id": "10",
+    "name": "Galactic Republic of France",
+    "description": "A leader in cultural influence, scientific exploration, and military strategy, the Galactic Republic of France combines the grandeur of its historical legacy with the cutting-edge technologies of the future. Known for its strategic diplomacy and advanced military prowess, France’s cultural values continue to shape its interactions with the galaxy.",
+    "tagline": "Liberty, Equality, Innovation",
+    "icon": "/assets/factions/france_galactic.png",
+    "region": "Europe",
+    "countries": ["France"],
+    "rulingSystem": "Republic",
+    "corePhilosophy": "Advancing liberty, equality, and fraternity while fostering innovation and scientific progress for the good of all sentient beings.",
+    "leader": "President Marie Leclerc",
+    "influence": 19.2,
+    "strengths": [
+      "Cultural influence and diplomatic finesse",
+      "Cutting-edge advancements in space exploration and energy",
+      "Strong military, especially in strategic defense technologies",
+      "Rich historical and philosophical tradition"
+    ],
+    "weaknesses": [
+      "Internal political instability due to ideological differences",
+      "Overreliance on alliances, with occasional vulnerabilities in independent defense",
+      "Geopolitical tensions with neighboring factions"
+    ],
+    "uniqueAbilities": [
+      "Advanced Space Exploration Technologies",
+      "Cultural Diplomacy"
+    ],
+    "population": 67000000,
+    "species": ["Humans", "Cyborgs", "Artificial Intelligences"],
+    "diversity": {
+      "Humans": 85,
+      "Cyborgs": 10,
+      "Artificial Intelligences": 5
+    },
+    "homeworld": "Earth (France)",
+    "controlledRegions": [
+      "Parisian Core",
+      "Provence Nebula",
+      "Normandy Cluster"
+    ],
+    "territorialSize": 6,
+    "resources": [
+      "Deuterium",
+      "Rare Earth Elements",
+      "High-Energy Plasma",
+      "Fusion Catalysts"
+    ],
+    "allies": ["Galactic Federation of Europe", "Solar Consortium"],
+    "rivals": ["Red Star Collective", "Eastern Stellar Empire"],
+    "neutral": ["Merchant Guild of Xeros"],
+    "primaryExports": [
+      "Luxury Goods",
+      "Fusion Energy",
+      "Advanced Spacecraft Components",
+      "Robust Artificial Intelligence Systems"
+    ],
+    "primaryImports": [
+      "Raw Materials",
+      "Biotechnology",
+      "Agricultural Resources"
+    ],
+    "currency": "Galactic Francs",
+    "fleetSize": 1000,
+    "specialUnits": [
+      "Légionnaires Stellaires",
+      "Cybernetic Artillery Corps",
+      "Diplomatic Peacekeepers"
+    ],
+    "defensiveCapabilities": [
+      "Advanced Orbital Defenses",
+      "Autonomous Shield Systems",
+      "Elite Special Forces"
+    ],
+    "culturalValues": [
+      "Liberty",
+      "Equality",
+      "Fraternity",
+      "Scientific Excellence",
+      "Artistic Expression"
+    ],
+    "languages": ["French", "English", "Spanish"],
+    "history": "With a deep historical legacy of revolution, diplomacy, and exploration, the Galactic Republic of France has long been a cultural beacon. From the enlightenment to space exploration, its citizens continue to value liberty, scientific progress, and artistic expression. It has adapted its grand traditions to space-faring society, standing as a pillar of stability and innovation.",
+    "religion": {
+      "dominantBeliefs": "Secularism with philosophical roots in Enlightenment ideals.",
+      "philosophicalMovements": [
+        {
+          "name": "The Enlightened Vision",
+          "adherents": 40,
+          "focus": "Emphasizing rational thought, individual freedoms, and progress."
+        },
+        {
+          "name": "Unity Through Diversity",
+          "adherents": 30,
+          "focus": "Creating a harmonious society through mutual respect and integration."
+        }
+      ],
+      "minorReligions": ["Technological Transcendence", "Cosmic Mysticism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Democratic Socialism",
+        "Technological Progressivism",
+        "Cultural Universalism"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Jean-Pierre Dufresne",
+          "works": ["The Eternal Revolution", "Technological Equality"]
+        },
+        {
+          "name": "Lucie Legrand",
+          "works": ["The Art of the Cosmos", "The New Enlightenment"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides cultural influence, scientific leadership, and strategic defense technologies, often mediating conflicts with diplomatic solutions.",
+      "adversary": "Uses its technological edge, cultural alliances, and military might to secure its place as a dominant player in galactic politics."
+    },
+    "aiBehavior": {
+      "diplomatic": "Prioritizes alliances through cultural diplomacy and technological trade, aiming for peace and stability across the galaxy while projecting soft power.",
+      "strategic": "Balances military readiness with technological exploration and diplomatic engagement, seeking to maintain peace through superior defense technologies.",
+      "combat": "Focuses on strategic, precision-based strikes with an emphasis on technological superiority and elite forces.",
+      "negative": {
+        "internal-conflict": "Occasional political disagreements and unrest due to ideological diversity, particularly on matters of military involvement.",
+        "economic-dependence": "Dependence on imports for certain key resources could leave it vulnerable during galactic crises."
+      }
+    },
+    "negativeTraits": {
+      "internalConflict": "Internal political instability due to differing factions, particularly in foreign policy and military strategy.",
+      "economicDependency": "Overreliance on imports of certain raw materials and energy sources, which could be problematic in times of galactic disruption."
+    }
+  },
+  {
+    "id": "11",
+    "name": "United Kingdom of the Galactic Crown",
+    "description": "A storied and resilient power, the United Kingdom of the Galactic Crown balances tradition with innovation, maintaining a dominant presence in galactic trade, diplomacy, and naval strength.",
+    "tagline": "Tradition, Diplomacy, Naval Supremacy",
+    "icon": "/assets/factions/uk_galactic.png",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "rulingSystem": "Constitutional Monarchy",
+    "corePhilosophy": "Preserving heritage while advancing technology for a prosperous future.",
+    "leader": "Queen Eleanor Victoria IV",
+    "influence": 28.6,
+    "strengths": [
+      "Naval superiority and advanced shipbuilding",
+      "Strong diplomatic ties and global influence",
+      "Expertise in interstellar trade and commerce",
+      "High adaptability in political landscapes"
+    ],
+    "weaknesses": [
+      "Reluctance to engage in large-scale military campaigns",
+      "Internal divisions stemming from political fragmentation",
+      "Heavy reliance on trade routes for resources"
+    ],
+    "uniqueAbilities": ["Royal Navy Dominance", "Diplomatic Influence"],
+    "population": 680000000,
+    "species": ["Humans", "Androids", "Artificial Intelligences"],
+    "diversity": {
+      "Humans": 85,
+      "Androids": 10,
+      "Artificial Intelligences": 5
+    },
+    "homeworld": "Earth (United Kingdom)",
+    "controlledRegions": [
+      "London Megacity",
+      "Highlands Mining Complex",
+      "Canterbury Shipyards"
+    ],
+    "territorialSize": 7,
+    "resources": ["Tritium", "Platinum", "Rare Minerals", "Starship Fuel"],
+    "allies": ["Galactic Federation of Europe", "Commonwealth of Free Worlds"],
+    "rivals": ["The Eastern Stellar Empire", "The Coalition of Nova States"],
+    "neutral": ["Intergalactic Trade Syndicate"],
+    "primaryExports": [
+      "Military vessels",
+      "Starship Components",
+      "Advanced AI",
+      "Luxury Goods"
+    ],
+    "primaryImports": [
+      "Exotic materials",
+      "Agricultural products",
+      "Energy sources"
+    ],
+    "currency": "Royal Credits",
+    "fleetSize": 1500,
+    "specialUnits": [
+      "Royal Navy Battlecruisers",
+      "Android Marines",
+      "Diplomatic Envoys"
+    ],
+    "defensiveCapabilities": [
+      "Advanced Shielding Systems",
+      "Orbital Defense Cannons",
+      "Stealth Reconnaissance Ships"
+    ],
+    "culturalValues": [
+      "Tradition",
+      "Honor",
+      "Diplomatic Relations",
+      "Innovation"
+    ],
+    "languages": ["English", "Gaelic", "Latin (Classical)"],
+    "history": "The United Kingdom of the Galactic Crown is an enduring empire that rose from a legacy of colonial and naval dominance, preserving its monarchic traditions while embracing the technological and economic demands of galactic expansion.",
+    "religion": {
+      "dominantBeliefs": "Anglican Christianity with strong secular governance.",
+      "philosophicalMovements": [
+        {
+          "name": "The Royal Doctrine",
+          "adherents": 30,
+          "focus": "Maintaining a balance between monarchy and democratic ideals."
+        },
+        {
+          "name": "The Order of the Starborn",
+          "adherents": 40,
+          "focus": "Exploration of the universe as the divine right of the Crown."
+        }
+      ],
+      "minorReligions": [
+        "Cosmic Christianity",
+        "Celestial Monotheism",
+        "Technological Transcendence"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Monarchical Evolutionism",
+        "Interstellar Diplomacy",
+        "Tradition with Innovation"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Lord William Hawke",
+          "works": [
+            "The Galactic Crown: Legacy and Future",
+            "Harmony Through Power"
+          ]
+        },
+        {
+          "name": "Catherine Davenport",
+          "works": ["Diplomacy of the Stars", "In Pursuit of Prosperity"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides strong diplomatic support, advanced naval power, and trade routes.",
+      "adversary": "A strategic opponent, difficult to defeat due to its naval strength and diplomatic reach."
+    },
+    "aiBehavior": {
+      "diplomatic": "Tends to create strong alliances and influence other factions through trade and diplomacy.",
+      "strategic": "Focuses on controlling trade routes and maintaining naval superiority.",
+      "combat": "Relies on superior naval tactics and strategic use of advanced ship technology.",
+      "negative": {
+        "bureaucracy": "A slow-moving political system can hinder rapid decision-making in times of crisis.",
+        "complacency": "Overconfidence in diplomacy and military might may lead to underestimating rivals."
+      }
+    },
+    "negativeTraits": {
+      "bureaucracy": "Decisions can be delayed due to extensive bureaucratic processes.",
+      "complacency": "May become overly reliant on traditional methods and slow to adopt new strategies."
+    }
+  },
+  {
+    "id": "12",
+    "name": "Federation of United Europe",
+    "description": "A coalition of Europe's most powerful nations, the Federation of United Europe blends ancient traditions with cutting-edge technology. United under a single banner, they dominate galactic trade, science, and diplomacy, wielding unmatched economic and cultural influence.",
+    "tagline": "Unity, Innovation, Economic Might",
+    "icon": "/assets/factions/eu_galactic.png",
+    "region": "Europe",
+    "country": "Europe (Federation)",
+    "rulingSystem": "Federation of Constitutional Republics",
+    "corePhilosophy": "A unified future where tradition meets technological innovation, advancing the prosperity of all member states.",
+    "leader": "President Valeria Lefevre",
+    "influence": 35.0,
+    "strengths": [
+      "Unparalleled economic power and technological innovation",
+      "Advanced research in space exploration and energy",
+      "Strong diplomatic presence across the galaxy",
+      "Highly efficient military and defensive capabilities"
+    ],
+    "weaknesses": [
+      "Complex political structure that can slow decision-making",
+      "Frequent internal disagreements among member states",
+      "Reluctance to engage in aggressive military campaigns"
+    ],
+    "uniqueAbilities": [
+      "Galactic Research Hubs",
+      "Cultural Diplomacy",
+      "Trade Network Efficiency"
+    ],
+    "population": 700000000,
+    "species": [
+      "Humans",
+      "Androids",
+      "Artificial Intelligences",
+      "Cybernetic Organisms"
+    ],
+    "diversity": {
+      "Humans": 80,
+      "Androids": 15,
+      "Artificial Intelligences": 5
+    },
+    "homeworld": "Earth (Federation of Europe)",
+    "controlledRegions": [
+      "Paris Megacity",
+      "Berlin Spaceport",
+      "Rome High-Tech Research Facility",
+      "Vienna Terraforming Hub"
+    ],
+    "territorialSize": 9,
+    "resources": [
+      "Quantum Energy",
+      "Rare Earth Metals",
+      "Advanced Robotics",
+      "Exotic Matter"
+    ],
+    "allies": ["United Kingdom of the Galactic Crown", "Free Trade Coalition"],
+    "rivals": ["Eastern Stellar Empire", "Coalition of Nova States"],
+    "neutral": ["Intergalactic Trade Syndicate"],
+    "primaryExports": [
+      "Advanced Robotics",
+      "Spacecraft",
+      "Quantum Energy",
+      "Luxury Goods",
+      "High-Tech Medical Solutions"
+    ],
+    "primaryImports": [
+      "Agricultural Products",
+      "Starship Fuel",
+      "Alien Technology",
+      "Raw Materials"
+    ],
+    "currency": "Euro Credits",
+    "fleetSize": 1800,
+    "specialUnits": [
+      "Galactic Peacekeepers",
+      "Advanced Drone Swarms",
+      "Diplomatic Corps"
+    ],
+    "defensiveCapabilities": [
+      "Hyper-Efficient Energy Shields",
+      "Orbital Laser Platforms",
+      "Subspace Disruption Cannons"
+    ],
+    "culturalValues": [
+      "Unity in Diversity",
+      "Technological Advancement",
+      "Cultural Preservation",
+      "Sustainability"
+    ],
+    "languages": ["English", "French", "German", "Italian", "Spanish"],
+    "history": "The Federation of United Europe was formed through the merger of Europe’s leading nations, blending centuries of rich cultural heritage with the cutting-edge technological prowess of its people. It quickly rose to prominence as a central hub for galactic trade, diplomacy, and innovation.",
+    "religion": {
+      "dominantBeliefs": "Secularism with freedom of belief, strongly influenced by philosophical movements of reason and science.",
+      "philosophicalMovements": [
+        {
+          "name": "The Enlightened Order",
+          "adherents": 35,
+          "focus": "Reason, science, and human progress as the cornerstones of societal development."
+        },
+        {
+          "name": "The Technological Union",
+          "adherents": 45,
+          "focus": "Integration of advanced technology into everyday life, aiming for societal transcendence."
+        }
+      ],
+      "minorReligions": [
+        "Cosmic Christianity",
+        "Pantheism",
+        "Techno-Spiritualism"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Technocratic Federalism",
+        "Cultural Unity",
+        "Interstellar Diplomacy"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Professor Adrian Müller",
+          "works": [
+            "The New Dawn: The Federation of United Europe",
+            "Techno-Culture: The Rise of the Digital Age"
+          ]
+        },
+        {
+          "name": "Sofia Alvarado",
+          "works": [
+            "Unity in Diversity: The European Model",
+            "Diplomacy and Technology in the Galactic Era"
+          ]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides cutting-edge technology, robust trade routes, and cultural influence across the galaxy.",
+      "adversary": "A highly organized and technologically advanced opponent with strong military and economic influence."
+    },
+    "aiBehavior": {
+      "diplomatic": "Tends to form strong alliances and uses its influence to negotiate favorable terms across the galaxy.",
+      "strategic": "Focuses on economic growth, technological superiority, and maintaining peace through diplomacy.",
+      "combat": "Relies on advanced military technologies and drone warfare, using strategic strikes rather than brute force.",
+      "negative": {
+        "bureaucracy": "The complexity of its political system can lead to delays in responding to crises.",
+        "fragility": "Internal political disagreements may undermine cohesion, especially in times of external threats."
+      }
+    },
+    "negativeTraits": {
+      "bureaucracy": "Decision-making can be slow due to the complex structure of the federation.",
+      "fragility": "Internal divisions may emerge between member states, weakening unity during times of external conflict."
+    }
+  },
+  {
+    "id": "13",
+    "name": "Russian Federation of the Galactic Dominion",
+    "description": "A vast and resilient empire, the Russian Federation of the Galactic Dominion stands as a force of unyielding strength and tradition. Spanning a wide array of planets, it is driven by a deep-seated sense of nationalism, military might, and technological ambition.",
+    "tagline": "Strength, Expansion, Sovereignty",
+    "icon": "/assets/factions/russia_galactic.png",
+    "region": "Eurasia",
+    "country": "Russian Federation",
+    "rulingSystem": "Authoritarian Federation",
+    "corePhilosophy": "To expand and maintain sovereignty through strength, military innovation, and the strategic control of resources.",
+    "leader": "Tsar Maximilian IV",
+    "influence": 32.0,
+    "strengths": [
+      "Massive territorial reach and resource control",
+      "Advanced military technologies and space warfare tactics",
+      "Strong national unity and centralized governance",
+      "Expertise in energy resource management and space exploration"
+    ],
+    "weaknesses": [
+      "Political repression and limited freedoms",
+      "Vulnerability to internal dissent and regional separatism",
+      "Over-reliance on resource extraction industries",
+      "Reluctance to engage in multi-faction diplomacy"
+    ],
+    "uniqueAbilities": [
+      "Imperial Expansion",
+      "Military Superiority",
+      "Resource Dominance"
+    ],
+    "population": 1450000000,
+    "species": ["Humans", "Cyborgs", "Androids"],
+    "diversity": {
+      "Humans": 90,
+      "Cyborgs": 5,
+      "Androids": 5
+    },
+    "homeworld": "Earth (Russian Federation)",
+    "controlledRegions": [
+      "Moscow Megacity",
+      "Siberian Military Complex",
+      "Baikal Terraforming Colony"
+    ],
+    "territorialSize": 12,
+    "resources": ["Gas Giants", "Helium-3", "Rare Earth Elements", "Tritium"],
+    "allies": ["Galactic Federation of Asia", "Free Trade Coalition"],
+    "rivals": ["The Western Alliance", "The Eastern Stellar Empire"],
+    "neutral": ["Intergalactic Trade Syndicate"],
+    "primaryExports": [
+      "Energy Resources",
+      "Starship Weapons",
+      "Military Technologies",
+      "Luxury Metals"
+    ],
+    "primaryImports": [
+      "Exotic Matter",
+      "Agricultural Products",
+      "Advanced AI",
+      "Starship Components"
+    ],
+    "currency": "Imperial Rubles",
+    "fleetSize": 2200,
+    "specialUnits": [
+      "Spaceborne Shock Troops",
+      "Imperial Battlecruisers",
+      "Cyborg Commandos"
+    ],
+    "defensiveCapabilities": [
+      "Orbital Fortresses",
+      "Advanced Shielding Systems",
+      "EMP Pulses and Disruption Technology"
+    ],
+    "culturalValues": [
+      "Patriotism",
+      "Strength",
+      "Sovereignty",
+      "Self-Reliance"
+    ],
+    "languages": ["Russian", "Korean", "Kazakh", "Arabic"],
+    "history": "The Russian Federation of the Galactic Dominion traces its roots back to Earth's early imperialist period, with a long tradition of territorial expansion and military dominance. Its current form is a powerful union of colonies and regions, underpinned by resource control and strategic dominance across the galaxy.",
+    "religion": {
+      "dominantBeliefs": "Orthodox Christianity with state influence, though secularism is becoming more pronounced in galactic governance.",
+      "philosophicalMovements": [
+        {
+          "name": "The Imperial Path",
+          "adherents": 50,
+          "focus": "The preservation of the Russian legacy through strength, military supremacy, and expansion."
+        },
+        {
+          "name": "The Technocratic Sovereignty",
+          "adherents": 40,
+          "focus": "The integration of technology into the core of governance and warfare to secure dominance."
+        }
+      ],
+      "minorReligions": [
+        "Cosmic Christianity",
+        "Cybernetic Ascendancy",
+        "Pagan Revivalism"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Authoritarian Expansionism",
+        "Technological Militarism",
+        "Resource-Driven Economy"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "General Viktor Petrov",
+          "works": ["The Galactic Empire of Russia", "Strength Through Control"]
+        },
+        {
+          "name": "Nikolai Markov",
+          "works": [
+            "The Technological Evolution of Warfare",
+            "Sovereignty and Expansion"
+          ]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides unmatched military support, strategic resource control, and advanced space technologies.",
+      "adversary": "A powerful, aggressive faction with a vast military fleet and a dominant position in the galactic economy."
+    },
+    "aiBehavior": {
+      "diplomatic": "Tends to focus on bilateral agreements and strengthening its military alliances, with little interest in multilateral cooperation.",
+      "strategic": "Seeks to expand territory, gain control over strategic resources, and maintain military superiority.",
+      "combat": "Relies on overwhelming force, utilizing advanced space warfare tactics and devastating weaponry.",
+      "negative": {
+        "bureaucracy": "A rigid, centralized government structure can cause delays in military decision-making and responses to crises.",
+        "autocracy": "Authoritarian governance can lead to unrest, particularly among newly-conquered territories."
+      }
+    },
+    "negativeTraits": {
+      "bureaucracy": "Decision-making can be slow and inflexible due to centralized governance.",
+      "autocracy": "Centralized power may stifle innovation and breed dissatisfaction among factions."
+    }
+  },
+  {
+    "id": "14",
+    "name": "Turkish Galactic Dominion",
+    "description": "A strategic powerhouse bridging East and West, the Turkish Galactic Dominion thrives on its rich cultural heritage, military prowess, and innovative technological solutions. Its geopolitical influence stretches across multiple star systems, where it stands as a force for stability and regional power.",
+    "tagline": "Heritage, Power, Innovation",
+    "icon": "/assets/factions/turkiye_galactic.png",
+    "region": "Eurasia",
+    "country": "Turkey (Turkiye)",
+    "rulingSystem": "Republic with Militaristic Influence",
+    "corePhilosophy": "To unite a rich cultural heritage with modern military and technological advancements, ensuring sovereignty, influence, and prosperity across the galaxy.",
+    "leader": "President Elif Yildirim",
+    "influence": 30.0,
+    "strengths": [
+      "Strategic military position and advanced warfare tactics",
+      "Fusion of ancient traditions with modern technology",
+      "Strong industrial base and resource management",
+      "Ability to mediate between galactic superpowers"
+    ],
+    "weaknesses": [
+      "Political polarization and internal dissent",
+      "Dependency on a few key resources",
+      "Frequent tensions with neighboring factions",
+      "Risk of military overreach and unsustainable expansion"
+    ],
+    "uniqueAbilities": [
+      "Strategic Gateways",
+      "Cultural Diplomacy",
+      "Naval Superiority"
+    ],
+    "population": 850000000,
+    "species": ["Humans", "Cyborgs", "Artificial Intelligences"],
+    "diversity": {
+      "Humans": 85,
+      "Cyborgs": 10,
+      "Artificial Intelligences": 5
+    },
+    "homeworld": "Earth (Turkey)",
+    "controlledRegions": [
+      "Istanbul Megacity",
+      "Ankara Military Complex",
+      "Cappadocia Terraforming Station"
+    ],
+    "territorialSize": 8,
+    "resources": [
+      "Tritium",
+      "Antimatter",
+      "Advanced Manufacturing Materials",
+      "Cultural Artifacts"
+    ],
+    "allies": ["Galactic Federation of Asia", "Free Trade Coalition"],
+    "rivals": ["The Western Alliance", "Eastern Stellar Empire"],
+    "neutral": ["Intergalactic Trade Syndicate"],
+    "primaryExports": [
+      "Energy Resources",
+      "Advanced Technology",
+      "Cultural Goods",
+      "Military Equipment"
+    ],
+    "primaryImports": [
+      "Rare Earth Elements",
+      "Starship Components",
+      "Agricultural Products",
+      "Alien Technologies"
+    ],
+    "currency": "Turkish Galactic Lira",
+    "fleetSize": 1500,
+    "specialUnits": [
+      "Elite Ground Forces",
+      "Cyborg Special Operations",
+      "Warships with Stealth Technology"
+    ],
+    "defensiveCapabilities": [
+      "Quantum Shielding",
+      "Orbital Defense Platforms",
+      "Cyber Warfare Units"
+    ],
+    "culturalValues": [
+      "National Pride",
+      "Innovation Through Tradition",
+      "Military Honor",
+      "Unity of Purpose"
+    ],
+    "languages": ["Turkish", "Kurdish", "Arabic", "English"],
+    "history": "The Turkish Galactic Dominion rose from the ashes of Earth’s turbulent geopolitical landscape. Drawing upon its rich Ottoman legacy and modern scientific advancements, it united the diverse peoples of its region under one banner, asserting its influence in the galaxy’s ever-changing power dynamics.",
+    "religion": {
+      "dominantBeliefs": "Secularism with strong influences from Islam, where religion and politics are separate but still culturally intertwined.",
+      "philosophicalMovements": [
+        {
+          "name": "The Legacy of Empires",
+          "adherents": 50,
+          "focus": "Preserving the cultural heritage of the ancient empires while embracing modern military and technological power."
+        },
+        {
+          "name": "Technological Harmony",
+          "adherents": 40,
+          "focus": "Merging traditional values with the benefits of advanced technology to create a balanced and sustainable future."
+        }
+      ],
+      "minorReligions": [
+        "Neo-Ottomanism",
+        "Cosmic Islam",
+        "Techno-Spiritualism"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Cultural Nationalism",
+        "Technological Innovation",
+        "Military Expansionism"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Admiral Cem Yildirim",
+          "works": [
+            "The Art of War in the Galaxy",
+            "Cultural Resurgence in Space"
+          ]
+        },
+        {
+          "name": "Professor Ayla Karaca",
+          "works": [
+            "Science and Tradition in the New Age",
+            "The Future of Intergalactic Diplomacy"
+          ]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides strategic military support, cultural influence, and unique technological solutions, while acting as a neutral mediator between galactic powers.",
+      "adversary": "A resilient and ambitious faction, seeking to dominate key star systems through strength, military prowess, and technological superiority."
+    },
+    "aiBehavior": {
+      "diplomatic": "Strives to balance between alliances and rivalries, often mediating conflicts while protecting its interests.",
+      "strategic": "Focuses on controlling strategic chokepoints and resources, while advancing military strength and technological innovation.",
+      "combat": "Utilizes a mix of ground forces and naval superiority, with a reliance on stealth and surprise tactics in space engagements.",
+      "negative": {
+        "fragility": "Internal political tensions and regional disagreements may weaken the unity of the faction.",
+        "overextension": "Rapid expansion could lead to logistical difficulties and resource scarcity."
+      }
+    },
+    "negativeTraits": {
+      "fragility": "Internal divisions and political instability could undermine the faction's cohesion during times of crisis.",
+      "overextension": "Ambitious territorial expansion may stretch resources thin, leading to strategic vulnerabilities."
+    }
+  },
+  {
+    "id": "15",
+    "name": "Eurasian Concord",
+    "description": "A powerful alliance born from the union of diverse cultures and territories stretching across the vast Eurasian expanse. The Eurasian Concord thrives on unity, economic strength, and military coordination, creating a balanced force that seeks to maintain stability while advancing technological progress.",
+    "tagline": "Unity in Diversity, Power Through Cooperation",
+    "icon": "/assets/factions/eurasia_concord.png",
+    "region": "Eurasia",
+    "country": "Various Eurasian Countries",
+    "rulingSystem": "Confederation with Centralized Leadership",
+    "corePhilosophy": "To unite the peoples of Eurasia through collective strength, mutual respect, and shared prosperity, while preserving each culture’s autonomy within a larger, interdependent system.",
+    "leader": "President Arslan Tamerlan",
+    "influence": 28.0,
+    "strengths": [
+      "Vast territory with diverse resources",
+      "Balanced approach to diplomacy and military power",
+      "Strong economic ties across multiple sectors",
+      "Cultural and technological integration from various regions"
+    ],
+    "weaknesses": [
+      "Political fragmentation and regional tensions",
+      "Dependence on multiple external alliances",
+      "Internal struggles over resource allocation",
+      "Challenges in military coordination between member states"
+    ],
+    "uniqueAbilities": [
+      "Cultural Integration",
+      "Unified Military Command",
+      "Economic Coalition"
+    ],
+    "population": 1500000000,
+    "species": ["Humans", "Cyborgs", "Artificial Intelligences", "Aliens"],
+    "diversity": {
+      "Humans": 85,
+      "Cyborgs": 10,
+      "Artificial Intelligences": 3,
+      "Aliens": 2
+    },
+    "homeworld": "Earth (Various Eurasian Countries)",
+    "controlledRegions": [
+      "Moscow Megacity",
+      "Ulaanbaatar Spaceport",
+      "Tashkent Orbital Station",
+      "Tehran Hypercity",
+      "Baku Terraforming Facility"
+    ],
+    "territorialSize": 10,
+    "resources": [
+      "Oil Fields",
+      "Natural Gas",
+      "Precious Metals",
+      "Strategic Mineral Deposits"
+    ],
+    "allies": [
+      "Turkish Galactic Dominion",
+      "Galactic Federation of Asia",
+      "Free Trade Coalition"
+    ],
+    "rivals": ["The Western Alliance", "The Eastern Stellar Empire"],
+    "neutral": ["Intergalactic Trade Syndicate"],
+    "primaryExports": [
+      "Energy Resources",
+      "Advanced Materials",
+      "Military Equipment",
+      "Cultural Artifacts"
+    ],
+    "primaryImports": [
+      "Rare Earth Elements",
+      "Starship Components",
+      "Exotic Matter",
+      "Artificial Intelligence Systems"
+    ],
+    "currency": "Eurasian Galactic Credit",
+    "fleetSize": 1700,
+    "specialUnits": [
+      "Elite Special Forces",
+      "Mobile Plasma Cannons",
+      "Heavy Artillery Dreadnoughts"
+    ],
+    "defensiveCapabilities": [
+      "Integrated Orbital Defense Systems",
+      "Advanced Cybersecurity Networks",
+      "Massive Anti-Missile Shields"
+    ],
+    "culturalValues": [
+      "Unity in Diversity",
+      "Mutual Prosperity",
+      "Technological Progress",
+      "Strategic Alliances"
+    ],
+    "languages": [
+      "Russian",
+      "Turkish",
+      "Kazakh",
+      "Uzbek",
+      "Persian",
+      "Arabic",
+      "Mandarin"
+    ],
+    "history": "The Eurasian Concord was formed after centuries of conflicts, where disparate nations and cultures learned to work together in the face of external threats. After the Earth unification period, they formed a unique political and economic entity that spans multiple star systems. Their shared commitment to cooperation and mutual respect has propelled them to the forefront of galactic politics.",
+    "religion": {
+      "dominantBeliefs": "Secularism with a blend of traditional beliefs from the region, each member state maintaining its own religious influences while contributing to the collective identity.",
+      "philosophicalMovements": [
+        {
+          "name": "The Harmony of States",
+          "adherents": 60,
+          "focus": "Uniting the different peoples and territories of Eurasia under a common purpose while respecting their autonomy."
+        },
+        {
+          "name": "Technological Progressivism",
+          "adherents": 30,
+          "focus": "Using technology to foster peace, prosperity, and unity across diverse cultures."
+        }
+      ],
+      "minorReligions": [
+        "Eclectic Faith",
+        "Cyber-Religion",
+        "Earth Spiritualism"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Cultural Unity",
+        "Technological Innovation",
+        "Defensive Militarism",
+        "Economic Cooperation"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Ibrahim Khazarov",
+          "works": ["Unity Through Diversity", "The Strength of the Collective"]
+        },
+        {
+          "name": "Darya Zhukova",
+          "works": [
+            "Technology and Society",
+            "The Future of Eurasian Alliances"
+          ]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "A versatile and stable partner with a strong economic base, offering a unique blend of diplomatic, technological, and military support.",
+      "adversary": "A cohesive and strategic faction focused on economic integration and military cooperation, often seeking to expand its influence across neighboring regions."
+    },
+    "aiBehavior": {
+      "diplomatic": "Prioritizes unity and stability through strategic alliances, balancing interests between member states while maintaining sovereignty.",
+      "strategic": "Focuses on strengthening economic and military ties, while advancing technology and improving internal cohesion.",
+      "combat": "Utilizes a combined arms approach, with a focus on adaptable tactics and the integration of diverse military units.",
+      "negative": {
+        "politicalInstability": "Fragmentation within the faction can lead to challenges in decision-making and cohesion during times of crisis.",
+        "resourceScarcity": "Heavy reliance on certain key resources could result in economic instability if supplies are disrupted."
+      }
+    },
+    "negativeTraits": {
+      "politicalInstability": "Internal divisions and the complexity of balancing diverse interests may hinder the faction’s effectiveness in moments of crisis.",
+      "resourceScarcity": "Overdependence on certain resources may cause shortages or economic setbacks in times of scarcity."
+    }
+  },
+  {
+    "id": "16",
+    "name": "Nigerian Star Coalition",
+    "description": "A burgeoning superpower in the heart of Africa, the Nigerian Star Coalition combines rich cultural heritage, vast natural resources, and technological ambition. With a dynamic economy and a growing military presence, it seeks to assert its influence both within Africa and across the galaxy, aiming to lead the way for African unity and intergalactic prosperity.",
+    "tagline": "Unity, Innovation, Prosperity",
+    "icon": "/assets/factions/nigeria_star_coalition.png",
+    "region": "Africa",
+    "country": "Nigeria",
+    "rulingSystem": "Federal Republic with a Strong Executive",
+    "corePhilosophy": "To foster national unity, economic growth, and technological advancements while promoting African identity and cooperation on the galactic stage.",
+    "leader": "President Amina Okoye",
+    "influence": 22.0,
+    "strengths": [
+      "Abundant natural resources, especially energy and minerals",
+      "Rapid technological development and innovation",
+      "Strong and diverse military capabilities",
+      "A growing, highly educated workforce"
+    ],
+    "weaknesses": [
+      "Internal political challenges and corruption",
+      "Inequality and poverty affecting large parts of the population",
+      "Dependence on volatile natural resource markets",
+      "Challenges in infrastructure and logistics"
+    ],
+    "uniqueAbilities": [
+      "Resource Management Mastery",
+      "Pan-African Diplomacy",
+      "Advanced Energy Weapons"
+    ],
+    "population": 250000000,
+    "species": ["Humans", "Cyborgs", "Artificial Intelligences"],
+    "diversity": {
+      "Humans": 90,
+      "Cyborgs": 8,
+      "Artificial Intelligences": 2
+    },
+    "homeworld": "Earth (Nigeria)",
+    "controlledRegions": [
+      "Lagos Megacity",
+      "Abuja Galactic Hub",
+      "Kaduna Research Facility",
+      "Port Harcourt Spaceport"
+    ],
+    "territorialSize": 6,
+    "resources": [
+      "Crude Oil",
+      "Natural Gas",
+      "Diamonds",
+      "Gold",
+      "Solar Energy"
+    ],
+    "allies": [
+      "African Union Star Alliance",
+      "Global Technology Federation",
+      "Free Trade Coalition"
+    ],
+    "rivals": ["The Western Alliance", "Eastern Stellar Empire"],
+    "neutral": ["Intergalactic Trade Syndicate"],
+    "primaryExports": [
+      "Energy Resources",
+      "Precious Metals",
+      "Technological Products",
+      "Agricultural Goods"
+    ],
+    "primaryImports": [
+      "Starship Components",
+      "Advanced AI Systems",
+      "Exotic Matter",
+      "Medical Technology"
+    ],
+    "currency": "Nigerian Galactic Naira",
+    "fleetSize": 1300,
+    "specialUnits": [
+      "Elite Cyber-Enhanced Infantry",
+      "Mobile Energy Cannons",
+      "Fleet of Stealth Fighters"
+    ],
+    "defensiveCapabilities": [
+      "Advanced Orbital Defense Systems",
+      "Nanotechnology-based Repair Drones",
+      "Space-based Solar Shields"
+    ],
+    "culturalValues": [
+      "Unity Through Diversity",
+      "Technological Growth",
+      "Self-Reliance",
+      "Pan-African Pride"
+    ],
+    "languages": ["English", "Hausa", "Yoruba", "Igbo", "Pidgin"],
+    "history": "The Nigerian Star Coalition emerged from the socio-political revolution in Africa, where Nigeria, with its vast population and resource wealth, became the leader of a new pan-African movement. The Coalition’s journey from Earth to the stars was fueled by the desire for independence, progress, and the drive to unite the African nations in a stronger galactic role.",
+    "religion": {
+      "dominantBeliefs": "A secular state with a high degree of religious plurality, where both Islam and Christianity coexist alongside indigenous African belief systems.",
+      "philosophicalMovements": [
+        {
+          "name": "African Renaissance",
+          "adherents": 50,
+          "focus": "Revitalizing African culture, history, and unity in the intergalactic age, while embracing modern technology."
+        },
+        {
+          "name": "Technological Empowerment",
+          "adherents": 40,
+          "focus": "Harnessing advanced technology for the benefit of the African people and to foster unity across the galaxy."
+        }
+      ],
+      "minorReligions": [
+        "Traditional African Religions",
+        "Cyber-Spirituality",
+        "Quantum Faith"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Pan-Africanism",
+        "Technological Development",
+        "Resource Sovereignty",
+        "Economic Prosperity"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Chike Okwu",
+          "works": [
+            "The Pan-African Future",
+            "Energy and Economy in the 22nd Century"
+          ]
+        },
+        {
+          "name": "Ngozi Okafor",
+          "works": [
+            "Technological Progress for All",
+            "The Rise of African Star Nations"
+          ]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "A vibrant and growing force in the galaxy, offering unique resources, technological innovation, and strong economic support.",
+      "adversary": "A rising star on the galactic stage, focused on asserting its influence through resource control, technological growth, and strategic alliances."
+    },
+    "aiBehavior": {
+      "diplomatic": "Prioritizes alliances with other African and resource-rich factions, seeking to increase influence and expand technological capabilities.",
+      "strategic": "Focuses on maximizing its resource base, developing military strength, and promoting interstellar economic cooperation.",
+      "combat": "Uses advanced energy-based weaponry and cyber-enhanced ground forces to dominate in battle, relying on energy and stealth tactics.",
+      "negative": {
+        "instability": "Internal political divisions and economic disparities may cause unrest or hinder full cooperation between regions.",
+        "resourceDependence": "Heavy reliance on natural resources leaves the faction vulnerable to fluctuations in resource availability."
+      }
+    },
+    "negativeTraits": {
+      "instability": "Political and economic instability in some regions could lead to internal divisions and challenges in the Coalition's cohesion.",
+      "resourceDependence": "The economy’s reliance on natural resource exports could leave the faction vulnerable to supply chain disruptions and market volatility."
+    }
+  },
+  {
+    "id": "17",
+    "name": "South African Dominion",
+    "description": "The South African Dominion is a regional powerhouse in the southern hemisphere, leveraging its strategic position, rich resources, and cutting-edge technology to assert its influence in galactic affairs. Its history of resilience and innovation makes it a leader in interstellar trade, defense, and technological advancements.",
+    "tagline": "Strength Through Innovation, Unity Through Diversity",
+    "icon": "/assets/factions/south_african_dominion.png",
+    "region": "Africa",
+    "country": "South Africa",
+    "rulingSystem": "Federal Parliamentary Republic",
+    "corePhilosophy": "To build a sustainable and prosperous future through technological innovation, economic development, and the harmonious coexistence of diverse cultures and ecosystems.",
+    "leader": "Prime Minister Thuli Msimang",
+    "influence": 18.0,
+    "strengths": [
+      "Geopolitical control of key intergalactic trade routes",
+      "Strong industrial base, particularly in mining and energy sectors",
+      "Technologically advanced research and development",
+      "A unified political system that balances ethnic diversity"
+    ],
+    "weaknesses": [
+      "Historical tensions with neighboring factions and internal inequality",
+      "Economic vulnerability due to heavy reliance on mining exports",
+      "Complexity of balancing traditional cultures with modernity",
+      "Limited military capacity compared to larger galactic factions"
+    ],
+    "uniqueAbilities": [
+      "Resource Extraction Mastery",
+      "Galactic Trade Hub",
+      "Techno-Diplomatic Influence"
+    ],
+    "population": 60000000,
+    "species": ["Humans", "Cyborgs", "Artificial Intelligences"],
+    "diversity": {
+      "Humans": 95,
+      "Cyborgs": 4,
+      "Artificial Intelligences": 1
+    },
+    "homeworld": "Earth (South Africa)",
+    "controlledRegions": [
+      "Johannesburg Tech Hub",
+      "Cape Town Spaceport",
+      "Durban Galactic Port",
+      "Pretoria Strategic Command"
+    ],
+    "territorialSize": 5,
+    "resources": [
+      "Gold",
+      "Diamonds",
+      "Platinum",
+      "Uranium",
+      "Renewable Energy"
+    ],
+    "allies": [
+      "African Union Star Alliance",
+      "Free Trade Coalition",
+      "Global Technology Federation"
+    ],
+    "rivals": ["Western Alliance", "Eastern Stellar Empire"],
+    "neutral": ["Intergalactic Trade Syndicate"],
+    "primaryExports": [
+      "Precious Metals",
+      "Energy Resources",
+      "Spacecraft Components",
+      "Technological Innovations"
+    ],
+    "primaryImports": [
+      "Rare Earth Elements",
+      "Advanced AI Systems",
+      "Exotic Matter",
+      "Starship Components"
+    ],
+    "currency": "South African Galactic Rand",
+    "fleetSize": 900,
+    "specialUnits": [
+      "Advanced Mining Drones",
+      "Solar-Powered Space Fighters",
+      "Elite Cybernetic Peacekeepers"
+    ],
+    "defensiveCapabilities": [
+      "Defensive Orbital Platforms",
+      "Energy Shielding",
+      "Advanced Cyber Warfare Systems"
+    ],
+    "culturalValues": [
+      "Technological Innovation",
+      "Environmental Sustainability",
+      "Cultural Harmony",
+      "Economic Development"
+    ],
+    "languages": ["Afrikaans", "Zulu", "English", "Xhosa", "Sotho"],
+    "history": "The South African Dominion emerged as a regional leader through a combination of its natural resource wealth, technological innovation, and strategic geopolitical position. After centuries of struggle, it overcame internal divisions to become a united force. The Dominion has positioned itself as a key player in the galaxy, balancing its diverse population and vast resources with modern industrial and technological advances.",
+    "religion": {
+      "dominantBeliefs": "A secular state with various Christian denominations, indigenous African beliefs, and a growing presence of technological spirituality.",
+      "philosophicalMovements": [
+        {
+          "name": "Ubuntu Unity",
+          "adherents": 40,
+          "focus": "Promoting collective responsibility and interconnectedness between people and the environment."
+        },
+        {
+          "name": "Technological Optimism",
+          "adherents": 35,
+          "focus": "Harnessing the power of technology to solve societal challenges and drive progress."
+        }
+      ],
+      "minorReligions": [
+        "African Traditional Beliefs",
+        "Cyber-Spiritualism",
+        "Environmental Faith"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Unity Through Diversity",
+        "Technological Sustainability",
+        "Environmental Stewardship",
+        "Resource Equity"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Nandi Mthembu",
+          "works": [
+            "Technology for Sustainability",
+            "Ubuntu and the Future of Africa"
+          ]
+        },
+        {
+          "name": "Kabelo Mokoena",
+          "works": ["Innovation and Society", "The Path to Galactic Prosperity"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "A strong and strategic partner with valuable resources and technological expertise, providing economic and defense support.",
+      "adversary": "A powerful faction focused on technological growth and resource control, often in competition for key galactic assets."
+    },
+    "aiBehavior": {
+      "diplomatic": "Seeks to expand influence through trade agreements, technological collaboration, and alliances with other resource-rich factions.",
+      "strategic": "Focuses on resource management and technological advancement, while leveraging its military and trade prowess to maintain galactic standing.",
+      "combat": "Utilizes advanced energy weapons, stealth technologies, and a combination of ground and space forces for defensive and offensive operations.",
+      "negative": {
+        "internalStruggles": "Economic inequality and political tensions may destabilize the faction during periods of crisis.",
+        "resourceDependence": "Reliance on mining and energy exports leaves the faction vulnerable to external economic shocks."
+      }
+    },
+    "negativeTraits": {
+      "internalStruggles": "Socioeconomic disparities and political disagreements can cause unrest, affecting the faction's ability to cooperate during critical moments.",
+      "resourceDependence": "Heavily reliant on natural resource exports, which can lead to instability in the face of market volatility or resource depletion."
+    }
+  },
+  {
+    "id": "18",
+    "name": "Egyptian Stellar Dominion",
+    "description": "An ancient and resilient power in the galaxy, the Egyptian Stellar Dominion combines millennia of cultural wisdom with advanced technology, dominating the Nile's cosmic legacy. Its strategic focus on innovation, history, and military prowess makes it a key player in galactic politics.",
+    "tagline": "Power Through Legacy, Strength Through Innovation",
+    "icon": "/assets/factions/egyptian_stellar_dominion.png",
+    "region": "Africa",
+    "country": "Egypt",
+    "rulingSystem": "Theocratic Monarchy",
+    "corePhilosophy": "Harnessing the wisdom of the past to drive progress in the future, prioritizing unity, strength, and cultural heritage.",
+    "leader": "Pharaoh Amun-Ra IX",
+    "influence": 28.5,
+    "strengths": [
+      "Rich historical and cultural influence",
+      "Mastery of advanced energy manipulation and space engineering",
+      "Strong military, particularly in defensive systems and ground forces"
+    ],
+    "weaknesses": [
+      "Heavy reliance on ancient traditions and spiritual beliefs",
+      "Rigid governance structure hindering rapid technological adaptability",
+      "Vulnerability to internal power struggles and dynastic conflicts"
+    ],
+    "uniqueAbilities": [
+      "Energy Manipulation Mastery",
+      "Nile Network of Trade Routes",
+      "Divine Authority Over Resources"
+    ],
+    "population": 3500000000,
+    "species": ["Humans", "Cyborgs", "Artificial Intelligences"],
+    "diversity": {
+      "Humans": 85,
+      "Cyborgs": 10,
+      "Artificial Intelligences": 5
+    },
+    "homeworld": "Earth (Egypt)",
+    "controlledRegions": [
+      "Cairo Galactic Hub",
+      "Luxor Strategic Command",
+      "Giza Research Outpost",
+      "Aswan Energy Nexus"
+    ],
+    "territorialSize": 12,
+    "resources": [
+      "Copper",
+      "Uranium",
+      "Solar Energy",
+      "Archeological Artifacts",
+      "Water Ice"
+    ],
+    "allies": [
+      "African Union Star Alliance",
+      "Solar Confederation",
+      "Cultural Preservation Pact"
+    ],
+    "rivals": ["Western Stellar Federation", "Galactic Dominion of Polaris"],
+    "neutral": ["The Free Traders Collective"],
+    "primaryExports": [
+      "Solar Energy",
+      "Ancient Technology Artifacts",
+      "Spacecraft Components",
+      "Military Hardware"
+    ],
+    "primaryImports": [
+      "Rare Earth Elements",
+      "Bioengineered Organisms",
+      "Exotic Matter",
+      "Advanced Computing Technology"
+    ],
+    "currency": "Pharaoh's Galactic Drachma",
+    "fleetSize": 1200,
+    "specialUnits": [
+      "Solar-Powered Battlecruisers",
+      "Sacred Guardians (Elite Ground Units)",
+      "Cyborg Pharaohs (Enhanced Leadership Units)"
+    ],
+    "defensiveCapabilities": [
+      "Great Pyramid Shield Arrays",
+      "Orbital Defense Laser Platforms",
+      "Nanite-Enhanced Ground Forces"
+    ],
+    "culturalValues": [
+      "Cultural Preservation",
+      "Divine Leadership",
+      "Technological Integration with Nature",
+      "Military Honor"
+    ],
+    "languages": ["Neo-Arabic", "Coptic", "Hieroglyphic (AI-encoded)"],
+    "history": "The Egyptian Stellar Dominion emerged as a galactic power by integrating its ancient heritage with state-of-the-art space technologies. From the great pyramids of Earth to vast interstellar territories, the Dominion is built upon an enduring legacy of conquest, wisdom, and divine right.",
+    "religion": {
+      "dominantBeliefs": "State-controlled theocratic belief in the divine right of the Pharaoh, intertwined with the worship of ancient gods and the eternal legacy of Egypt.",
+      "philosophicalMovements": [
+        {
+          "name": "Ra's Divine Order",
+          "adherents": 40,
+          "focus": "The divine guidance of the Pharaoh and the pursuit of cosmic enlightenment through the gods."
+        },
+        {
+          "name": "Technological Ascension",
+          "adherents": 35,
+          "focus": "The belief that technology is a gift from the gods, to be used to elevate humanity and unlock the mysteries of the universe."
+        }
+      ],
+      "minorReligions": [
+        "Isis Mysticism",
+        "Cybernetic Reincarnation",
+        "Solar Deism"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Theocracy and Divine Right",
+        "Preservation of Ancient Wisdom",
+        "Technological Harmony with Nature",
+        "Cosmic Enlightenment"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Osman el-Kebir",
+          "works": [
+            "The Pyramids of the Stars",
+            "Ra and the Future of Humanity"
+          ]
+        },
+        {
+          "name": "Zahira Deyr",
+          "works": ["Technological Mysticism", "The Solar Path to Glory"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "A spiritual and strategic partner offering unique military assets and vast resources.",
+      "adversary": "A culturally influential and technologically advanced faction with powerful defenses and a focus on preserving its ancient power."
+    },
+    "aiBehavior": {
+      "diplomatic": "Seeks alliances with factions that value tradition, history, and culture, often preferring to remain neutral in conflicts unless provoked.",
+      "strategic": "Focuses on resource accumulation, defense systems, and technological advancement while attempting to maintain cultural integrity.",
+      "combat": "Uses highly advanced defensive technology and ground forces to protect key strategic locations, along with precise orbital bombardments.",
+      "negative": {
+        "traditionalism": "Overemphasis on cultural preservation can limit flexibility in adapting to new technological advancements.",
+        "authoritarianism": "Centralized power can lead to internal conflicts or revolts if leadership is questioned."
+      }
+    },
+    "negativeTraits": {
+      "traditionalism": "The faction's reliance on ancient beliefs and systems may hinder technological evolution and adaptability.",
+      "authoritarianism": "The centralized leadership structure could lead to power struggles or uprisings within the faction."
+    }
+  },
+  {
+    "id": "19",
+    "name": "Saudi Galactic Empire",
+    "description": "A mighty empire rooted in the vast deserts of Earth, the Saudi Galactic Empire has risen as a powerful, resource-rich force in the galaxy. Blending ancient traditions with futuristic technologies, it controls key energy resources that fuel both its military and its civilian sectors.",
+    "tagline": "Strength in Tradition, Power in Progress",
+    "icon": "/assets/factions/saudi_galactic_empire.png",
+    "region": "Middle East",
+    "country": "Saudi Arabia",
+    "rulingSystem": "Absolute Monarchy",
+    "corePhilosophy": "Honor, economic prosperity, and absolute authority with a focus on resource control and military supremacy.",
+    "leader": "Emperor Faisal al-Saud IV",
+    "influence": 30.4,
+    "strengths": [
+      "Dominance in energy production and control",
+      "Highly disciplined military",
+      "Strategic control of interstellar trade routes"
+    ],
+    "weaknesses": [
+      "Heavy reliance on energy resources",
+      "Limited technological diversity",
+      "Authoritarian governance leading to potential internal dissent"
+    ],
+    "uniqueAbilities": [
+      "Energy Superiority (Dominates energy trade and energy warfare)",
+      "Desert Fortress Network (Advanced defenses built into planets and stations)"
+    ],
+    "population": 4500000000,
+    "species": ["Humans", "Cybernetic Enhancements"],
+    "diversity": {
+      "Humans": 95,
+      "Cybernetic Enhancements": 5
+    },
+    "homeworld": "Earth (Saudi Arabia)",
+    "controlledRegions": [
+      "Solar System (Earth, Mars Colonies)",
+      "The Empty Quarter Outposts",
+      "Dune Worlds of the Nebula Belt"
+    ],
+    "territorialSize": 10,
+    "resources": ["Oil", "Helium-3", "Solar Energy", "Metallic Hydrogen"],
+    "allies": ["Arabian Coalition", "Solar Confederation"],
+    "rivals": ["Western Stellar Federation", "Galactic Free Trade Union"],
+    "neutral": ["Trade Alliance of Xeros"],
+    "primaryExports": [
+      "Energy resources (Oil, Helium-3)",
+      "Military-grade weaponry",
+      "Technologically enhanced architecture"
+    ],
+    "primaryImports": [
+      "Rare Metals",
+      "Advanced Computing Systems",
+      "Bio-Engineered Foods"
+    ],
+    "currency": "Solar Riyals",
+    "fleetSize": 1000,
+    "specialUnits": [
+      "Solar-Powered Warships",
+      "Royal Desert Infantry (Elite ground forces)",
+      "Emperor's Guard (Enhanced Cyborgs for personal protection)"
+    ],
+    "defensiveCapabilities": [
+      "Solar Flare Shields",
+      "Desert Fortress Defense Systems",
+      "Orbital Energy Cannons"
+    ],
+    "culturalValues": [
+      "Honor",
+      "Prosperity through energy dominance",
+      "Loyalty to the Crown",
+      "Respect for tradition"
+    ],
+    "languages": ["Modern Arabic", "Cyber-Arabic (used for AI communication)"],
+    "history": "The Saudi Galactic Empire arose from Earth’s dominance in energy markets. Through sheer will and resource control, it expanded into the stars, becoming a force to reckon with in galactic politics while preserving its cultural heritage rooted in the deserts of Arabia.",
+    "religion": {
+      "dominantBeliefs": "A strict adherence to state-sponsored monotheism, with deep reverence for tradition and the power of the royal family.",
+      "philosophicalMovements": [
+        {
+          "name": "The Path of the Sun",
+          "adherents": 70,
+          "focus": "Belief in divine right, with the Emperor seen as the chosen leader sent to ensure prosperity and order."
+        },
+        {
+          "name": "The Cybernetic Ascendants",
+          "adherents": 20,
+          "focus": "The merging of human and machine, creating a higher form of existence that honors both tradition and progress."
+        }
+      ],
+      "minorReligions": [
+        "Neo-Islamic Mysticism",
+        "Solar Deism",
+        "Mechanical Worship"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "The Divine Rule of the Crown",
+        "Energy-based Prosperity",
+        "Technological Progress through Heritage"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Sultan Ahmed al-Saud",
+          "works": ["The Imperial Power", "Energy and Empire"]
+        },
+        {
+          "name": "Farida al-Khobar",
+          "works": ["Desert Mysticism", "Solar Faith and Innovation"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides powerful energy resources and strategic military support.",
+      "adversary": "A formidable opponent focused on controlling key energy trade routes and dominating military technology."
+    },
+    "aiBehavior": {
+      "diplomatic": "Seeks allies that value resource control and military strength, often favoring monarchical or theocratic states.",
+      "strategic": "Focuses on securing energy resources, controlling trade routes, and maintaining military superiority.",
+      "combat": "Relies on overwhelming energy weaponry and disciplined ground forces to maintain its dominance.",
+      "negative": {
+        "autocracy": "Centralized leadership can lead to unrest or rebellion if leadership is questioned.",
+        "resource-dependence": "Over-reliance on energy resources can leave the faction vulnerable to strategic sabotage."
+      }
+    },
+    "negativeTraits": {
+      "resource-dependence": "Over-dependence on energy resources can make the empire vulnerable to shifts in the galactic energy market or resource depletion.",
+      "autocracy": "The absolute monarchy system can create discontent if the Emperor's rule is challenged."
+    }
+  },
+  {
+    "id": "20",
+    "name": "Iranian Stellar Dominion",
+    "description": "A proud and resilient faction that balances ancient traditions with the pursuit of technological mastery. The Iranian Stellar Dominion stands as a beacon of independence, leveraging its rich history and strong military to assert control over key regions of space.",
+    "tagline": "Power through Tradition and Innovation",
+    "icon": "/assets/factions/iranian_stellar_dominion.png",
+    "region": "Middle East",
+    "country": "Iran",
+    "rulingSystem": "Theocratic Monarchy",
+    "corePhilosophy": "Self-reliance, honor, and the pursuit of cosmic greatness through a blend of ancient wisdom and futuristic technology.",
+    "leader": "Supreme Leader Ramin Farvadi",
+    "influence": 28.6,
+    "strengths": [
+      "Mastery over nuclear and fusion energy",
+      "Strong military traditions and guerrilla tactics",
+      "Advanced spacefaring infrastructure"
+    ],
+    "weaknesses": [
+      "Technological innovation lags behind some factions",
+      "Heavy reliance on centralized leadership",
+      "Vulnerable to political instability"
+    ],
+    "uniqueAbilities": [
+      "Fusion Energy Dominance (Provides the faction with cheap, sustainable energy sources)",
+      "Asymmetric Warfare Tactics (Utilizes guerrilla and hit-and-run tactics against superior forces)"
+    ],
+    "population": 2000000000,
+    "species": ["Humans", "Enhanced Humans"],
+    "diversity": {
+      "Humans": 95,
+      "Enhanced Humans": 5
+    },
+    "homeworld": "Persia Nova (Formerly Earth, Iran)",
+    "controlledRegions": [
+      "Sol System",
+      "Caspian Nebula",
+      "Persian Star Cluster"
+    ],
+    "territorialSize": 8,
+    "resources": [
+      "Fusion Fuel",
+      "Iridium",
+      "Antimatter",
+      "Hydrocarbon-derived materials"
+    ],
+    "allies": ["Republic of Kashmir", "The Galactic Brotherhood of the East"],
+    "rivals": ["Saudi Galactic Empire", "Eastern Stellar Empire"],
+    "neutral": ["Independent Mining Guilds"],
+    "primaryExports": [
+      "Fusion energy",
+      "Advanced weaponry",
+      "Spacecraft components"
+    ],
+    "primaryImports": [
+      "Advanced AI technology",
+      "Exotic materials",
+      "Bio-enhanced crops"
+    ],
+    "currency": "Persian Dinars",
+    "fleetSize": 1200,
+    "specialUnits": [
+      "Persian Warships (Heavy armor and devastating fusion cannons)",
+      "Zephyr Commando Forces (Elite covert operatives)",
+      "Guardian Drones (Autonomous surveillance and defense units)"
+    ],
+    "defensiveCapabilities": [
+      "Ion Shielding",
+      "Underground Bunkers on key planets",
+      "Decentralized planetary defense systems"
+    ],
+    "culturalValues": [
+      "Self-reliance",
+      "Honor",
+      "Resilience",
+      "Strategic patience"
+    ],
+    "languages": ["Persian", "Galactic Persian (used for diplomatic purposes)"],
+    "history": "The Iranian Stellar Dominion emerged as a powerful faction after Earth's collapse, leveraging centuries of military tradition and the vast resources of the Persian region. They maintain a firm commitment to independence, always balancing their cultural heritage with the demands of the cosmos.",
+    "religion": {
+      "dominantBeliefs": "A theocratic system blending the worship of cosmic deities with state control, where the Supreme Leader is considered divinely ordained.",
+      "philosophicalMovements": [
+        {
+          "name": "The Order of Light",
+          "adherents": 60,
+          "focus": "Worship of the Sun and cosmic forces, believing in a divine cosmic order."
+        },
+        {
+          "name": "The Followers of the Eternal Flame",
+          "adherents": 25,
+          "focus": "Belief in an unyielding fire that guides humanity's technological and spiritual progress."
+        }
+      ],
+      "minorReligions": [
+        "Mystic Zoroastrianism",
+        "Techno-Fundamentalism",
+        "Cosmic Sufism"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Cosmic Sovereignty",
+        "Strategic Patience",
+        "Technological Reinvention"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Seyed Ali Khamenei",
+          "works": ["The Path of the Supreme Leader", "On Cosmic Authority"]
+        },
+        {
+          "name": "Mina Shams",
+          "works": ["The Fusion of Faith and Science", "Patience and Power"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides military support and strategic energy resources.",
+      "adversary": "A resilient enemy capable of launching asymmetric warfare campaigns."
+    },
+    "aiBehavior": {
+      "diplomatic": "Seeks alliances with factions that value independence, military strength, and the balance between faith and technology.",
+      "strategic": "Focuses on long-term survival and strategic positioning, leveraging guerrilla tactics and fusion-powered resources.",
+      "combat": "Utilizes a mix of heavy weaponry, strategic patience, and covert operations to weaken enemies before striking decisively.",
+      "negative": {
+        "overconfidence": "Can underestimate rivals that possess superior technology or unconventional strategies.",
+        "centralized power": "Highly dependent on the leader's strength, which can cause instability if the leadership falters."
+      }
+    },
+    "negativeTraits": {
+      "tech-gap": "Despite advancements, still lags in certain technological areas compared to more tech-focused factions.",
+      "politicalUnrest": "Internal power struggles can destabilize the faction if the Supreme Leader's authority is challenged."
+    }
+  },
+  {
+    "id": "21",
+    "name": "United Arab Emirates Star Coalition",
+    "description": "A powerful and affluent faction that combines the wealth of ancient trade routes with cutting-edge spacefaring technologies, projecting influence through diplomacy, economic might, and a strong defense system.",
+    "tagline": "Wealth, Innovation, and Influence",
+    "icon": "/assets/factions/uae_star_coalition.png",
+    "region": "Middle East",
+    "country": "United Arab Emirates",
+    "rulingSystem": "Corporate Theocracy",
+    "corePhilosophy": "Wealth, global influence, and technological innovation fuel progress and prosperity across the stars.",
+    "leader": "Emir Sheikh Khalid Al-Din",
+    "influence": 29.4,
+    "strengths": [
+      "Economic power and resource control",
+      "Cutting-edge energy solutions",
+      "Skilled diplomats and traders"
+    ],
+    "weaknesses": [
+      "Over-dependence on trade agreements",
+      "Limited military strength compared to larger factions",
+      "Susceptible to resource fluctuations"
+    ],
+    "uniqueAbilities": [
+      "Economic Domination (Boosts trade routes and resource control)",
+      "Energy Superiority (Control over solar and fusion energy sources)"
+    ],
+    "population": 1000000000,
+    "species": ["Humans", "Synthetic Humans"],
+    "diversity": {
+      "Humans": 85,
+      "Synthetic Humans": 15
+    },
+    "homeworld": "Dubai Alpha",
+    "controlledRegions": [
+      "Sol System",
+      "Sands of Orion Cluster",
+      "Mecca Nebula"
+    ],
+    "territorialSize": 7,
+    "resources": [
+      "Solaris Crystals",
+      "Fusion Fuel",
+      "Platinum",
+      "Hyperconductive Materials"
+    ],
+    "allies": ["Sultanate of Saffar", "Khalid Trade Syndicate"],
+    "rivals": ["Eastern Stellar Empire", "Dominion of Polaris"],
+    "neutral": ["Freelancer Union", "Independent Asteroid Miners"],
+    "primaryExports": [
+      "Energy solutions",
+      "Luxury goods",
+      "Spaceports and orbital stations"
+    ],
+    "primaryImports": ["Exotic materials", "Military technology", "AI systems"],
+    "currency": "Galactic Dirhams",
+    "fleetSize": 900,
+    "specialUnits": [
+      "Solar Flare Battlecruisers (Energy-based weaponry and shields)",
+      "Sandstorm Commandos (Elite troops specializing in fast strikes)",
+      "Orbital Trade Platforms (Massive space stations aiding in trade and defense)"
+    ],
+    "defensiveCapabilities": [
+      "Solar Shields (Advanced energy-based planetary defense)",
+      "Orbital Superstructures (Massive defense and resource stations in orbit)"
+    ],
+    "culturalValues": [
+      "Wealth",
+      "Strategic diplomacy",
+      "Technological innovation",
+      "Cultural heritage"
+    ],
+    "languages": ["Arabic", "Galactic Standard"],
+    "history": "The United Arab Emirates Star Coalition grew from the Earthly UAE's legacy of wealth and trade. They rapidly expanded their influence through energy innovations and diplomatic savvy, securing their place as a significant player in the galaxy. Their corporate theocracy intertwines business with governance, ensuring a prosperous future for their people.",
+    "religion": {
+      "dominantBeliefs": "A blend of traditional Islamic teachings and a reverence for technological progress, with a focus on prosperity and peace.",
+      "philosophicalMovements": [
+        {
+          "name": "The Order of Solar Enlightenment",
+          "adherents": 45,
+          "focus": "The pursuit of enlightenment through solar energy and technological advancement."
+        },
+        {
+          "name": "The Ascension of the Faithful",
+          "adherents": 35,
+          "focus": "A blend of faith and wealth, believing that prosperity is a sign of divine favor."
+        }
+      ],
+      "minorReligions": ["Cosmic Sufism", "Solar Mysticism", "Techno-Islamism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Technological Prosperity",
+        "Strategic Diplomacy",
+        "Economic Integration"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Sheikh Zayed Al-Din",
+          "works": ["The Path to Galactic Prosperity", "Solar Wealth and Power"]
+        },
+        {
+          "name": "Mona Fariha",
+          "works": [
+            "Economic Domination in the Stars",
+            "The Solar Order and Its Dividends"
+          ]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides economic strength and trade support, opening lucrative opportunities in the galaxy.",
+      "adversary": "A wealthy faction whose focus on trade and energy can quickly disrupt or influence economic systems."
+    },
+    "aiBehavior": {
+      "diplomatic": "Prioritizes trade, alliances, and diplomacy, often seeking to exploit economic opportunities.",
+      "strategic": "Focuses on securing energy resources, controlling trade routes, and leveraging diplomatic influence.",
+      "combat": "Relies on precision strikes and technological superiority, with an emphasis on overwhelming enemies economically before engaging militarily.",
+      "negative": {
+        "greed": "May overextend themselves by pursuing too many alliances or trade agreements.",
+        "vulnerability": "Susceptible to attacks on their economic infrastructure, such as trade routes or energy sources."
+      }
+    },
+    "negativeTraits": {
+      "tradeDependency": "Heavily reliant on trade and energy deals, making them vulnerable to disruptions.",
+      "militaryWeakness": "While economically powerful, they lack the military strength of larger factions."
+    }
+  },
+  {
+    "id": "22",
+    "name": "Middle Eastern Coalition of Sovereign Nations",
+    "description": "A powerful alliance of historically rich and diverse nations, united by a common purpose to defend their sovereignty, harness their regional resources, and establish dominance in interstellar diplomacy.",
+    "tagline": "Unity in Diversity, Strength in Sovereignty",
+    "icon": "/assets/factions/middle_eastern_coalition.png",
+    "region": "Middle East",
+    "countries": [
+      "United Arab Emirates",
+      "Saudi Arabia",
+      "Qatar",
+      "Kuwait",
+      "Oman",
+      "Bahrain",
+      "Jordan",
+      "Lebanon",
+      "Iraq",
+      "Syria"
+    ],
+    "rulingSystem": "Federal Union of Monarchies and Republics",
+    "corePhilosophy": "Sovereignty, unity, and the strategic utilization of natural resources, blended with the rich cultural heritage of the region.",
+    "leader": "Supreme Sultan Sheikh Tariq Al-Mansouri",
+    "influence": 27.2,
+    "strengths": [
+      "Resource-rich territories",
+      "Strategic location for trade routes",
+      "Experienced in defense and security operations",
+      "Strong cultural unity and diplomacy"
+    ],
+    "weaknesses": [
+      "Internal political fragmentation",
+      "Dependence on oil and gas exports",
+      "Limited technological infrastructure"
+    ],
+    "uniqueAbilities": [
+      "Strategic Resource Control (Ability to boost resources from controlled planets)",
+      "Desert Superiority (Adapted to extreme environments, excelling in desert-based planetary combat)"
+    ],
+    "population": 600000000,
+    "species": ["Humans", "Synthetic Humans", "Xenotypicals"],
+    "diversity": {
+      "Humans": 85,
+      "Synthetic Humans": 10,
+      "Xenotypicals": 5
+    },
+    "homeworld": "Al-Qamar Prime",
+    "controlledRegions": [
+      "Sol System",
+      "Persian Gulf Nebula",
+      "Red Sea Cluster",
+      "Crescent Spiral"
+    ],
+    "territorialSize": 12,
+    "resources": [
+      "Crude Oil",
+      "Solaris Crystals",
+      "Precious Metals",
+      "Water Ice",
+      "Desert Flora"
+    ],
+    "allies": ["United Federation of Eastern Titans", "Sultanate of Saffar"],
+    "rivals": [
+      "Coalition of Nova States",
+      "Eastern Stellar Empire",
+      "Alliance of Starborn Nations"
+    ],
+    "neutral": ["Freelancer Union", "Independent Mining Consortium"],
+    "primaryExports": [
+      "Oil and gas",
+      "Luxury goods",
+      "Military defense technology",
+      "Spaceports and orbital stations"
+    ],
+    "primaryImports": [
+      "Advanced AI systems",
+      "Military hardware",
+      "Cultural artifacts",
+      "Nanotechnology"
+    ],
+    "currency": "Galactic Riyals",
+    "fleetSize": 1100,
+    "specialUnits": [
+      "Desert Phantoms (Special forces trained for harsh environments)",
+      "Sandstorm Siege Tanks (Heavily armored ground units designed for desert warfare)",
+      "Solar Flare Warships (Utilizing solar power-based weaponry)"
+    ],
+    "defensiveCapabilities": [
+      "Desert Shield Networks (Advanced planetary defense technology)",
+      "Orbital Sandstorms (Disruptive orbital defense systems)"
+    ],
+    "culturalValues": [
+      "Honor",
+      "Unity",
+      "Respect for Tradition",
+      "Stewardship of resources"
+    ],
+    "languages": ["Arabic", "Farsi", "Turkish", "Galactic Standard"],
+    "history": "The Middle Eastern Coalition of Sovereign Nations rose from the unity of independent states in the face of external threats. Drawing from the legacy of ancient empires and the resource wealth of the region, they formed a powerful federation, blending their cultural richness with economic strength to shape their destiny among the stars.",
+    "religion": {
+      "dominantBeliefs": "Islam, with a strong emphasis on the preservation of tradition and a reverence for nature and the stars.",
+      "philosophicalMovements": [
+        {
+          "name": "The Eternal Horizon",
+          "adherents": 40,
+          "focus": "A spiritual belief in the eternal journey of humanity across the stars, guided by faith and destiny."
+        },
+        {
+          "name": "The Order of Cosmic Law",
+          "adherents": 30,
+          "focus": "A philosophy emphasizing the balance between technology, faith, and governance."
+        }
+      ],
+      "minorReligions": ["Sufi Mysticism", "Solar Tawhidism", "Techno-Islamism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Strategic Sovereignty",
+        "Desert Adaptation",
+        "Traditional Diplomacy"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Imam Idris Al-Khalil",
+          "works": [
+            "The Path of the Desert Star",
+            "Faith and Technology in the Galactic Era"
+          ]
+        },
+        {
+          "name": "Sheikh Omar Al-Najjar",
+          "works": [
+            "Galactic Diplomacy: Unity Through Tradition",
+            "The Balance of Earth and Sky"
+          ]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides access to valuable resources, defense technology, and strong regional influence.",
+      "adversary": "A coalition of powerful, resource-rich nations with a unique ability to control trade routes and energy sources."
+    },
+    "aiBehavior": {
+      "diplomatic": "Seeks trade agreements and regional influence, often leveraging economic power and military deterrence.",
+      "strategic": "Prioritizes control over resources, strategic defense networks, and alliances with other resource-based factions.",
+      "combat": "Uses superior terrain advantage, siege tactics, and ground warfare specialists, while relying on a balanced fleet of energy-efficient warships.",
+      "negative": {
+        "politicalFragmentation": "May struggle with internal unity and governance challenges.",
+        "resourceDependency": "Vulnerable to fluctuations in resource availability, especially energy sources."
+      }
+    },
+    "negativeTraits": {
+      "over-relianceOnResources": "Economic and military power are heavily dependent on resource control.",
+      "internalStruggles": "Tensions between different member states may lead to political instability."
+    }
+  },
+  {
+    "id": "23",
+    "name": "Republic of Bharat",
+    "description": "A powerful and resilient faction, steeped in ancient traditions yet leading in sustainable technological advancements and military prowess.",
+    "tagline": "Strength Through Unity",
+    "icon": "/assets/factions/republic_of_bharat.png",
+    "region": "South Asia",
+    "country": "India",
+    "rulingSystem": "Democratic Republic",
+    "corePhilosophy": "Unity in diversity, sustainability, and strategic resilience.",
+    "leader": "Prime Minister Asha Kaur",
+    "influence": 32.7,
+    "strengths": [
+      "Strong economic and industrial foundation",
+      "Resilient military infrastructure",
+      "Pioneers in renewable energy and biotechnology"
+    ],
+    "weaknesses": [
+      "Overpopulation challenges",
+      "Bureaucratic inefficiency",
+      "Resource scarcity in some areas"
+    ],
+    "uniqueAbilities": [
+      "Biosynthetic augmentation",
+      "Sustainable energy shields"
+    ],
+    "population": 1350000000000,
+    "species": ["Humans", "Bio-augmented Humans"],
+    "diversity": {
+      "Humans": 98,
+      "Bio-augmented Humans": 2
+    },
+    "homeworld": "New Delhi Prime",
+    "controlledRegions": ["Sol System", "Alpha Centauri Colonies"],
+    "territorialSize": 12,
+    "resources": ["Solar Crystals", "Bio-enhanced crops", "Fusion Fuel"],
+    "allies": ["Confederacy of Southern States", "Galactic Trade League"],
+    "rivals": ["Coalition of Nova States", "Eastern Stellar Empire"],
+    "neutral": ["Neutral Systems Coalition"],
+    "primaryExports": [
+      "Renewable energy solutions",
+      "Bioengineered crops",
+      "Military technology"
+    ],
+    "primaryImports": [
+      "High-tech machinery",
+      "Precious metals",
+      "Quantum materials"
+    ],
+    "currency": "Galactic Rupee",
+    "fleetSize": 1500,
+    "specialUnits": ["Fusion-Powered Battle Cruisers", "Biosynthetic Warriors"],
+    "defensiveCapabilities": [
+      "Adaptive Energy Shields",
+      "Planetary Defense Cannons"
+    ],
+    "culturalValues": ["Diversity", "Sustainability", "Resilience", "Honour"],
+    "languages": ["Hindi", "English", "Sanskrit"],
+    "history": "The Republic of Bharat emerged as a united force following centuries of conflict and fragmentation, rising to prominence with a blend of ancient traditions and cutting-edge technologies.",
+    "religion": {
+      "dominantBeliefs": "Respect for all spiritual traditions, with a focus on non-violence and ecological harmony.",
+      "philosophicalMovements": [
+        {
+          "name": "The Dharma Path",
+          "adherents": 45,
+          "focus": "The pursuit of universal truth, balance, and spiritual awakening."
+        },
+        {
+          "name": "Scientific Rationalism",
+          "adherents": 40,
+          "focus": "Logic, reason, and empirical science."
+        },
+        {
+          "name": "Technosophy",
+          "adherents": 15,
+          "focus": "The synthesis of technology and spirituality."
+        }
+      ],
+      "minorReligions": ["Hinduism", "Islamic Unity", "Buddhism", "Jainism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": ["Techno-ecological Harmony", "Global Unity"],
+      "keyPhilosophers": [
+        {
+          "name": "Sundar Prakash",
+          "works": [
+            "Technological Balance: The Future of Humanity",
+            "The Path of Dharma and the Machine"
+          ]
+        },
+        {
+          "name": "Priya Desai",
+          "works": [
+            "The Sustainable Future",
+            "Building Unity in a Fragmented Universe"
+          ]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides access to renewable energy, biotechnology, and strategic military support.",
+      "adversary": "A resilient and resourceful faction with a powerful military and defensive capabilities."
+    },
+    "aiBehavior": {
+      "diplomatic": "Favors alliances with resource-rich and ecologically focused factions.",
+      "strategic": "Focuses on self-sufficiency, resource management, and defense.",
+      "combat": "Relies on sustainable military tactics, focusing on endurance and attrition.",
+      "negative": {
+        "overpopulation": "Struggles with managing rapid population growth.",
+        "bureaucraticDelay": "Can be slow to make key decisions due to large administrative systems."
+      }
+    },
+    "negativeTraits": {
+      "techDependence": "Vulnerable to cyber-attacks or technological sabotage.",
+      "bureaucraticInefficiency": "Can lead to delays and mismanagement in critical situations."
+    }
+  },
+  {
+    "id": "24",
+    "name": "Islamic Federation of Pakistania",
+    "description": "A resilient and militarily strategic faction with deep cultural traditions, focusing on innovation in defense, agriculture, and resource management.",
+    "tagline": "Strength Through Faith and Unity",
+    "icon": "/assets/factions/islamic_federation_of_pakistania.png",
+    "region": "South Asia",
+    "country": "Pakistan",
+    "rulingSystem": "Federal Republic",
+    "corePhilosophy": "Unity, strength in faith, and self-reliance through sustainable development.",
+    "leader": "President Zainab Khan",
+    "influence": 27.5,
+    "strengths": [
+      "Strategic military capabilities",
+      "Resource-rich agricultural sector",
+      "Strong religious and cultural unity"
+    ],
+    "weaknesses": [
+      "Dependence on agricultural exports",
+      "Limited technological advancements compared to rivals",
+      "Internal political instability"
+    ],
+    "uniqueAbilities": [
+      "Resourceful military tactics",
+      "Advanced agricultural engineering"
+    ],
+    "population": 230000000,
+    "species": ["Humans"],
+    "diversity": {
+      "Humans": 100
+    },
+    "homeworld": "Lahore Prime",
+    "controlledRegions": ["Sol System", "Omega Delta Colonies"],
+    "territorialSize": 10,
+    "resources": ["Silicon", "Agricultural Products", "Tritium"],
+    "allies": ["Republic of Bharat", "Eastern Stellar Empire"],
+    "rivals": ["Coalition of Nova States", "Red Star Collective"],
+    "neutral": ["Galactic Merchant Guild"],
+    "primaryExports": [
+      "Agricultural products",
+      "Tritium fuel",
+      "Military technology"
+    ],
+    "primaryImports": [
+      "High-tech machinery",
+      "Energy resources",
+      "Medical advancements"
+    ],
+    "currency": "Pakistani Galactic Rupee",
+    "fleetSize": 1200,
+    "specialUnits": ["Tritium-Powered Destroyers", "Elite Special Forces"],
+    "defensiveCapabilities": [
+      "High-Energy Particle Shields",
+      "Underground Bunkers and Defense Networks"
+    ],
+    "culturalValues": ["Faith", "Community", "Resilience", "Honour"],
+    "languages": ["Urdu", "English"],
+    "history": "The Islamic Federation of Pakistania emerged from the ashes of Earth's tumultuous conflicts, focusing on religious unity and defense while striving to modernize through sustainable practices.",
+    "religion": {
+      "dominantBeliefs": "Islamic governance based on traditional values with respect for scientific and technological advancements.",
+      "philosophicalMovements": [
+        {
+          "name": "The Path of Enlightened Faith",
+          "adherents": 70,
+          "focus": "The synthesis of religious faith and scientific progress."
+        },
+        {
+          "name": "The Rational Faith",
+          "adherents": 20,
+          "focus": "Encouraging logical reasoning within the framework of Islamic teachings."
+        },
+        {
+          "name": "Technological Jihad",
+          "adherents": 10,
+          "focus": "The belief in technological innovation as a means to empower the Muslim Ummah."
+        }
+      ],
+      "minorReligions": ["Sufism", "Zoroastrianism", "Secularism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Faith-Driven Progress",
+        "Defensive Technological Resilience"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Imam Rashid Al-Farooq",
+          "works": [
+            "The Islamic Technological Renaissance",
+            "The Futuristic Path of Faith"
+          ]
+        },
+        {
+          "name": "Dr. Mehmood Ali",
+          "works": ["Agricultural Sustainability", "Defending Our Way of Life"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides access to agricultural resources, military support, and strategic alliances.",
+      "adversary": "A tenacious opponent with strong defensive capabilities and resourceful military tactics."
+    },
+    "aiBehavior": {
+      "diplomatic": "Favors alliances with faith-based and resource-rich factions.",
+      "strategic": "Focuses on building sustainable economies and defense networks.",
+      "combat": "Relies on strategic positioning, resourceful defense, and elite forces.",
+      "negative": {
+        "overextension": "Tends to spread military resources thin in large conflicts.",
+        "instability": "Internal political issues can lead to moments of weakness."
+      }
+    },
+    "negativeTraits": {
+      "politicalInstability": "Can suffer from factionalism and internal unrest.",
+      "techDeficit": "Lags behind in advanced technological development compared to more futuristic factions."
+    }
+  },
+  {
+    "id": "25",
+    "name": "People's Federation of Bangla",
+    "description": "A resilient and resourceful faction that has transformed its historical challenges into opportunities, focusing on innovation, sustainability, and regional cooperation.",
+    "tagline": "Unity in Diversity, Strength in Resilience",
+    "icon": "/assets/factions/peoples_federation_of_bangla.png",
+    "region": "South Asia",
+    "country": "Bangladesh",
+    "rulingSystem": "People's Republic",
+    "corePhilosophy": "Resilience, community spirit, and sustainable development through innovation and cooperation.",
+    "leader": "Prime Minister Ayesha Rahman",
+    "influence": 24.3,
+    "strengths": [
+      "Strategic geographical position",
+      "Rich agricultural heritage",
+      "Strong focus on renewable energy and eco-friendly technologies"
+    ],
+    "weaknesses": [
+      "Dependence on agricultural exports",
+      "Vulnerability to climate change and natural disasters",
+      "Limited military power compared to major galactic factions"
+    ],
+    "uniqueAbilities": [
+      "Sustainable farming technologies",
+      "Eco-based defensive strategies"
+    ],
+    "population": 160000000,
+    "species": ["Humans"],
+    "diversity": {
+      "Humans": 100
+    },
+    "homeworld": "Dhaka Prime",
+    "controlledRegions": ["Sol System", "Bay of Bengal Outposts"],
+    "territorialSize": 8,
+    "resources": ["Rice", "Jute", "Biofuels"],
+    "allies": ["Republic of Bharat", "People's Confederation of Sri Lanka"],
+    "rivals": ["Coalition of Nova States", "Red Star Collective"],
+    "neutral": ["Galactic Merchant Guild", "United Worlds of Auria"],
+    "primaryExports": [
+      "Agricultural products",
+      "Biofuels",
+      "Renewable energy solutions"
+    ],
+    "primaryImports": [
+      "Advanced technology",
+      "Military hardware",
+      "Water purification systems"
+    ],
+    "currency": "Bangladeshi Galactic Taka",
+    "fleetSize": 800,
+    "specialUnits": ["Green Energy Powered Dreadnoughts", "Riverine Commandos"],
+    "defensiveCapabilities": [
+      "Water-based defense systems",
+      "Renewable energy shield grids"
+    ],
+    "culturalValues": [
+      "Unity",
+      "Resilience",
+      "Sustainability",
+      "Social Justice"
+    ],
+    "languages": ["Bengali", "English"],
+    "history": "The People's Federation of Bangla rose from the challenges of a resource-scarce world, using its geographic location and agricultural strengths to form a resilient and sustainable civilization focused on peace and innovation.",
+    "religion": {
+      "dominantBeliefs": "Secular governance with a strong cultural and spiritual connection to nature.",
+      "philosophicalMovements": [
+        {
+          "name": "The Green Path",
+          "adherents": 60,
+          "focus": "Environmental sustainability and the integration of nature with technology."
+        },
+        {
+          "name": "The Enlightened Collective",
+          "adherents": 30,
+          "focus": "Promoting community welfare and social equality."
+        }
+      ],
+      "minorReligions": ["Buddhism", "Secular Humanism", "Shaktiism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": ["Eco-Socialism", "Renewable Futurism"],
+      "keyPhilosophers": [
+        {
+          "name": "Dr. Imran Ali",
+          "works": ["Sustainable Futures", "Green Development for All"]
+        },
+        {
+          "name": "Kazi Nazrul Islam",
+          "works": ["The Path of Justice", "Social Harmony in a Divided World"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides access to agricultural resources, renewable energy solutions, and diplomatic support.",
+      "adversary": "A resourceful but smaller opponent with a strong focus on sustainability and regional influence."
+    },
+    "aiBehavior": {
+      "diplomatic": "Prefers alliances with eco-focused and community-driven factions.",
+      "strategic": "Concentrates on defense through eco-friendly technologies and regional cooperation.",
+      "combat": "Uses guerrilla tactics, water-based defense systems, and renewable energy-powered units.",
+      "negative": {
+        "resourceVulnerability": "Highly vulnerable to environmental or climatic disruptions.",
+        "militaryDeficit": "Lacks the military power to face large galactic threats directly."
+      }
+    },
+    "negativeTraits": {
+      "climateVulnerability": "Highly susceptible to the impacts of climate change and natural disasters.",
+      "techDeficit": "Relies heavily on imported technology for advanced systems."
+    }
+  },
+  {
+    "id": "26",
+    "name": "Federation of Nusantara",
+    "description": "A vibrant and resourceful faction, blending ancient traditions with modern innovation, focusing on sustainable development and regional cooperation.",
+    "tagline": "Unity in Diversity, Strength in Sustainability",
+    "icon": "/assets/factions/federation_of_nusantara.png",
+    "region": "Southeast Asia",
+    "country": "Indonesia",
+    "rulingSystem": "Federal Republic",
+    "corePhilosophy": "Diversity, sustainability, and collective progress through harmony between technology and nature.",
+    "leader": "President Joko Anwar",
+    "influence": 28.6,
+    "strengths": [
+      "Strategic location in the archipelago",
+      "Rich natural resources and biodiversity",
+      "Strong maritime capabilities and naval power"
+    ],
+    "weaknesses": [
+      "Vulnerable to natural disasters",
+      "Economic dependency on resource exports",
+      "Internal regional disparities"
+    ],
+    "uniqueAbilities": [
+      "Maritime superiority",
+      "Eco-centric technological development"
+    ],
+    "population": 270000000,
+    "species": ["Humans"],
+    "diversity": {
+      "Humans": 100
+    },
+    "homeworld": "Jakarta Prime",
+    "controlledRegions": ["Sol System", "Nusantara Rim Colonies"],
+    "territorialSize": 12,
+    "resources": ["Oil", "Tropical Agriculture", "Rare Minerals"],
+    "allies": ["Republic of Bharat", "Southeast Stellar Union"],
+    "rivals": ["Coalition of Nova States", "Red Star Collective"],
+    "neutral": ["Galactic Merchant Guild"],
+    "primaryExports": [
+      "Agricultural products",
+      "Energy resources",
+      "Marine technology"
+    ],
+    "primaryImports": [
+      "Advanced machinery",
+      "High-tech electronics",
+      "Medical supplies"
+    ],
+    "currency": "Galactic Rupiah",
+    "fleetSize": 1000,
+    "specialUnits": ["Nautical Battlecruisers", "Eco-Commandos"],
+    "defensiveCapabilities": [
+      "Oceanic Defense Systems",
+      "Natural Disaster Resilience Technologies"
+    ],
+    "culturalValues": [
+      "Unity",
+      "Environmental Stewardship",
+      "Social Welfare",
+      "Peaceful Coexistence"
+    ],
+    "languages": ["Bahasa Indonesia", "English"],
+    "history": "The Federation of Nusantara rose from the lush archipelago of Earth, united by a vision of harmonious growth, leveraging its vast maritime heritage and rich natural resources to become a regional powerhouse.",
+    "religion": {
+      "dominantBeliefs": "Secular governance with respect for spiritual diversity and harmony with nature.",
+      "philosophicalMovements": [
+        {
+          "name": "The Way of Unity",
+          "adherents": 60,
+          "focus": "Promoting social unity and environmental sustainability."
+        },
+        {
+          "name": "The Horizon Order",
+          "adherents": 30,
+          "focus": "Embracing technological progress without compromising traditional values."
+        }
+      ],
+      "minorReligions": [
+        "Islam",
+        "Christianity",
+        "Balinese Spiritualism",
+        "Buddhism"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": ["Ecological Socialism", "Maritime Futurism"],
+      "keyPhilosophers": [
+        {
+          "name": "Prof. Anita R. Yulianto",
+          "works": ["Oceanic Sustainability", "Reviving the Archipelago Spirit"]
+        },
+        {
+          "name": "Budi Santosa",
+          "works": ["Technological Harmony", "The Future of the Sea"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides access to natural resources, maritime expertise, and eco-friendly technologies.",
+      "adversary": "A formidable rival with strong naval forces and strategic coastal positioning."
+    },
+    "aiBehavior": {
+      "diplomatic": "Favors alliances with eco-friendly and resource-rich factions.",
+      "strategic": "Focuses on controlling maritime trade routes and maintaining environmental harmony.",
+      "combat": "Relies on naval superiority, guerrilla tactics, and eco-friendly warfare technologies.",
+      "negative": {
+        "resourceVulnerability": "Vulnerable to the depletion of natural resources and climate-induced disruptions.",
+        "regionalConflicts": "Internal divisions can disrupt cohesion."
+      }
+    },
+    "negativeTraits": {
+      "climateRisk": "Vulnerable to rising sea levels and natural disasters.",
+      "economicDependence": "Heavily reliant on resource extraction for economic stability."
+    }
+  },
+  {
+    "id": "27",
+    "name": "Kingdom of Siam Imperium",
+    "description": "A prosperous and resilient faction, blending ancient traditions with modern advancements, and focusing on regional stability, diplomacy, and economic power.",
+    "tagline": "Honor, Prosperity, and Diplomacy",
+    "icon": "/assets/factions/kingdom_of_siam_imperium.png",
+    "region": "Southeast Asia",
+    "country": "Thailand",
+    "rulingSystem": "Monarchical Federation",
+    "corePhilosophy": "Honor, economic growth, and maintaining a strong and peaceful regional presence.",
+    "leader": "King Phutthayotfa Chulalok",
+    "influence": 24.5,
+    "strengths": [
+      "Strong diplomatic ties",
+      "Flourishing tourism and agriculture sectors",
+      "Cultural heritage and military traditions"
+    ],
+    "weaknesses": [
+      "Limited technological base",
+      "Vulnerability to regional conflicts",
+      "Dependency on agriculture exports"
+    ],
+    "uniqueAbilities": [
+      "Diplomatic Influence",
+      "Tourism-based economic growth"
+    ],
+    "population": 700000000,
+    "species": ["Humans"],
+    "diversity": {
+      "Humans": 100
+    },
+    "homeworld": "Bangkok Prime",
+    "controlledRegions": ["Sol System", "Chao Phraya Colonies"],
+    "territorialSize": 9,
+    "resources": ["Rice", "Timber", "Precious Gems"],
+    "allies": ["Federation of Nusantara", "Asian-Pacific Alliance"],
+    "rivals": ["Coalition of Nova States", "Eastern Stellar Empire"],
+    "neutral": ["Galactic Traders Consortium"],
+    "primaryExports": [
+      "Agricultural products",
+      "Textiles",
+      "Tourism and hospitality services"
+    ],
+    "primaryImports": ["Technology", "Medical supplies", "Luxury goods"],
+    "currency": "Galactic Baht",
+    "fleetSize": 500,
+    "specialUnits": ["Royal Guardians", "Monsoon Fighters"],
+    "defensiveCapabilities": [
+      "Fortified coastal defenses",
+      "Advanced surveillance networks"
+    ],
+    "culturalValues": ["Honor", "Family", "Prosperity", "Respect for Nature"],
+    "languages": ["Thai", "English"],
+    "history": "The Kingdom of Siam Imperium, rooted in ancient traditions, has thrived through diplomacy, expanding its economic power and fostering peaceful relations within Southeast Asia and beyond.",
+    "religion": {
+      "dominantBeliefs": "Buddhism, with deep respect for spiritual practice and meditation.",
+      "philosophicalMovements": [
+        {
+          "name": "The Way of the Buddha",
+          "adherents": 60,
+          "focus": "Spiritual enlightenment and mindfulness."
+        },
+        {
+          "name": "The Eternal Harmony",
+          "adherents": 30,
+          "focus": "A blend of nature worship, ancestor veneration, and balance with the cosmos."
+        }
+      ],
+      "minorReligions": ["Christianity", "Islam", "Hinduism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Pacifism with a focus on diplomacy",
+        "Sustainable Development"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "King Chulalongkorn",
+          "works": [
+            "The Thai Model of Diplomacy",
+            "Economic Prosperity Through Cooperation"
+          ]
+        },
+        {
+          "name": "Phichai Phongthep",
+          "works": [
+            "Enlightened Governance",
+            "The Harmony of Development and Tradition"
+          ]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides diplomatic support, agricultural resources, and strategic partnerships.",
+      "adversary": "A strong regional player, with formidable cultural and economic influence."
+    },
+    "aiBehavior": {
+      "diplomatic": "Seeks peaceful solutions, prioritizing diplomacy and trade agreements.",
+      "strategic": "Focuses on regional stability and economic prosperity.",
+      "combat": "Uses defensive strategies and limited offensive operations, relying on surprise and diplomacy in conflict.",
+      "negative": {
+        "slowTechnologicalAdvancement": "Relies on older technologies compared to other factions.",
+        "overrelianceOnAgriculture": "Susceptible to economic disruption from environmental factors."
+      }
+    },
+    "negativeTraits": {
+      "vulnerabilityToClimateChange": "Prone to impacts from rising sea levels and environmental disasters.",
+      "regionalInstability": "Can be dragged into conflicts due to tensions in neighboring regions."
+    }
+  },
+  {
+    "id": "28",
+    "name": "Socialist Republic of Vietnam",
+    "description": "A resilient and resourceful faction, emphasizing strategic diplomacy, sustainable growth, and the preservation of cultural identity.",
+    "tagline": "Unity, Growth, and Resilience",
+    "icon": "/assets/factions/socialist_republic_of_vietnam.png",
+    "region": "Southeast Asia",
+    "country": "Vietnam",
+    "rulingSystem": "People's Republic",
+    "corePhilosophy": "Social equity, national pride, and sustainable development.",
+    "leader": "President Phan Minh Chinh",
+    "influence": 18.7,
+    "strengths": [
+      "Resilient workforce",
+      "Strong agricultural and manufacturing sectors",
+      "Adaptability in resource management"
+    ],
+    "weaknesses": [
+      "Limited technological base",
+      "Dependence on natural resources",
+      "Vulnerability to external pressures"
+    ],
+    "uniqueAbilities": ["Strategic resource management", "Cultural cohesion"],
+    "population": 970000000,
+    "species": ["Humans"],
+    "diversity": {
+      "Humans": 100
+    },
+    "homeworld": "Hanoi Prime",
+    "controlledRegions": ["Sol System", "Indochina Colonies"],
+    "territorialSize": 7,
+    "resources": ["Rice", "Natural Gas", "Timber"],
+    "allies": ["Federation of Southeast Asia", "Republic of Indonesia"],
+    "rivals": ["Coalition of Nova States", "Eastern Stellar Empire"],
+    "neutral": ["Galactic Traders Consortium"],
+    "primaryExports": ["Agricultural products", "Textiles", "Energy resources"],
+    "primaryImports": [
+      "Technology",
+      "Luxury goods",
+      "High-end manufacturing materials"
+    ],
+    "currency": "Galactic Dong",
+    "fleetSize": 400,
+    "specialUnits": ["Red Dragon Infantry", "Monsoon Airstrikes"],
+    "defensiveCapabilities": ["Underground bunkers", "Naval minefields"],
+    "culturalValues": [
+      "Community",
+      "Self-reliance",
+      "Pride in heritage",
+      "Sustainable development"
+    ],
+    "languages": ["Vietnamese", "English"],
+    "history": "The Socialist Republic of Vietnam rose from a long history of resilience and struggle, fostering a culture of unity, resourcefulness, and determination to thrive in the galactic stage.",
+    "religion": {
+      "dominantBeliefs": "Secularism with respect for Buddhism and ancestor worship.",
+      "philosophicalMovements": [
+        {
+          "name": "The Path of Harmony",
+          "adherents": 60,
+          "focus": "Spiritual connection through balance and mindfulness."
+        },
+        {
+          "name": "The People's Doctrine",
+          "adherents": 30,
+          "focus": "Social equality and empowerment of the masses."
+        }
+      ],
+      "minorReligions": ["Christianity", "Taoism", "Confucianism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Socialism with Vietnamese characteristics",
+        "Sustainable development"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Ho Chi Minh",
+          "works": ["The Path of Revolution", "The Spirit of the People"]
+        },
+        {
+          "name": "Truong Chinh",
+          "works": [
+            "The Revolution of the Masses",
+            "Socialist Construction in Vietnam"
+          ]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides vital agricultural resources, strategic alliances, and a resilient workforce.",
+      "adversary": "A tenacious opponent, capable of outlasting technologically superior foes."
+    },
+    "aiBehavior": {
+      "diplomatic": "Seeks to build strong alliances with neighboring factions and economic partners.",
+      "strategic": "Focuses on resource security and maintaining cultural unity.",
+      "combat": "Uses guerilla tactics and defensive operations, leveraging the environment to its advantage.",
+      "negative": {
+        "lackOfTechDevelopment": "Struggles with technological advancement compared to other factions.",
+        "economicVulnerabilities": "Can suffer from over-reliance on a few core exports."
+      }
+    },
+    "negativeTraits": {
+      "resourceDependency": "Vulnerable to fluctuations in commodity prices and resource shortages.",
+      "geopoliticalTensions": "Faces challenges due to its strategic location and external pressures."
+    }
+  },
+  {
+    "id": "29",
+    "name": "Federation of Southeast Asia",
+    "description": "A united federation of Southeast Asian nations, blending diverse cultures and resources for collective prosperity and security.",
+    "tagline": "Unity in Diversity, Strength in Cooperation",
+    "icon": "/assets/factions/federation_of_southeast_asia.png",
+    "region": "Southeast Asia",
+    "country": "Southeast Asia Federation",
+    "rulingSystem": "Federal Republic",
+    "corePhilosophy": "Regional unity, sustainable growth, and mutual cooperation.",
+    "leader": "President Anwar Ibrahim",
+    "influence": 22.4,
+    "strengths": [
+      "Rich cultural diversity",
+      "Strong agricultural and manufacturing sectors",
+      "Strategic geopolitical position",
+      "Growing technological hubs"
+    ],
+    "weaknesses": [
+      "Internal political divisions",
+      "Economic disparities between member nations",
+      "Challenges in unifying diverse cultures and languages"
+    ],
+    "uniqueAbilities": ["Cultural diplomacy", "Resource-sharing agreements"],
+    "population": 700000000,
+    "species": ["Humans"],
+    "diversity": {
+      "Humans": 100
+    },
+    "homeworld": "Manila Prime",
+    "controlledRegions": [
+      "Sol System",
+      "South China Sea Colonies",
+      "Indochina Colonies"
+    ],
+    "territorialSize": 10,
+    "resources": ["Rice", "Tin", "Rubber", "Natural Gas", "Timber", "Fish"],
+    "allies": ["Socialist Republic of Vietnam", "Republic of Indonesia"],
+    "rivals": ["Coalition of Nova States", "Eastern Stellar Empire"],
+    "neutral": ["Galactic Traders Consortium", "Free Systems Confederation"],
+    "primaryExports": [
+      "Agricultural products",
+      "Electronics",
+      "Textiles",
+      "Natural resources"
+    ],
+    "primaryImports": [
+      "Technology",
+      "Luxury goods",
+      "High-end manufacturing materials"
+    ],
+    "currency": "Federation Credits",
+    "fleetSize": 500,
+    "specialUnits": ["Southeast Asian Commando Units", "Monsoon Naval Fleets"],
+    "defensiveCapabilities": [
+      "Naval minefields",
+      "Advanced coastal defense systems",
+      "Cyber warfare units"
+    ],
+    "culturalValues": [
+      "Cooperation",
+      "Sustainability",
+      "Cultural respect",
+      "Economic prosperity"
+    ],
+    "languages": [
+      "Bahasa Malaysia",
+      "Tagalog",
+      "Thai",
+      "Vietnamese",
+      "English"
+    ],
+    "history": "The Federation of Southeast Asia emerged as a collective response to regional challenges, pooling resources and efforts to foster shared prosperity and security, while respecting the region's cultural diversity.",
+    "religion": {
+      "dominantBeliefs": "Religious tolerance with respect for Buddhism, Islam, Christianity, and indigenous spiritual practices.",
+      "philosophicalMovements": [
+        {
+          "name": "The Path of Harmony",
+          "adherents": 40,
+          "focus": "Spiritual connection and collective well-being."
+        },
+        {
+          "name": "The People's Doctrine",
+          "adherents": 30,
+          "focus": "Unity, cooperation, and shared prosperity."
+        }
+      ],
+      "minorReligions": [
+        "Christianity",
+        "Taoism",
+        "Confucianism",
+        "Hinduism",
+        "Indigenous Spirituality"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Southeast Asian Cooperation",
+        "Sustainable development",
+        "Resource-based economy"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Lee Kuan Yew",
+          "works": ["The Singapore Story", "The Building of a Nation"]
+        },
+        {
+          "name": "Jose Rizal",
+          "works": [
+            "The Philippines: Nation of Hope",
+            "Reflections on Southeast Asia"
+          ]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides access to a diverse economy, strategic alliances, and a growing technological base.",
+      "adversary": "A formidable force with a broad reach, capable of leveraging the region's resources and strategic position."
+    },
+    "aiBehavior": {
+      "diplomatic": "Focuses on building cooperative agreements and fostering economic partnerships across the region.",
+      "strategic": "Maintains balance in resources while investing in technology and defense.",
+      "combat": "Uses guerilla tactics, naval superiority, and strategic alliances to fight larger powers.",
+      "negative": {
+        "internalConflicts": "Faces political and cultural challenges in maintaining unity.",
+        "economicDisparities": "Some member nations struggle with economic inequality."
+      }
+    },
+    "negativeTraits": {
+      "internalStruggles": "Internal divisions may slow down effective governance.",
+      "resourceCompetition": "Rivalries between member states may lead to competition for vital resources."
+    }
+  },
+  {
+    "id": "30",
+    "name": "Celestial Empire of East Asia",
+    "description": "A mighty and ancient empire that blends technological innovation with a rich cultural heritage, seeking dominance through discipline and strategic influence.",
+    "tagline": "Strength, Harmony, and Destiny",
+    "icon": "/assets/factions/celestial_empire_of_east_asia.png",
+    "region": "East Asia",
+    "country": "People's Republic of China",
+    "rulingSystem": "Imperial Technocracy",
+    "corePhilosophy": "Order, harmony, and technological ascendancy.",
+    "leader": "Empress Li Wei",
+    "influence": 30.2,
+    "strengths": [
+      "Technological innovation",
+      "Massive industrial base",
+      "Cultural unity and discipline",
+      "Strategic geopolitical positioning"
+    ],
+    "weaknesses": [
+      "Heavy bureaucratic control",
+      "Environmental degradation",
+      "Dependence on centralized power"
+    ],
+    "uniqueAbilities": [
+      "Grand Resource Management",
+      "Cultural and Political Influence"
+    ],
+    "population": 1400000000,
+    "species": ["Humans"],
+    "diversity": {
+      "Humans": 100
+    },
+    "homeworld": "Beijing Prime",
+    "controlledRegions": ["Sol System", "Eastern Colonies"],
+    "territorialSize": 12,
+    "resources": ["Rare Earth Metals", "Silicon", "Steel", "Energy Solutions"],
+    "allies": ["Republic of Korea", "Federation of Southeast Asia"],
+    "rivals": ["Coalition of Nova States", "Eastern Stellar Empire"],
+    "neutral": ["Galactic Traders Consortium"],
+    "primaryExports": [
+      "Electronics",
+      "Automobiles",
+      "Energy technologies",
+      "Construction materials"
+    ],
+    "primaryImports": [
+      "Luxury goods",
+      "Advanced AI",
+      "Bio-engineered products"
+    ],
+    "currency": "Celestial Credits",
+    "fleetSize": 1200,
+    "specialUnits": ["Dragon Mechs", "Celestial Warships"],
+    "defensiveCapabilities": [
+      "Great Wall Defense Systems",
+      "Orbital Energy Shields"
+    ],
+    "culturalValues": [
+      "Harmony",
+      "Discipline",
+      "Hard work",
+      "Strategic foresight"
+    ],
+    "languages": ["Mandarin", "Cantonese", "English"],
+    "history": "The Celestial Empire of East Asia, a descendant of ancient imperial power, blends traditional values with the ambition to become the leader of the galactic stage, utilizing cutting-edge technologies and political influence.",
+    "religion": {
+      "dominantBeliefs": "Secular governance with a deep respect for Buddhism, Confucianism, and Taoism.",
+      "philosophicalMovements": [
+        {
+          "name": "The Way of Harmony",
+          "adherents": 40,
+          "focus": "Balancing individual ambition with collective good."
+        },
+        {
+          "name": "The Mandate of Heaven",
+          "adherents": 30,
+          "focus": "The divine right of leadership, connected to cosmic balance."
+        }
+      ],
+      "minorReligions": ["Confucianism", "Buddhism", "Christianity", "Taoism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Technological Ascendancy",
+        "Cultural Supremacy",
+        "Centralized Governance"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Confucius",
+          "works": ["The Analects", "On Governance and Society"]
+        },
+        {
+          "name": "Zhuangzi",
+          "works": ["The Book of Zhuangzi", "On the Nature of the Cosmos"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides vast technological advancements, resources, and a disciplined military.",
+      "adversary": "A formidable power that uses its industrial might and technological superiority to maintain dominance."
+    },
+    "aiBehavior": {
+      "diplomatic": "Seeks to influence neighboring factions, emphasizing strategic alliances and economic cooperation.",
+      "strategic": "Focuses on expanding resources, advancing technology, and securing political influence.",
+      "combat": "Utilizes overwhelming industrial power, advanced technologies, and disciplined, organized forces.",
+      "negative": {
+        "authoritarianism": "Tends to impose centralized control, limiting autonomy of other factions.",
+        "environmentalImpact": "Suffers from ecological damage due to rapid industrialization."
+      }
+    },
+    "negativeTraits": {
+      "bureaucraticOverload": "Sluggish decision-making due to heavy bureaucracy and centralized governance.",
+      "environmentalDegradation": "The emphasis on industry often leads to environmental imbalances and resource depletion."
+    }
+  },
+  {
+    "id": "31",
+    "name": "Shogunate of the Rising Sun",
+    "description": "A technologically advanced and disciplined empire that blends rich cultural traditions with cutting-edge innovation, striving for excellence in all areas.",
+    "tagline": "Honor, Innovation, and Prosperity",
+    "icon": "/assets/factions/shogunate_of_the_rising_sun.png",
+    "region": "East Asia",
+    "country": "Japan",
+    "rulingSystem": "Feudal Technocracy",
+    "corePhilosophy": "Discipline, honor, and technological mastery.",
+    "leader": "Shogun Hiroshi Takeda",
+    "influence": 32.1,
+    "strengths": [
+      "Superior technological innovation",
+      "Cultural unity and discipline",
+      "Mastery of robotics and cybernetics",
+      "Highly skilled military forces"
+    ],
+    "weaknesses": [
+      "Conservative mindset, slow to adopt new political ideas",
+      "Vulnerable to external economic pressure",
+      "Dependence on technological infrastructure"
+    ],
+    "uniqueAbilities": [
+      "Robotic and Cybernetic Enhancement",
+      "Kinetic Energy Weapons Development"
+    ],
+    "population": 1300000000,
+    "species": ["Humans", "Cyborgs"],
+    "diversity": {
+      "Humans": 85,
+      "Cyborgs": 15
+    },
+    "homeworld": "Kyoto Prime",
+    "controlledRegions": ["Sol System", "Eastern Colonies", "Lunar Outposts"],
+    "territorialSize": 10,
+    "resources": [
+      "Silicon",
+      "Rare Earth Elements",
+      "Hydrogen",
+      "Plasma Energy"
+    ],
+    "allies": ["Republic of Korea", "Federation of Southeast Asia"],
+    "rivals": ["Celestial Empire of East Asia", "Coalition of Nova States"],
+    "neutral": ["Galactic Traders Consortium", "Merchant Guild of Xeros"],
+    "primaryExports": [
+      "Advanced robotics",
+      "Cybernetic implants",
+      "High-tech consumer goods",
+      "Energy solutions"
+    ],
+    "primaryImports": ["Exotic materials", "Luxury goods", "Biotechnology"],
+    "currency": "Shogunate Credits",
+    "fleetSize": 1000,
+    "specialUnits": ["Cybernetic Samurai", "Mecha Warriors"],
+    "defensiveCapabilities": ["Plasma Shield Systems", "Stealth Energy Cloaks"],
+    "culturalValues": ["Honor", "Respect", "Innovation", "Discipline"],
+    "languages": ["Japanese", "English"],
+    "history": "The Shogunate of the Rising Sun evolved from a rich cultural and military tradition, embracing technological innovation to maintain its dominance on the galactic stage. The empire remains fiercely protective of its autonomy and culture while leading in robotic and cybernetic advancements.",
+    "religion": {
+      "dominantBeliefs": "A blend of Shinto spirituality and Buddhism, with respect for individual belief systems.",
+      "philosophicalMovements": [
+        {
+          "name": "The Way of the Shogun",
+          "adherents": 40,
+          "focus": "Discipline, order, and honor in governance and personal life."
+        },
+        {
+          "name": "The Path of the Machine Spirit",
+          "adherents": 30,
+          "focus": "The connection between human consciousness and cybernetic evolution."
+        }
+      ],
+      "minorReligions": [
+        "Shinto",
+        "Zen Buddhism",
+        "Buddhism",
+        "Neo-Christianity"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Technological Harmony",
+        "Cultural Preservation",
+        "Strategic Innovation"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Katsuhiro Takeda",
+          "works": [
+            "The Way of Technology",
+            "Discipline in the Age of Machines"
+          ]
+        },
+        {
+          "name": "Reiko Akira",
+          "works": [
+            "Cybernetics and Humanity",
+            "Honorable Governance in the Machine Age"
+          ]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides access to advanced technology, robotics, and strategic military support.",
+      "adversary": "A strong, technologically driven opponent that excels in cybernetics and robotic warfare."
+    },
+    "aiBehavior": {
+      "diplomatic": "Seeks alliances based on mutual respect and technological exchange, particularly with those who value discipline and honor.",
+      "strategic": "Focuses on maintaining technological superiority and expanding its influence in Eastern and Galactic markets.",
+      "combat": "Uses disciplined, highly skilled forces, enhanced by cybernetic and robotic technology, in well-coordinated, precision strikes.",
+      "negative": {
+        "conservatism": "Reluctant to fully embrace democratic or radical political shifts, favoring a more traditional approach.",
+        "economicDependence": "Vulnerable to external economic pressure or trade imbalances."
+      }
+    },
+    "negativeTraits": {
+      "technologicalDependence": "Heavy reliance on advanced technology, vulnerable to sabotage or technological disruption.",
+      "politicalConservatism": "Slow to adapt to changing galactic dynamics or new governance structures."
+    }
+  },
+  {
+    "id": "32",
+    "name": "Republic of New Han",
+    "description": "A vibrant, tech-driven republic with a robust military presence and a keen eye on expanding influence through technological, economic, and cultural exports.",
+    "tagline": "Unity through Innovation",
+    "icon": "/assets/factions/republic_of_new_han.png",
+    "region": "East Asia",
+    "country": "South Korea",
+    "rulingSystem": "Democratic Republic",
+    "corePhilosophy": "Technological advancement, strong defense, and global collaboration.",
+    "leader": "President Ji-Soo Han",
+    "influence": 28.4,
+    "strengths": [
+      "Advanced technological innovations",
+      "Strong military defense",
+      "Highly efficient economy",
+      "Expertise in robotics and automation"
+    ],
+    "weaknesses": [
+      "Vulnerable to cyberattacks",
+      "Dependency on external trade",
+      "Political tensions with neighboring factions"
+    ],
+    "uniqueAbilities": ["Cyber Warfare Supremacy", "Autonomous Drone Swarms"],
+    "population": 520000000,
+    "species": ["Humans", "Cyborgs"],
+    "diversity": {
+      "Humans": 90,
+      "Cyborgs": 10
+    },
+    "homeworld": "Seoul Prime",
+    "controlledRegions": ["Sol System", "Far East Colonies", "Lunar Bases"],
+    "territorialSize": 8,
+    "resources": ["Lithium", "Rare Earth Elements", "High-Energy Fuels"],
+    "allies": ["Shogunate of the Rising Sun", "Federation of Southeast Asia"],
+    "rivals": ["Eastern Stellar Empire", "Coalition of Nova States"],
+    "neutral": ["Galactic Traders Consortium", "Merchant Guild of Xeros"],
+    "primaryExports": [
+      "Advanced electronics",
+      "Automated defense systems",
+      "Semiconductors",
+      "Cultural exports (K-pop, films, etc.)"
+    ],
+    "primaryImports": [
+      "Exotic materials",
+      "Bio-engineered products",
+      "Luxury goods"
+    ],
+    "currency": "New Han Credits",
+    "fleetSize": 800,
+    "specialUnits": ["Autonomous Drone Squadrons", "Cybernetic Commandos"],
+    "defensiveCapabilities": [
+      "Cybernetic Defense Systems",
+      "Geo-Magnetic Shield Networks"
+    ],
+    "culturalValues": ["Unity", "Innovation", "Security", "Respect"],
+    "languages": ["Korean", "English"],
+    "history": "The Republic of New Han rose from the ashes of a divided Earth, emphasizing technological innovation, robust defense strategies, and cultural export to carve out a significant position in the galaxy.",
+    "religion": {
+      "dominantBeliefs": "Secular governance with tolerance for diverse belief systems.",
+      "philosophicalMovements": [
+        {
+          "name": "The New Harmony",
+          "adherents": 30,
+          "focus": "Technological balance with human flourishing."
+        },
+        {
+          "name": "The Cybernetic Path",
+          "adherents": 50,
+          "focus": "The merging of humanity with advanced technology."
+        }
+      ],
+      "minorReligions": [
+        "Buddhism",
+        "Christianity",
+        "Shamanism",
+        "Post-Human Mysticism"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Technological Growth",
+        "Strategic Defense",
+        "Cultural Expansion"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Dr. Seung-Hyun Park",
+          "works": ["Cybernetic Progress", "The Ethics of AI Integration"]
+        },
+        {
+          "name": "Min-Jae Lim",
+          "works": [
+            "The Cybernetic Future",
+            "Global Security in the Digital Age"
+          ]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides access to cutting-edge technology, autonomous drones, and strong military defense.",
+      "adversary": "A highly strategic, tech-savvy opponent with strong economic and military capabilities."
+    },
+    "aiBehavior": {
+      "diplomatic": "Seeks partnerships based on shared technological goals and defense strategies.",
+      "strategic": "Focuses on securing cyber and technological superiority and maintaining global security.",
+      "combat": "Relies on precision strikes with cyber warfare and autonomous drone units, preferring tactical superiority.",
+      "negative": {
+        "over-reliance on technology": "May underestimate the resourcefulness of low-tech factions.",
+        "political friction": "May struggle in maintaining harmony with factions that do not share its cultural or technological ideals."
+      }
+    },
+    "negativeTraits": {
+      "cybersecurityVulnerabilities": "Prone to cyber attacks that can disrupt operations.",
+      "externalDependence": "Heavily reliant on trade, making it vulnerable to economic blockades or disruptions."
+    }
+  },
+  {
+    "id": "33",
+    "name": "United East Asian Coalition",
+    "description": "A powerful and unified faction, blending the rich cultural heritage, cutting-edge technology, and economic strength of East Asia to dominate both trade and military power in the galaxy.",
+    "tagline": "Strength in Unity",
+    "icon": "/assets/factions/united_east_asian_coalition.png",
+    "region": "East Asia",
+    "country": "China, Japan, South Korea, Taiwan, Hong Kong, North Korea",
+    "rulingSystem": "Pan-Asian Federalism",
+    "corePhilosophy": "Unity, technological supremacy, and economic prosperity through collaboration.",
+    "leader": "Empress Mei-Ling Zhao",
+    "influence": 40.2,
+    "strengths": [
+      "Technological innovation",
+      "Economic dominance",
+      "Cultural diplomacy",
+      "Highly disciplined military"
+    ],
+    "weaknesses": [
+      "Internal political friction",
+      "Over-reliance on technological infrastructure",
+      "Resource scarcity due to rapid expansion"
+    ],
+    "uniqueAbilities": [
+      "Transcendent Harmony: Boosts economic output and military morale when maintaining alliances with other advanced factions.",
+      "Unified Defense Protocols: Coordinated defensive actions across all controlled regions."
+    ],
+    "population": 2500000000,
+    "species": [
+      "Humans",
+      "Cybernetically Enhanced Humans",
+      "Artificial Lifeforms"
+    ],
+    "diversity": {
+      "Humans": 85,
+      "Cybernetically Enhanced Humans": 10,
+      "Artificial Lifeforms": 5
+    },
+    "homeworld": "Kyoto Prime",
+    "controlledRegions": [
+      "Sol System",
+      "Sino-Pacific Expanse",
+      "Lunar Colonies",
+      "Taiwan Outposts"
+    ],
+    "territorialSize": 12,
+    "resources": [
+      "Rare Earth Elements",
+      "Fusion Cells",
+      "High-Grade Steel",
+      "Synthetic Biotech"
+    ],
+    "allies": ["Republic of New Han", "Shogunate of the Rising Sun"],
+    "rivals": [
+      "Eastern Stellar Empire",
+      "Red Star Collective",
+      "Coalition of Nova States"
+    ],
+    "neutral": ["Galactic Traders Consortium", "Merchant Guild of Xeros"],
+    "primaryExports": [
+      "Advanced robotics",
+      "Fusion energy technologies",
+      "Precision manufacturing",
+      "Cultural products (Anime, K-pop, etc.)"
+    ],
+    "primaryImports": [
+      "Exotic materials",
+      "Terraforming technologies",
+      "Luxury goods"
+    ],
+    "currency": "Pan-Asian Credits",
+    "fleetSize": 1500,
+    "specialUnits": [
+      "AI-Driven Autonomous Drones",
+      "Kamikaze Nanite Swarmers",
+      "Cybernetically Enhanced Commandos"
+    ],
+    "defensiveCapabilities": [
+      "AI-Integrated Shield Networks",
+      "Advanced Orbital Defense Satellites",
+      "Kinetic Impact Defenses"
+    ],
+    "culturalValues": ["Harmony", "Honor", "Discipline", "Innovation"],
+    "languages": ["Mandarin", "Japanese", "Korean", "Cantonese"],
+    "history": "Formed through the unification of East Asia’s most powerful and influential nations, the United East Asian Coalition seeks to expand its influence through technological and cultural leadership, while maintaining a disciplined and organized military force.",
+    "religion": {
+      "dominantBeliefs": "A blend of secular governance with respect for traditional and philosophical teachings from Confucianism, Shinto, Buddhism, and Taoism.",
+      "philosophicalMovements": [
+        {
+          "name": "The Way of Harmony",
+          "adherents": 40,
+          "focus": "Fusing technology with spiritual principles of balance and peace."
+        },
+        {
+          "name": "The Order of the Machine",
+          "adherents": 30,
+          "focus": "Worship of advanced AI and the perfection of human-machine synthesis."
+        }
+      ],
+      "minorReligions": ["Buddhism", "Shintoism", "Confucianism", "Taoism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Technological Unity",
+        "Cultural Diplomacy",
+        "Economic Integration"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Zhi Long",
+          "works": [
+            "The Path of Harmony",
+            "Technological Balance in the Modern Age"
+          ]
+        },
+        {
+          "name": "Yuki Sakamoto",
+          "works": ["The Digital Tao", "Discipline and Technology"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides access to vast technological resources, economic power, and military might.",
+      "adversary": "A formidable opponent with a focus on disciplined combat and technological superiority."
+    },
+    "aiBehavior": {
+      "diplomatic": "Seeks alliances based on mutual technological growth and economic prosperity, with a focus on maintaining peace through cultural and military influence.",
+      "strategic": "Focuses on securing technological advances, protecting resources, and expanding influence across the galaxy.",
+      "combat": "Uses a combination of precision robotics, disciplined armies, and AI-driven strategies to overwhelm opponents.",
+      "negative": {
+        "internalConflicts": "Prone to political and cultural friction between member states.",
+        "technologicalDependence": "Vulnerable to disruptions in critical technological infrastructure."
+      }
+    },
+    "negativeTraits": {
+      "internalFragmentation": "Occasionally struggles with maintaining unity between diverse political systems and cultures.",
+      "over-extension": "Their rapid expansion can strain resources and create logistical challenges."
+    }
+  },
+  {
+    "id": "34",
+    "name": "Federation of Australasia",
+    "description": "A vast maritime federation, blending Australia’s environmental focus, technological innovation, and naval supremacy to safeguard the oceans and expand influence across the galaxy.",
+    "tagline": "Guardians of the Deep",
+    "icon": "/assets/factions/federation_of_australasia.png",
+    "region": "Oceania",
+    "country": "Australia",
+    "rulingSystem": "Maritime Technocracy",
+    "corePhilosophy": "Environmental stewardship, technological innovation, and maritime power.",
+    "leader": "Prime Admiral Isabella Thorn",
+    "influence": 30.4,
+    "strengths": [
+      "Superior naval and fleet capabilities",
+      "Expertise in marine biology and terraforming",
+      "Advanced renewable energy solutions"
+    ],
+    "weaknesses": [
+      "Vulnerability to space weather disruptions",
+      "Limited terrestrial resources",
+      "Susceptibility to environmental collapse in harsh conditions"
+    ],
+    "uniqueAbilities": [
+      "Oceanic Terraforming: Ability to transform hostile planets into habitable, water-rich worlds.",
+      "Fleet Coordination: Ability to synchronize naval and space fleets for strategic operations."
+    ],
+    "population": 300000000,
+    "species": ["Humans", "Aquatic Lifeforms", "Terraforming AIs"],
+    "diversity": {
+      "Humans": 80,
+      "Aquatic Lifeforms": 15,
+      "Terraforming AIs": 5
+    },
+    "homeworld": "Sydney Prime",
+    "controlledRegions": [
+      "Sol System",
+      "Southern Archipelago",
+      "Pacific Colonies"
+    ],
+    "territorialSize": 8,
+    "resources": [
+      "Water Crystals",
+      "Biomass",
+      "Oceanic Minerals",
+      "Solar Fusion Cells"
+    ],
+    "allies": ["Republic of the Rising Tide", "Oceanic League of Soterra"],
+    "rivals": ["Dominion of Polaris", "Eastern Stellar Empire"],
+    "neutral": ["Galactic Traders Consortium", "Merchant Guild of Xeros"],
+    "primaryExports": [
+      "Marine biotechnology",
+      "Hydro-thermal energy",
+      "Sustainable space habitats",
+      "Naval warships and fleet carriers"
+    ],
+    "primaryImports": [
+      "Rare metals",
+      "Exotic technologies",
+      "Space farming equipment"
+    ],
+    "currency": "Oceanic Credits",
+    "fleetSize": 1200,
+    "specialUnits": [
+      "Hydro-Fighters",
+      "Aquatic Stealth Subs",
+      "Tidal Wave Assault Ships"
+    ],
+    "defensiveCapabilities": [
+      "Water-based shield generators",
+      "Coastal orbital defense platforms",
+      "Submarine-based missile systems"
+    ],
+    "culturalValues": [
+      "Environmental Responsibility",
+      "Innovation",
+      "Exploration",
+      "Resilience"
+    ],
+    "languages": ["Austral-Standard English", "Aquatic Dialects"],
+    "history": "The Federation of Australasia emerged from the unification of Australia and its surrounding territories, emphasizing environmental preservation and technological innovation. With its focus on ocean-based resources, the Federation became a powerful player in the galactic arena, using its naval might to protect its vast oceanic worlds.",
+    "religion": {
+      "dominantBeliefs": "Respect for nature and the oceans, with an emphasis on sustainable living.",
+      "philosophicalMovements": [
+        {
+          "name": "The Way of the Sea",
+          "adherents": 40,
+          "focus": "Spiritual connection with the oceans and deep respect for all life forms."
+        },
+        {
+          "name": "Technological Harmony",
+          "adherents": 30,
+          "focus": "Merging technology with nature for the advancement of the species."
+        }
+      ],
+      "minorReligions": [
+        "Neo-Druidism",
+        "Aquatic Shamanism",
+        "Post-Terrestrial Environmentalism"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Environmental Sustainability",
+        "Techno-Biocentrism",
+        "Oceanic Transhumanism"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Dr. Coral Trenton",
+          "works": ["The Blue Horizon", "Sustainable Futures"]
+        },
+        {
+          "name": "Xian Kuan",
+          "works": ["The Oceanic Dream", "Technologies of Nature"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Offers access to sustainable technologies, advanced naval capabilities, and expertise in oceanic terraforming.",
+      "adversary": "A formidable opponent with a focus on fleet supremacy and environmental sustainability."
+    },
+    "aiBehavior": {
+      "diplomatic": "Values alliances with environmentally-conscious factions and those focused on space exploration and sustainability.",
+      "strategic": "Prioritizes the defense of oceans and water resources, as well as maintaining dominance in naval combat.",
+      "combat": "Leverages superior naval fleets, submarine warfare, and environmental defenses to overwhelm adversaries.",
+      "negative": {
+        "resourceScarcity": "Limited in terrestrial resources and often relies on imports.",
+        "spaceWeatherDependence": "Vulnerable to disruptions in space weather that can damage infrastructure."
+      }
+    },
+    "negativeTraits": {
+      "resourceDependency": "Highly dependent on water-based resources, which may be scarce in certain regions.",
+      "defensiveReliance": "Over-reliance on defensive strategies and naval supremacy rather than offensive force."
+    }
+  },
+  {
+    "id": "35",
+    "name": "Federation of Aotearoa",
+    "description": "A peaceful, eco-conscious federation with a commitment to sustainable progress and harmonious integration with nature, focusing on ecological innovation and scientific diplomacy.",
+    "tagline": "Guardians of Balance",
+    "icon": "/assets/factions/federation_of_aotearoa.png",
+    "region": "Oceania",
+    "country": "New Zealand",
+    "rulingSystem": "Ecological Democracy",
+    "corePhilosophy": "Sustainability, independence, and harmonious coexistence with nature.",
+    "leader": "Prime Overseer Maia Te Rangi",
+    "influence": 25.4,
+    "strengths": [
+      "Environmental resilience",
+      "Expertise in bioengineering and sustainable technologies",
+      "Strategic position in space exploration and diplomacy"
+    ],
+    "weaknesses": [
+      "Limited military capabilities",
+      "Vulnerability to resource scarcity in outer colonies",
+      "Reluctance to engage in aggressive expansion"
+    ],
+    "uniqueAbilities": [
+      "Eco-Terraforming: Ability to rapidly transform planets into habitable, eco-friendly environments.",
+      "Biomimicry Technology: Develops advanced systems inspired by nature, improving efficiency and sustainability."
+    ],
+    "population": 500000000,
+    "species": ["Humans", "Bio-Engineered Species", "Artificial Eco-Beings"],
+    "diversity": {
+      "Humans": 80,
+      "Bio-Engineered Species": 15,
+      "Artificial Eco-Beings": 5
+    },
+    "homeworld": "Aotearoa Prime",
+    "controlledRegions": ["Sol System", "Pacific Colonies", "Eden Belt"],
+    "territorialSize": 7,
+    "resources": [
+      "Bio-Energy",
+      "Geothermal Crystals",
+      "Organic Tech",
+      "Ecological Materials"
+    ],
+    "allies": [
+      "Federation of Australasia",
+      "Union of Gaia",
+      "Solar Free Nations"
+    ],
+    "rivals": ["Red Star Collective", "Dominion of Polaris"],
+    "neutral": ["Galactic Traders Consortium", "Merchant Guild of Xeros"],
+    "primaryExports": [
+      "Bio-engineered products",
+      "Sustainable energy solutions",
+      "Eco-tech innovations"
+    ],
+    "primaryImports": [
+      "Rare Earth Metals",
+      "Exotic materials",
+      "Military-grade technologies"
+    ],
+    "currency": "Aotearoan Credits",
+    "fleetSize": 800,
+    "specialUnits": [
+      "Eco-Drone Swarms",
+      "Biomechanical Defenders",
+      "Solar Flare Fighters"
+    ],
+    "defensiveCapabilities": [
+      "Geothermal Shielding Systems",
+      "Orbital Bio-Defenses",
+      "Magnetic Field Manipulators"
+    ],
+    "culturalValues": ["Sustainability", "Balance", "Resilience", "Freedom"],
+    "languages": ["Te Reo Aotearoa", "Neo-English"],
+    "history": "The Federation of Aotearoa emerged as a leading voice in ecological progress, dedicated to developing sustainable, planet-friendly technologies and establishing peaceful alliances across the galaxy. Drawing from its roots in New Zealand's commitment to nature and independence, it strives to maintain harmony with the universe’s ecosystems.",
+    "religion": {
+      "dominantBeliefs": "Spiritual connection to nature, advocating for ecological balance and environmental harmony.",
+      "philosophicalMovements": [
+        {
+          "name": "The Way of the Earth",
+          "adherents": 40,
+          "focus": "A philosophy that seeks to understand and nurture the natural world through ecological harmony."
+        },
+        {
+          "name": "Technophilanthropy",
+          "adherents": 30,
+          "focus": "Technological advancement that aids environmental preservation and human welfare."
+        }
+      ],
+      "minorReligions": ["Eco-Animism", "Gaian Mysticism", "Naturalism"]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Ecological Harmony",
+        "Technological Sustainability",
+        "Biocentric Ethics"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Ira Tahi",
+          "works": ["The Earth’s Promise", "Pathways to Ecological Wisdom"]
+        },
+        {
+          "name": "Wai Kapa",
+          "works": ["Nature’s Intelligence", "Towards a Techno-Gaian Future"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Offers access to eco-friendly technologies, bio-engineered products, and sustainable energy solutions.",
+      "adversary": "A peaceful, eco-focused faction that may be difficult to combat due to its defensive capabilities and rapid terraforming abilities."
+    },
+    "aiBehavior": {
+      "diplomatic": "Prefers alliances with eco-conscious factions and is committed to peaceful negotiation.",
+      "strategic": "Focuses on expanding its influence through ecological terraforming and technological diplomacy.",
+      "combat": "Uses precision strikes with specialized units, relying heavily on defensive tech and terrain manipulation.",
+      "negative": {
+        "resourceScarcity": "May suffer from resource shortages when isolated in less hospitable regions.",
+        "non-aggressive": "May struggle against more militaristic or expansionist factions."
+      }
+    },
+    "negativeTraits": {
+      "eco-dependency": "Relies heavily on ecosystems and natural resources, making it vulnerable to disruption.",
+      "isolationism": "May resist joining larger galactic coalitions due to its commitment to maintaining independence and ecological balance."
+    }
+  },
+  {
+    "id": "036",
+    "name": "Oceanic Dominion",
+    "description": "A vast and resourceful maritime faction, masters of naval warfare and oceanic exploration, striving to control the seas and expand their influence across the oceans.",
+    "tagline": "Rulers of the Waves",
+    "icon": "/assets/factions/oceanic_dominion.png",
+    "region": "Oceania",
+    "country": "Australia",
+    "rulingSystem": "Maritime Oligarchy",
+    "corePhilosophy": "Dominance of the oceans, resource control, and naval supremacy.",
+    "leader": "Admiral Kiera Stormrage",
+    "influence": 28.4,
+    "strengths": [
+      "Advanced naval fleets",
+      "Expertise in underwater resource mining",
+      "Superior maritime logistics and trade networks"
+    ],
+    "weaknesses": [
+      "Limited land-based influence",
+      "Over-reliance on sea trade routes",
+      "Vulnerable to natural disasters"
+    ],
+    "uniqueAbilities": [
+      "Submarine fleet stealth attacks",
+      "Oceanic resource manipulation"
+    ],
+    "population": 4000000000,
+    "species": ["Humans", "Aquatic Hybrids", "Sea Nomads"],
+    "diversity": {
+      "Humans": 85,
+      "Aquatic Hybrids": 10,
+      "Sea Nomads": 5
+    },
+    "homeworld": "Pacific Citadel",
+    "controlledRegions": [
+      "Pacific Ocean Territories",
+      "Southern Seas",
+      "Coral Atoll Archipelago"
+    ],
+    "territorialSize": 18,
+    "resources": ["Aquatic Flora", "Marine Minerals", "Deep Sea Energies"],
+    "allies": ["Island Confederacy of Ithaca", "Free Oceanic States"],
+    "rivals": ["The Coalition of Nova States", "Eastern Stellar Empire"],
+    "neutral": ["Mercantile Syndicate of Tau"],
+    "primaryExports": [
+      "Marine Resources",
+      "Naval Technology",
+      "Exotic Aquatic Lifeforms"
+    ],
+    "primaryImports": ["Foodstuffs", "Biotechnologies", "Raw Metals"],
+    "currency": "AquaCredits",
+    "fleetSize": 2200,
+    "specialUnits": ["Hydro-Strike Submarines", "Aqua-Infantry Elite"],
+    "defensiveCapabilities": ["Oceanic Fortress Shields", "Tsunami Inducers"],
+    "culturalValues": [
+      "Exploration",
+      "Resource Stewardship",
+      "Oceanic Harmony",
+      "Independence"
+    ],
+    "languages": ["Sea-tongue", "Common Pidgin"],
+    "history": "Born from an age of seafaring adventurers, the Oceanic Dominion rose to power by mastering the oceans, building a vast network of floating cities and islands, and claiming the seas as their domain.",
+    "religion": {
+      "dominantBeliefs": "Worship of the Ocean Spirit and the Balance of the Tides.",
+      "philosophicalMovements": [
+        {
+          "name": "The Tidewalkers",
+          "adherents": 40,
+          "focus": "Spiritual understanding of the sea's flow and its cosmic significance."
+        },
+        {
+          "name": "The Seekers of the Deep",
+          "adherents": 35,
+          "focus": "Pursuit of the knowledge hidden beneath the ocean depths."
+        },
+        {
+          "name": "Aqua-Technism",
+          "adherents": 25,
+          "focus": "Fusion of technology and oceanic lifeforms to advance civilization."
+        }
+      ],
+      "minorReligions": [
+        "Coral Animism",
+        "Wave Guardianship",
+        "Oceanic Transcendence"
+      ]
+    },
+    "philosophy": {
+      "dominantIdeologies": [
+        "Maritime Sovereignty",
+        "Technological Harmony with Nature"
+      ],
+      "keyPhilosophers": [
+        {
+          "name": "Admiral Thalassa Quinn",
+          "works": ["The Oceanic Manifesto", "The Tides of Power"]
+        },
+        {
+          "name": "Naya Deepwater",
+          "works": ["The Balance of Seas", "Ocean and Mind"]
+        }
+      ]
+    },
+    "playerRole": {
+      "ally": "Provides access to advanced naval technology and resources from the ocean depths.",
+      "adversary": "A formidable force in naval warfare, controlling vast maritime territories and resources."
+    },
+    "aiBehavior": {
+      "diplomatic": "Seeks alliances with factions who control oceanic or maritime assets, particularly those with complementary resources.",
+      "strategic": "Prioritizes naval superiority, control of sea trade routes, and the acquisition of marine resources.",
+      "combat": "Relies on highly coordinated naval operations and the use of stealth tactics from their submarine fleets.",
+      "negative": {
+        "arrogance": "Underestimates the power of land-based forces and fails to defend coastal regions effectively.",
+        "overextension": "Vulnerable to conflicts that threaten sea lanes and oceanic resources."
+      }
+    },
+    "negativeTraits": {
+      "oceanDependence": "Unable to defend against invasions from non-maritime factions.",
+      "vulnerabilityToTerrorism": "Risk of disruption from deep-sea saboteurs or resource pirates."
+    }
+  }
+]

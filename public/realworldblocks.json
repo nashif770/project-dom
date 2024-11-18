@@ -1,0 +1,260 @@
+{
+  "regions": {
+    "North America": {
+      "majorCountries": [
+        {
+          "name": "United States",
+          "population": 331002651,
+          "GDP": 21137518,
+          "area": 9833517
+        },
+        {
+          "name": "Canada",
+          "population": 38005238,
+          "GDP": 1647120,
+          "area": 9984670
+        },
+        {
+          "name": "Mexico",
+          "population": 126190788,
+          "GDP": 1199268,
+          "area": 1964375
+        }
+      ],
+      "otherCountries": [
+        "Guatemala",
+        "Honduras",
+        "Panama",
+        "Costa Rica",
+        "El Salvador"
+      ]
+    },
+    "South America": {
+      "majorCountries": [
+        {
+          "name": "Brazil",
+          "population": 213993437,
+          "GDP": 2237159,
+          "area": 8515767
+        },
+        {
+          "name": "Argentina",
+          "population": 45195777,
+          "GDP": 491642,
+          "area": 2780400
+        },
+        {
+          "name": "Colombia",
+          "population": 50882891,
+          "GDP": 323803,
+          "area": 1141748
+        }
+      ],
+      "otherCountries": [
+        "Chile",
+        "Peru",
+        "Ecuador",
+        "Paraguay",
+        "Uruguay",
+        "Venezuela"
+      ]
+    },
+    "Europe": {
+      "majorCountries": [
+        {
+          "name": "Germany",
+          "population": 83166711,
+          "GDP": 4212714,
+          "area": 357022
+        },
+        {
+          "name": "France",
+          "population": 67081000,
+          "GDP": 2932653,
+          "area": 551695
+        },
+        {
+          "name": "United Kingdom",
+          "population": 67081000,
+          "GDP": 2855296,
+          "area": 243610
+        }
+      ],
+      "otherCountries": ["Italy", "Spain", "Poland", "Netherlands", "Sweden"]
+    },
+    "Eurasia": {
+      "majorCountries": [
+        {
+          "name": "Russia",
+          "population": 146171015,
+          "GDP": 1710000,
+          "area": 17098242
+        },
+        {
+          "name": "Turkey",
+          "population": 84339067,
+          "GDP": 720101,
+          "area": 783356
+        }
+      ],
+      "otherCountries": [
+        "Kazakhstan",
+        "Uzbekistan",
+        "Armenia",
+        "Georgia",
+        "Azerbaijan"
+      ]
+    },
+    "Africa": {
+      "majorCountries": [
+        {
+          "name": "Nigeria",
+          "population": 206139589,
+          "GDP": 432293,
+          "area": 923768
+        },
+        {
+          "name": "South Africa",
+          "population": 59308690,
+          "GDP": 335345,
+          "area": 1219090
+        },
+        {
+          "name": "Egypt",
+          "population": 102334404,
+          "GDP": 394284,
+          "area": 1002450
+        }
+      ],
+      "otherCountries": ["Ethiopia", "Kenya", "Morocco", "Ghana", "Algeria"]
+    },
+    "Middle East and North Africa (MENA)": {
+      "majorCountries": [
+        {
+          "name": "Saudi Arabia",
+          "population": 34813871,
+          "GDP": 793000,
+          "area": 2149690
+        },
+        {
+          "name": "Iran",
+          "population": 83992949,
+          "GDP": 610000,
+          "area": 1648195
+        },
+        {
+          "name": "United Arab Emirates",
+          "population": 9890400,
+          "GDP": 421142,
+          "area": 83600
+        }
+      ],
+      "otherCountries": [
+        "Israel",
+        "Iraq",
+        "Jordan",
+        "Kuwait",
+        "Qatar",
+        "Lebanon"
+      ]
+    },
+    "South Asia": {
+      "majorCountries": [
+        {
+          "name": "India",
+          "population": 1380004385,
+          "GDP": 3176300,
+          "area": 3287263
+        },
+        {
+          "name": "Pakistan",
+          "population": 220892340,
+          "GDP": 347743,
+          "area": 881913
+        },
+        {
+          "name": "Bangladesh",
+          "population": 164689383,
+          "GDP": 416263,
+          "area": 147570
+        }
+      ],
+      "otherCountries": ["Sri Lanka", "Nepal", "Maldives", "Bhutan"]
+    },
+    "Southeast Asia": {
+      "majorCountries": [
+        {
+          "name": "Indonesia",
+          "population": 273523615,
+          "GDP": 1199286,
+          "area": 1904569
+        },
+        {
+          "name": "Thailand",
+          "population": 69799978,
+          "GDP": 543650,
+          "area": 513120
+        },
+        {
+          "name": "Vietnam",
+          "population": 97338579,
+          "GDP": 368395,
+          "area": 331212
+        }
+      ],
+      "otherCountries": [
+        "Malaysia",
+        "Philippines",
+        "Singapore",
+        "Myanmar",
+        "Laos"
+      ]
+    },
+    "East Asia": {
+      "majorCountries": [
+        {
+          "name": "China",
+          "population": 1439323776,
+          "GDP": 14722731,
+          "area": 9596961
+        },
+        {
+          "name": "Japan",
+          "population": 126476461,
+          "GDP": 5082462,
+          "area": 377975
+        },
+        {
+          "name": "South Korea",
+          "population": 51269185,
+          "GDP": 1648442,
+          "area": 100210
+        }
+      ],
+      "otherCountries": ["North Korea", "Mongolia", "Taiwan"]
+    },
+    "Oceania": {
+      "majorCountries": [
+        {
+          "name": "Australia",
+          "population": 25687041,
+          "GDP": 1332025,
+          "area": 7692024
+        },
+        {
+          "name": "New Zealand",
+          "population": 4822233,
+          "GDP": 235514,
+          "area": 268838
+        }
+      ],
+      "otherCountries": [
+        "Fiji",
+        "Papua New Guinea",
+        "Solomon Islands",
+        "Samoa",
+        "Vanuatu"
+      ]
+    }
+  }
+}

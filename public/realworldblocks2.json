@@ -1,0 +1,166 @@
+{
+  "factions": {
+    "North American Galactic Alliance": {
+      "identity": "Technologically advanced and militarily powerful, focusing on innovation and exploration.",
+      "coalitions": {
+        "United States": {
+          "name": "Coalition of Nova States",
+          "traits": "High-tech industries, leaders in AI and starship engineering, massive fleets."
+        },
+        "Canada": {
+          "name": "Dominion of Polaris",
+          "traits": "Guardians of resource-rich asteroid belts, reputation for diplomacy and environmental preservation."
+        },
+        "Mexico": {
+          "name": "Empire of Sol-Tenochtitlán",
+          "traits": "Trade powerhouse, controlling key hyperspace routes, rich cultural heritage."
+        }
+      }
+    },
+    "South American Confederation": {
+      "identity": "Resource-rich and resilient, focusing on ecological harmony and biodiversity.",
+      "coalitions": {
+        "Brazil": {
+          "name": "Solar Dominion of Amazonas",
+          "traits": "Masters of terraforming and biotechnologies, controlling vast jungle planets."
+        },
+        "Argentina": {
+          "name": "Pampas Coalition",
+          "traits": "Focused on agriculture and food production, fleets designed for transporting biological resources."
+        },
+        "Colombia": {
+          "name": "Emerald Syndicate",
+          "traits": "Experts in energy mining and luxury goods, dominating galactic trade in rare minerals."
+        }
+      }
+    },
+    "European Union of Stars": {
+      "identity": "A federation of diverse yet unified systems, excelling in diplomacy, culture, and finance.",
+      "coalitions": {
+        "Germany": {
+          "name": "Kaiserreich Celestialis",
+          "traits": "Leaders in industrial and mechanical innovations, powerful war mechs."
+        },
+        "France": {
+          "name": "Etoile Republic",
+          "traits": "Renowned for arts, philosophy, and advanced medical sciences."
+        },
+        "United Kingdom": {
+          "name": "Stellar Commonwealth",
+          "traits": "Naval powerhouse, ruling spaceborne trade and galactic routes."
+        }
+      }
+    },
+    "United Republics of Eurasia": {
+      "identity": "A faction of vast territory, balancing industrial strength with cultural unity.",
+      "coalitions": {
+        "Russia": {
+          "name": "Tsardom of Novastar",
+          "traits": "Controlling the largest portion of space, powerful defense systems, rich energy resources."
+        },
+        "Turkey": {
+          "name": "Neo-Ottoman Celestial Empire",
+          "traits": "Bridging trade routes between East and West, strong cultural identity."
+        }
+      }
+    },
+    "United Systems of Africa": {
+      "identity": "Masters of adaptability and resource extraction, thriving in harsh planetary environments.",
+      "coalitions": {
+        "Nigeria": {
+          "name": "Federation of Nok",
+          "traits": "Leaders in energy production and technological innovation."
+        },
+        "South Africa": {
+          "name": "Dominion of Zulu-Orion",
+          "traits": "Known for mining industries and advanced robotics."
+        },
+        "Egypt": {
+          "name": "Pharaonic Syndicate",
+          "traits": "Builders of grand galactic monuments, excelling in architecture and astronomy."
+        }
+      }
+    },
+    "MENA Interstellar Consortium": {
+      "identity": "Wealthy and culturally rich, controlling vital trade hubs and hyperspace routes.",
+      "coalitions": {
+        "Saudi Arabia": {
+          "name": "House of Neom",
+          "traits": "Dominates fuel and energy markets, luxurious space stations."
+        },
+        "Iran": {
+          "name": "Persian Ascendancy",
+          "traits": "Guardians of ancient knowledge and advanced starship designs."
+        },
+        "UAE": {
+          "name": "Emirates of Stellar Prosperity",
+          "traits": "Centers of innovation and high-end galactic tourism."
+        }
+      }
+    },
+    "South Asian Union": {
+      "identity": "Population-heavy systems with strong cultural identities and economic influence.",
+      "coalitions": {
+        "India": {
+          "name": "Bharat Ascendancy",
+          "traits": "Experts in IT, AI, and starship manufacturing, massive industrial fleets."
+        },
+        "Pakistan": {
+          "name": "Federation of Iqbal",
+          "traits": "Strong in energy development and resource extraction."
+        },
+        "Bangladesh": {
+          "name": "Delta Syndicate",
+          "traits": "Leaders in climate-tech and bioengineering."
+        }
+      }
+    },
+    "Southeast Asian Dominion": {
+      "identity": "A diverse and densely populated faction, excelling in trade and cultural fusion.",
+      "coalitions": {
+        "Indonesia": {
+          "name": "Celestial Archipelago",
+          "traits": "Masters of aquatic and amphibious planets."
+        },
+        "Thailand": {
+          "name": "Stellar Siam",
+          "traits": "Focused on galactic wellness and medicine."
+        },
+        "Vietnam": {
+          "name": "Draco Syndicate",
+          "traits": "Dominating stealth and espionage sectors."
+        }
+      }
+    },
+    "East Asian Dynasty": {
+      "identity": "Technologically superior, focusing on discipline and strategy.",
+      "coalitions": {
+        "China": {
+          "name": "Celestial Empire of Zhonghua",
+          "traits": "Dominates production and space colonization efforts."
+        },
+        "Japan": {
+          "name": "Shogunate of Nippon",
+          "traits": "Experts in robotics, AI, and fleet maneuverability."
+        },
+        "South Korea": {
+          "name": "Stellar Republic of Han",
+          "traits": "Innovators in entertainment and virtual reality."
+        }
+      }
+    },
+    "Oceania League": {
+      "identity": "Explorers and pioneers of oceanic planets and deep-space ventures.",
+      "coalitions": {
+        "Australia": {
+          "name": "Dominion of Coral",
+          "traits": "Terraforming aquatic worlds and mining deep-sea resources."
+        },
+        "New Zealand": {
+          "name": "Aotearoa Nexus",
+          "traits": "Focused on ecological preservation and biodiverse planets."
+        }
+      }
+    }
+  }
+}

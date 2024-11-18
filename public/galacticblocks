@@ -1,0 +1,312 @@
+{
+  "factions": {
+    "North American Galactic Alliance": {
+      "identity": "Technologically advanced and militarily powerful, focusing on innovation and exploration.",
+      "homeSystem": "Sol System",
+      "economicStrength": 9.8,
+      "militaryPower": 8.7,
+      "technologyLevel": "Advanced",
+      "diplomaticTraits": [
+        "Expansionist",
+        "Neutrality Advocacy"
+      ],
+      "coalitions": {
+        "United States": {
+          "name": "Coalition of Nova States",
+          "traits": [
+            "High-tech industries",
+            "Leaders in AI",
+            "Massive fleets"
+          ],
+          "alliances": [
+            "Dominion of Polaris"
+          ],
+          "rivals": [
+            "Empire of Sol-Tenochtitlán"
+          ]
+        },
+        "Canada": {
+          "name": "Dominion of Polaris",
+          "traits": [
+            "Resource-rich asteroid belts",
+            "Diplomatic reputation"
+          ],
+          "alliances": [
+            "Coalition of Nova States"
+          ],
+          "rivals": []
+        },
+        "Mexico": {
+          "name": "Empire of Sol-Tenochtitlán",
+          "traits": [
+            "Trade powerhouse",
+            "Cultural heritage"
+          ],
+          "alliances": [],
+          "rivals": [
+            "Coalition of Nova States"
+          ]
+        }
+      }
+    },
+    "South American Celestial Confederation": {
+      "identity": "A resource-rich faction leveraging cultural unity for interstellar trade.",
+      "homeSystem": "Alpha Centauri",
+      "economicStrength": 7.2,
+      "militaryPower": 6.5,
+      "technologyLevel": "Moderate",
+      "diplomaticTraits": [
+        "Trade-focused",
+        "Culturally cohesive"
+      ],
+      "coalitions": {
+        "Brazil": {
+          "name": "Union of Amazonia",
+          "traits": [
+            "Bioengineering leaders",
+            "Natural resource surplus"
+          ],
+          "alliances": [
+            "Argentine Stellar Accord"
+          ],
+          "rivals": [
+            "Outer Colombian Enclave"
+          ]
+        },
+        "Argentina": {
+          "name": "Argentine Stellar Accord",
+          "traits": [
+            "Stable economy",
+            "Advanced space agriculture"
+          ],
+          "alliances": [
+            "Union of Amazonia"
+          ],
+          "rivals": []
+        },
+        "Colombia": {
+          "name": "Outer Colombian Enclave",
+          "traits": [
+            "Strategic space routes",
+            "Rapid population growth"
+          ],
+          "alliances": [],
+          "rivals": [
+            "Union of Amazonia"
+          ]
+        }
+      }
+    },
+    "European Union of Stars": {
+      "identity": "A unified force in diplomacy and technological advancements.",
+      "homeSystem": "Proxima Centauri",
+      "economicStrength": 9,
+      "militaryPower": 7.8,
+      "technologyLevel": "Advanced",
+      "diplomaticTraits": [
+        "Diplomatic powerhouse",
+        "Pioneers in fusion energy"
+      ],
+      "coalitions": {
+        "Germany": {
+          "name": "Kaiserreich Celestialis",
+          "traits": [
+            "Industrial dominance",
+            "Military precision"
+          ],
+          "alliances": [
+            "Gallic Union"
+          ],
+          "rivals": [
+            "Coalition of Nova States"
+          ]
+        },
+        "France": {
+          "name": "Gallic Union",
+          "traits": [
+            "Cultural influence",
+            "Advanced AI technologies"
+          ],
+          "alliances": [
+            "Kaiserreich Celestialis"
+          ],
+          "rivals": []
+        },
+        "United Kingdom": {
+          "name": "Anglo-Cosmic Dominion",
+          "traits": [
+            "Strong navy",
+            "Interstellar trade"
+          ],
+          "alliances": [
+            "Gallic Union"
+          ],
+          "rivals": []
+        }
+      }
+    },
+    "Eurasian Celestial Empire": {
+      "identity": "A vast empire focusing on territorial dominance and strategic control.",
+      "homeSystem": "Sirius",
+      "economicStrength": 7.5,
+      "militaryPower": 8.9,
+      "technologyLevel": "Moderate",
+      "diplomaticTraits": [
+        "Territorial",
+        "Resource-focused"
+      ],
+      "coalitions": {
+        "Russia": {
+          "name": "Tsardom of Stars",
+          "traits": [
+            "Expansive territory",
+            "Military fortifications"
+          ],
+          "alliances": [],
+          "rivals": [
+            "Coalition of Nova States"
+          ]
+        },
+        "Turkey": {
+          "name": "Neo-Ottoman Syndicate",
+          "traits": [
+            "Strategic trade routes",
+            "Cultural diplomacy"
+          ],
+          "alliances": [
+            "Tsardom of Stars"
+          ],
+          "rivals": []
+        }
+      }
+    },
+    "African Stellar Union": {
+      "identity": "A vibrant coalition leveraging its population and resources for growth.",
+      "homeSystem": "Tau Ceti",
+      "economicStrength": 6.8,
+      "militaryPower": 5.9,
+      "technologyLevel": "Developing",
+      "diplomaticTraits": [
+        "Resource-centric",
+        "Culturally unified"
+      ],
+      "coalitions": {
+        "Nigeria": {
+          "name": "Stellar Federation of Lagos",
+          "traits": [
+            "Population surplus",
+            "Resource extraction"
+          ],
+          "alliances": [],
+          "rivals": [
+            "Union of Amazonia"
+          ]
+        },
+        "South Africa": {
+          "name": "Solar Commonwealth of Capetown",
+          "traits": [
+            "Technological hubs",
+            "Mining industries"
+          ],
+          "alliances": [],
+          "rivals": []
+        },
+        "Egypt": {
+          "name": "Pharaonic Dominion",
+          "traits": [
+            "Cultural legacy",
+            "Engineering expertise"
+          ],
+          "alliances": [],
+          "rivals": []
+        }
+      }
+    },
+    "Middle Eastern Galactic Dominion": {
+      "identity": "A resource-rich region focusing on energy-based technologies.",
+      "homeSystem": "Altair",
+      "economicStrength": 7,
+      "militaryPower": 6.7,
+      "technologyLevel": "Moderate",
+      "diplomaticTraits": [
+        "Energy dominance",
+        "Cultural resilience"
+      ],
+      "coalitions": {
+        "Saudi Arabia": {
+          "name": "Oil Nexus of Riyadh",
+          "traits": [
+            "Energy monopoly",
+            "Strategic alliances"
+          ],
+          "alliances": [],
+          "rivals": [
+            "Neo-Ottoman Syndicate"
+          ]
+        },
+        "Iran": {
+          "name": "Persian Star League",
+          "traits": [
+            "Energy independence",
+            "Military expansion"
+          ],
+          "alliances": [],
+          "rivals": [
+            "Oil Nexus of Riyadh"
+          ]
+        },
+        "United Arab Emirates": {
+          "name": "Celestial Emirates",
+          "traits": [
+            "Luxury trade",
+            "Financial hubs"
+          ],
+          "alliances": [],
+          "rivals": []
+        }
+      }
+    },
+    "South Asian Stellar League": {
+      "identity": "A densely populated faction known for its labor force and advanced software technologies.",
+      "homeSystem": "Barnard's Star",
+      "economicStrength": 8.2,
+      "militaryPower": 7,
+      "technologyLevel": "Moderate",
+      "diplomaticTraits": [
+        "Innovative",
+        "Collaborative"
+      ],
+      "coalitions": {
+        "India": {
+          "name": "Republic of Aryavarta",
+          "traits": [
+            "IT hubs",
+            "Population advantage"
+          ],
+          "alliances": [],
+          "rivals": []
+        },
+        "Pakistan": {
+          "name": "Islamic Stellar Republic",
+          "traits": [
+            "Strategic placement",
+            "Expanding space navy"
+          ],
+          "alliances": [],
+          "rivals": [
+            "Republic of Aryavarta"
+          ]
+        },
+        "Bangladesh": {
+          "name": "Celestial Bengal",
+          "traits": [
+            "Efficient manufacturing",
+            "Cultural renaissance"
+          ],
+          "alliances": [],
+          "rivals": []
+        }
+      }
+    }
+  }
+}
