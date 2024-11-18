@@ -1,0 +1,225 @@
+{
+  "First World": {
+    "United States": {
+      "id": 1,
+      "GDP": 21137518,
+      "Population": 331002651,
+      "Area": 9833517,
+      "Category": "First World"
+    },
+    "Canada": {
+      "id": 2,
+      "GDP": 1647120,
+      "Population": 38005238,
+      "Area": 9984670,
+      "Category": "First World"
+    },
+    "Germany": {
+      "id": 3,
+      "GDP": 4212714,
+      "Population": 83166711,
+      "Area": 357022,
+      "Category": "First World"
+    },
+    "France": {
+      "id": 4,
+      "GDP": 2932653,
+      "Population": 67081000,
+      "Area": 551695,
+      "Category": "First World"
+    },
+    "United Kingdom": {
+      "id": 5,
+      "GDP": 2855296,
+      "Population": 67081000,
+      "Area": 243610,
+      "Category": "First World"
+    },
+    "China": {
+      "id": 6,
+      "GDP": 14722731,
+      "Population": 1439323776,
+      "Area": 9596961,
+      "Category": "First World"
+    },
+    "Japan": {
+      "id": 7,
+      "GDP": 5082462,
+      "Population": 126476461,
+      "Area": 377975,
+      "Category": "First World"
+    },
+    "South Korea": {
+      "id": 8,
+      "GDP": 1648442,
+      "Population": 51269185,
+      "Area": 100210,
+      "Category": "First World"
+    },
+    "Australia": {
+      "id": 9,
+      "GDP": 1332025,
+      "Population": 25687041,
+      "Area": 7692024,
+      "Category": "First World"
+    },
+    "New Zealand": {
+      "id": 10,
+      "GDP": 235514,
+      "Population": 4822233,
+      "Area": 268838,
+      "Category": "First World"
+    }
+  },
+  "Second World": {
+    "Russia": {
+      "id": 11,
+      "GDP": 1710000,
+      "Population": 146171015,
+      "Area": 17098242,
+      "Category": "Second World"
+    },
+    "Turkey": {
+      "id": 12,
+      "GDP": 720101,
+      "Population": 84339067,
+      "Area": 783356,
+      "Category": "Second World"
+    },
+    "India": {
+      "id": 13,
+      "GDP": 3176300,
+      "Population": 1380004385,
+      "Area": 3287263,
+      "Category": "Second World"
+    },
+    "Pakistan": {
+      "id": 14,
+      "GDP": 347743,
+      "Population": 220892340,
+      "Area": 881913,
+      "Category": "Second World"
+    },
+    "Bangladesh": {
+      "id": 15,
+      "GDP": 416263,
+      "Population": 164689383,
+      "Area": 147570,
+      "Category": "Second World"
+    },
+    "Saudi Arabia": {
+      "id": 16,
+      "GDP": 793000,
+      "Population": 34813871,
+      "Area": 2149690,
+      "Category": "Second World"
+    },
+    "Iran": {
+      "id": 17,
+      "GDP": 610000,
+      "Population": 83992949,
+      "Area": 1648195,
+      "Category": "Second World"
+    },
+    "United Arab Emirates": {
+      "id": 18,
+      "GDP": 421142,
+      "Population": 9890400,
+      "Area": 83600,
+      "Category": "Second World"
+    },
+    "Indonesia": {
+      "id": 19,
+      "GDP": 1199286,
+      "Population": 273523615,
+      "Area": 1904569,
+      "Category": "Second World"
+    },
+    "Thailand": {
+      "id": 20,
+      "GDP": 543650,
+      "Population": 69799978,
+      "Area": 513120,
+      "Category": "Second World"
+    },
+    "Vietnam": {
+      "id": 21,
+      "GDP": 368395,
+      "Population": 97338579,
+      "Area": 331212,
+      "Category": "Second World"
+    }
+  },
+  "Third World": {
+    "Brazil": {
+      "id": 22,
+      "GDP": 2237159,
+      "Population": 213993437,
+      "Area": 8515767,
+      "Category": "Third World"
+    },
+    "Argentina": {
+      "id": 23,
+      "GDP": 491642,
+      "Population": 45195777,
+      "Area": 2780400,
+      "Category": "Third World"
+    },
+    "Colombia": {
+      "id": 24,
+      "GDP": 323803,
+      "Population": 50882891,
+      "Area": 1141748,
+      "Category": "Third World"
+    },
+    "Nigeria": {
+      "id": 25,
+      "GDP": 432293,
+      "Population": 206139589,
+      "Area": 923768,
+      "Category": "Third World"
+    },
+    "South Africa": {
+      "id": 26,
+      "GDP": 335345,
+      "Population": 59308690,
+      "Area": 1219090,
+      "Category": "Third World"
+    },
+    "Egypt": {
+      "id": 27,
+      "GDP": 394284,
+      "Population": 102334404,
+      "Area": 1002450,
+      "Category": "Third World"
+    },
+    "North Korea": {
+      "id": 28,
+      "GDP": 45000,
+      "Population": 25650000,
+      "Area": 120540,
+      "Category": "Third World"
+    },
+    "Mongolia": {
+      "id": 29,
+      "GDP": 13000,
+      "Population": 3278290,
+      "Area": 1564116,
+      "Category": "Third World"
+    },
+    "Taiwan": {
+      "id": 30,
+      "GDP": 668501,
+      "Population": 23500000,
+      "Area": 36193,
+      "Category": "Third World"
+    },
+    "Malaysia": {
+      "id": 31,
+      "GDP": 364600,
+      "Population": 32365999,
+      "Area": 330803,
+      "Category": "Third World"
+    }
+  }
+}
