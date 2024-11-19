@@ -1,0 +1,101 @@
+[
+  {
+    "id": 3,
+    "name": "Planet Z",
+    "population": 8000,
+    "resources": {
+      "minerals": 400,
+      "energy": 600,
+      "food": 350
+    },
+    "happiness": 85,
+    "player": "PlayerOne",
+    "biomes": [
+      {
+        "name": "Forest",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Desert",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Mountain",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Ocean",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Swamp",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Tundra",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Grassland",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Volcanic",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Tropical Rainforest",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Arctic",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Savanna",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Steppe",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Canyon",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Meadow",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Marsh",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Cave System",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      },
+      {
+        "name": "Crater",
+        "slotCount": 8,
+        "industryslots": ["empty"]
+      }
+    ]
+  }
+]
